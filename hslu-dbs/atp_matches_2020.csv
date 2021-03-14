@@ -1,0 +1,762 @@
+location,tournament,match_date,series,court,surface,round,best_of,winner,loser,wrank,lrank,wpts,lpts,w1,l1,w2,l2,w3,l3,w4,l4,w5,l5,tourney_id
+Doha,Qatar Exxon Mobil Open,2020-01-06,ATP250,Outdoor,Hard,1st Round,3,Bublik A.,Mannarino A.,55.0,43.0,919.0,1111.0,6,3,6,4,0,0,0,0,0,0,2020-001
+Doha,Qatar Exxon Mobil Open,2020-01-06,ATP250,Outdoor,Hard,1st Round,3,Moutet C.,Sandgren T.,81.0,68.0,638.0,803.0,7,6,6,4,0,0,0,0,0,0,2020-001
+Doha,Qatar Exxon Mobil Open,2020-01-06,ATP250,Outdoor,Hard,1st Round,3,Verdasco F.,Andujar P.,49.0,64.0,1025.0,867.0,6,4,6,3,0,0,0,0,0,0,2020-001
+Doha,Qatar Exxon Mobil Open,2020-01-06,ATP250,Outdoor,Hard,1st Round,3,Bedene A.,Ymer M.,58.0,76.0,905.0,681.0,3,6,6,4,6,3,0,0,0,0,2020-001
+Doha,Qatar Exxon Mobil Open,2020-01-06,ATP250,Outdoor,Hard,1st Round,3,Chardy J.,Barrere G.,54.0,83.0,920.0,636.0,6,3,3,6,6,3,0,0,0,0,2020-001
+Doha,Qatar Exxon Mobil Open,2020-01-06,ATP250,Outdoor,Hard,1st Round,3,Kecmanovic M.,Thompson J.,62.0,63.0,881.0,878.0,6,4,6,2,0,0,0,0,0,0,2020-001
+Doha,Qatar Exxon Mobil Open,2020-01-06,ATP250,Outdoor,Hard,1st Round,3,Krajinovic F.,Edmund K.,40.0,69.0,1148.0,800.0,4,6,6,3,6,3,0,0,0,0,2020-001
+Doha,Qatar Exxon Mobil Open,2020-01-07,ATP250,Outdoor,Hard,1st Round,3,Djere L.,Sonego L.,39.0,51.0,1151.0,990.0,6,1,3,6,6,2,0,0,0,0,2020-001
+Doha,Qatar Exxon Mobil Open,2020-01-07,ATP250,Outdoor,Hard,1st Round,3,Fucsovics M.,Tiafoe F.,70.0,47.0,790.0,1050.0,6,4,4,6,6,4,0,0,0,0,2020-001
+Doha,Qatar Exxon Mobil Open,2020-01-07,ATP250,Outdoor,Hard,1st Round,3,Ilkel C.,Berankis R.,279.0,67.0,144.0,804.0,6,2,4,6,6,2,0,0,0,0,2020-001
+Doha,Qatar Exxon Mobil Open,2020-01-07,ATP250,Outdoor,Hard,1st Round,3,Kukushkin M.,Jaziri M.,66.0,229.0,816.0,206.0,6,0,6,3,0,0,0,0,0,0,2020-001
+Doha,Qatar Exxon Mobil Open,2020-01-07,ATP250,Outdoor,Hard,1st Round,3,Herbert P.H.,Cecchinato M.,65.0,75.0,840.0,690.0,6,3,6,4,0,0,0,0,0,0,2020-001
+Doha,Qatar Exxon Mobil Open,2020-01-07,ATP250,Outdoor,Hard,2nd Round,3,Bedene A.,Bublik A.,58.0,55.0,905.0,919.0,6,3,7,5,0,0,0,0,0,0,2020-001
+Doha,Qatar Exxon Mobil Open,2020-01-07,ATP250,Outdoor,Hard,2nd Round,3,Wawrinka S.,Chardy J.,15.0,54.0,1955.0,920.0,6,3,6,4,0,0,0,0,0,0,2020-001
+Doha,Qatar Exxon Mobil Open,2020-01-08,ATP250,Outdoor,Hard,2nd Round,3,Rublev A.,Kukushkin M.,23.0,66.0,1584.0,816.0,6,4,6,2,0,0,0,0,0,0,2020-001
+Doha,Qatar Exxon Mobil Open,2020-01-08,ATP250,Outdoor,Hard,2nd Round,3,Fucsovics M.,Ilkel C.,70.0,279.0,790.0,144.0,6,1,6,4,0,0,0,0,0,0,2020-001
+Doha,Qatar Exxon Mobil Open,2020-01-08,ATP250,Outdoor,Hard,2nd Round,3,Verdasco F.,Krajinovic F.,49.0,40.0,1025.0,1148.0,7,5,4,6,6,0,0,0,0,0,2020-001
+Doha,Qatar Exxon Mobil Open,2020-01-08,ATP250,Outdoor,Hard,2nd Round,3,Herbert P.H.,Djere L.,65.0,39.0,840.0,1151.0,6,1,6,3,0,0,0,0,0,0,2020-001
+Doha,Qatar Exxon Mobil Open,2020-01-08,ATP250,Outdoor,Hard,2nd Round,3,Kecmanovic M.,Tsonga J.W.,62.0,30.0,881.0,1340.0,7,6,6,1,0,0,0,0,0,0,2020-001
+Doha,Qatar Exxon Mobil Open,2020-01-08,ATP250,Outdoor,Hard,2nd Round,3,Moutet C.,Raonic M.,81.0,32.0,638.0,1305.0,7,6,7,6,0,0,0,0,0,0,2020-001
+Doha,Qatar Exxon Mobil Open,2020-01-09,ATP250,Outdoor,Hard,Quarterfinals,3,Kecmanovic M.,Fucsovics M.,62.0,70.0,881.0,790.0,6,2,6,0,0,0,0,0,0,0,2020-001
+Doha,Qatar Exxon Mobil Open,2020-01-10,ATP250,Outdoor,Hard,Quarterfinals,3,Rublev A.,Herbert P.H.,23.0,65.0,1584.0,840.0,6,4,6,3,0,0,0,0,0,0,2020-001
+Doha,Qatar Exxon Mobil Open,2020-01-10,ATP250,Outdoor,Hard,Quarterfinals,3,Moutet C.,Verdasco F.,81.0,49.0,638.0,1025.0,6,4,4,6,6,4,0,0,0,0,2020-001
+Doha,Qatar Exxon Mobil Open,2020-01-10,ATP250,Outdoor,Hard,Quarterfinals,3,Wawrinka S.,Bedene A.,15.0,58.0,1955.0,905.0,6,3,6,4,0,0,0,0,0,0,2020-001
+Doha,Qatar Exxon Mobil Open,2020-01-10,ATP250,Outdoor,Hard,Semifinals,3,Rublev A.,Kecmanovic M.,23.0,62.0,1584.0,881.0,6,3,6,1,0,0,0,0,0,0,2020-001
+Doha,Qatar Exxon Mobil Open,2020-01-10,ATP250,Outdoor,Hard,Semifinals,3,Moutet C.,Wawrinka S.,81.0,15.0,638.0,1955.0,3,6,7,5,6,3,0,0,0,0,2020-001
+Doha,Qatar Exxon Mobil Open,2020-01-11,ATP250,Outdoor,Hard,The Final,3,Rublev A.,Moutet C.,23.0,81.0,1584.0,638.0,6,2,7,6,0,0,0,0,0,0,2020-001
+Auckland,ASB Classic,2020-01-12,ATP250,Outdoor,Hard,1st Round,3,Bublik A.,Fritz T.,55.0,32.0,934.0,1335.0,6,4,7,6,0,0,0,0,0,0,2020-002
+Auckland,ASB Classic,2020-01-12,ATP250,Outdoor,Hard,1st Round,3,Cuevas P.,Opelka R.,44.0,38.0,1097.0,1227.0,5,7,7,6,7,6,0,0,0,0,2020-002
+Auckland,ASB Classic,2020-01-12,ATP250,Outdoor,Hard,1st Round,3,Djere L.,Popyrin A.,40.0,95.0,1165.0,585.0,7,6,3,6,6,4,0,0,0,0,2020-002
+Auckland,ASB Classic,2020-01-13,ATP250,Outdoor,Hard,1st Round,3,Chardy J.,Simon G.,56.0,60.0,920.0,890.0,6,3,7,5,0,0,0,0,0,0,2020-002
+Auckland,ASB Classic,2020-01-13,ATP250,Outdoor,Hard,1st Round,3,Evans D.,Londero J.I.,33.0,51.0,1324.0,1017.0,6,2,6,4,0,0,0,0,0,0,2020-002
+Auckland,ASB Classic,2020-01-13,ATP250,Outdoor,Hard,1st Round,3,Harris L.,Garin C.,91.0,36.0,594.0,1285.0,7,6,3,6,6,4,0,0,0,0,2020-002
+Auckland,ASB Classic,2020-01-13,ATP250,Outdoor,Hard,1st Round,3,Querrey S.,Barrere G.,45.0,82.0,1080.0,643.0,6,7,6,2,7,6,0,0,0,0,2020-002
+Auckland,ASB Classic,2020-01-13,ATP250,Outdoor,Hard,1st Round,3,Duckworth J.,Delbonis F.,96.0,73.0,576.0,709.0,6,4,6,4,0,0,0,0,0,0,2020-002
+Auckland,ASB Classic,2020-01-14,ATP250,Outdoor,Hard,1st Round,3,Paul T.,Bedene A.,90.0,54.0,600.0,950.0,6,4,6,4,0,0,0,0,0,0,2020-002
+Auckland,ASB Classic,2020-01-14,ATP250,Outdoor,Hard,1st Round,3,Ramos-Vinolas A.,Thompson J.,42.0,65.0,1130.0,843.0,6,4,6,7,6,3,0,0,0,0,2020-002
+Auckland,ASB Classic,2020-01-14,ATP250,Outdoor,Hard,1st Round,3,Struff J.L.,Caruso S.,37.0,94.0,1270.0,586.0,6,4,6,2,0,0,0,0,0,0,2020-002
+Auckland,ASB Classic,2020-01-14,ATP250,Outdoor,Hard,1st Round,3,Bolt A.,Robert S.,157.0,661.0,332.0,30.0,6,4,2,6,6,0,0,0,0,0,2020-002
+Auckland,ASB Classic,2020-01-14,ATP250,Outdoor,Hard,2nd Round,3,Evans D.,Bublik A.,33.0,55.0,1324.0,934.0,7,5,6,2,0,0,0,0,0,0,2020-002
+Auckland,ASB Classic,2020-01-15,ATP250,Outdoor,Hard,2nd Round,3,Harris L.,Djere L.,91.0,40.0,594.0,1165.0,7,6,6,3,0,0,0,0,0,0,2020-002
+Auckland,ASB Classic,2020-01-15,ATP250,Outdoor,Hard,2nd Round,3,Rublev A.,Querrey S.,18.0,45.0,1799.0,1080.0,6,3,6,3,0,0,0,0,0,0,2020-002
+Auckland,ASB Classic,2020-01-15,ATP250,Outdoor,Hard,2nd Round,3,Paul T.,Cuevas P.,90.0,44.0,600.0,1097.0,6,1,6,2,0,0,0,0,0,0,2020-002
+Auckland,ASB Classic,2020-01-15,ATP250,Outdoor,Hard,2nd Round,3,Carreno Busta P.,Chardy J.,30.0,56.0,1377.0,920.0,6,3,6,2,0,0,0,0,0,0,2020-002
+Auckland,ASB Classic,2020-01-15,ATP250,Outdoor,Hard,2nd Round,3,Ramos-Vinolas A.,Munar J.,42.0,88.0,1130.0,608.0,7,6,6,3,0,0,0,0,0,0,2020-002
+Auckland,ASB Classic,2020-01-15,ATP250,Outdoor,Hard,2nd Round,3,Bolt A.,Struff J.L.,157.0,37.0,332.0,1270.0,6,3,6,4,0,0,0,0,0,0,2020-002
+Auckland,ASB Classic,2020-01-15,ATP250,Outdoor,Hard,2nd Round,3,Auger-Aliassime F.,Duckworth J.,22.0,96.0,1656.0,576.0,6,3,7,6,0,0,0,0,0,0,2020-002
+Auckland,ASB Classic,2020-01-16,ATP250,Outdoor,Hard,Quarterfinals,3,Harris L.,Carreno Busta P.,91.0,30.0,594.0,1377.0,6,3,6,3,0,0,0,0,0,0,2020-002
+Auckland,ASB Classic,2020-01-16,ATP250,Outdoor,Hard,Quarterfinals,3,Rublev A.,Evans D.,18.0,33.0,1799.0,1324.0,6,4,3,6,6,3,0,0,0,0,2020-002
+Auckland,ASB Classic,2020-01-16,ATP250,Outdoor,Hard,Quarterfinals,3,Paul T.,Ramos-Vinolas A.,90.0,42.0,600.0,1130.0,6,3,6,4,0,0,0,0,0,0,2020-002
+Auckland,ASB Classic,2020-01-16,ATP250,Outdoor,Hard,Quarterfinals,3,Auger-Aliassime F.,Bolt A.,22.0,157.0,1656.0,332.0,6,3,6,0,0,0,0,0,0,0,2020-002
+Auckland,ASB Classic,2020-01-17,ATP250,Outdoor,Hard,Semifinals,3,Harris L.,Paul T.,91.0,90.0,594.0,600.0,6,4,6,7,6,3,0,0,0,0,2020-002
+Auckland,ASB Classic,2020-01-17,ATP250,Outdoor,Hard,Semifinals,3,Rublev A.,Auger-Aliassime F.,18.0,22.0,1799.0,1656.0,7,6,6,7,6,4,0,0,0,0,2020-002
+Auckland,ASB Classic,2020-01-18,ATP250,Outdoor,Hard,The Final,3,Rublev A.,Harris L.,18.0,91.0,1799.0,594.0,6,3,6,0,0,0,0,0,0,0,2020-002
+Adelaide,Adelaide International,2020-01-13,ATP250,Outdoor,Hard,1st Round,3,Hurkacz H.,Sonego L.,34.0,52.0,1318.0,990.0,7,5,6,3,0,0,0,0,0,0,2020-003
+Adelaide,Adelaide International,2020-01-13,ATP250,Outdoor,Hard,1st Round,3,Sandgren T.,Venus M.,101.0,,553.0,,6,4,6,3,0,0,0,0,0,0,2020-003
+Adelaide,Adelaide International,2020-01-13,ATP250,Outdoor,Hard,1st Round,3,Monteiro T.,Norrie C.,86.0,62.0,616.0,885.0,7,6,6,2,0,0,0,0,0,0,2020-003
+Adelaide,Adelaide International,2020-01-13,ATP250,Outdoor,Hard,1st Round,3,Humbert U.,Ruud C.,57.0,46.0,900.0,1079.0,7,6,2,6,6,3,0,0,0,0,2020-003
+Adelaide,Adelaide International,2020-01-13,ATP250,Outdoor,Hard,1st Round,3,Paire B.,Sinner J.,24.0,79.0,1598.0,671.0,6,4,2,6,6,4,0,0,0,0,2020-003
+Adelaide,Adelaide International,2020-01-13,ATP250,Outdoor,Hard,1st Round,3,Ymer M.,Tiafoe F.,77.0,49.0,685.0,1050.0,6,4,5,7,6,1,0,0,0,0,2020-003
+Adelaide,Adelaide International,2020-01-14,ATP250,Outdoor,Hard,1st Round,3,Pospisil V.,Sousa J.,146.0,58.0,360.0,891.0,6,4,6,2,0,0,0,0,0,0,2020-003
+Adelaide,Adelaide International,2020-01-14,ATP250,Outdoor,Hard,1st Round,3,Edmund K.,Davidovich Fokina A.,69.0,85.0,800.0,627.0,6,2,4,6,6,3,0,0,0,0,2020-003
+Adelaide,Adelaide International,2020-01-14,ATP250,Outdoor,Hard,1st Round,3,Millman J.,Mmoh M.,47.0,227.0,1071.0,207.0,7,6,6,4,0,0,0,0,0,0,2020-003
+Adelaide,Adelaide International,2020-01-15,ATP250,Outdoor,Hard,1st Round,3,Seppi A.,Mannarino A.,84.0,43.0,636.0,1111.0,3,6,6,4,6,4,0,0,0,0,2020-003
+Adelaide,Adelaide International,2020-01-15,ATP250,Outdoor,Hard,1st Round,3,Lopez F.,Andujar P.,61.0,63.0,888.0,867.0,3,6,7,6,6,4,0,0,0,0,2020-003
+Adelaide,Adelaide International,2020-01-15,ATP250,Outdoor,Hard,1st Round,3,Cecchinato M.,Mayer L.,76.0,100.0,690.0,558.0,7,6,6,7,7,6,0,0,0,0,2020-003
+Adelaide,Adelaide International,2020-01-15,ATP250,Outdoor,Hard,2nd Round,3,Isner J.,Sandgren T.,20.0,101.0,1770.0,553.0,7,6,6,7,6,3,0,0,0,0,2020-003
+Adelaide,Adelaide International,2020-01-15,ATP250,Outdoor,Hard,2nd Round,3,Hurkacz H.,Ymer M.,34.0,77.0,1318.0,685.0,6,2,7,6,0,0,0,0,0,0,2020-003
+Adelaide,Adelaide International,2020-01-15,ATP250,Outdoor,Hard,2nd Round,3,Paire B.,Monteiro T.,24.0,86.0,1598.0,616.0,4,6,6,4,6,3,0,0,0,0,2020-003
+Adelaide,Adelaide International,2020-01-15,ATP250,Outdoor,Hard,2nd Round,3,Lopez F.,Fognini F.,61.0,12.0,888.0,2310.0,3,6,6,4,6,3,0,0,0,0,2020-003
+Adelaide,Adelaide International,2020-01-15,ATP250,Outdoor,Hard,2nd Round,3,Edmund K.,Seppi A.,69.0,84.0,800.0,636.0,6,3,7,6,0,0,0,0,0,0,2020-003
+Adelaide,Adelaide International,2020-01-15,ATP250,Outdoor,Hard,2nd Round,3,Humbert U.,Cecchinato M.,57.0,76.0,900.0,690.0,6,1,6,4,0,0,0,0,0,0,2020-003
+Adelaide,Adelaide International,2020-01-15,ATP250,Outdoor,Hard,2nd Round,3,Shapovalov D.,Pospisil V.,13.0,146.0,2200.0,360.0,6,4,7,6,0,0,0,0,0,0,2020-003
+Adelaide,Adelaide International,2020-01-15,ATP250,Outdoor,Hard,2nd Round,3,Millman J.,Khachanov K.,47.0,16.0,1071.0,1995.0,4,6,6,3,6,3,0,0,0,0,2020-003
+Adelaide,Adelaide International,2020-01-16,ATP250,Outdoor,Hard,Quarterfinals,3,Isner J.,Edmund K.,20.0,69.0,1770.0,800.0,7,6,7,6,0,0,0,0,0,0,2020-003
+Adelaide,Adelaide International,2020-01-16,ATP250,Outdoor,Hard,Quarterfinals,3,Humbert U.,Shapovalov D.,57.0,13.0,900.0,2200.0,7,5,6,4,0,0,0,0,0,0,2020-003
+Adelaide,Adelaide International,2020-01-16,ATP250,Outdoor,Hard,Quarterfinals,3,Paire B.,Millman J.,24.0,47.0,1598.0,1071.0,3,6,6,1,6,4,0,0,0,0,2020-003
+Adelaide,Adelaide International,2020-01-16,ATP250,Outdoor,Hard,Quarterfinals,3,Hurkacz H.,Lopez F.,34.0,61.0,1318.0,888.0,6,4,6,7,6,4,0,0,0,0,2020-003
+Adelaide,Adelaide International,2020-01-17,ATP250,Outdoor,Hard,Semifinals,3,Humbert U.,Isner J.,57.0,20.0,900.0,1770.0,7,6,6,4,0,0,0,0,0,0,2020-003
+Adelaide,Adelaide International,2020-01-17,ATP250,Outdoor,Hard,Semifinals,3,Paire B.,Hurkacz H.,24.0,34.0,1598.0,1318.0,6,4,6,7,6,2,0,0,0,0,2020-003
+Adelaide,Adelaide International,2020-01-18,ATP250,Outdoor,Hard,The Final,3,Humbert U.,Paire B.,57.0,24.0,900.0,1598.0,7,6,3,6,7,6,0,0,0,0,2020-003
+Melbourne,Australian Open,2020-01-20,Grand Slam,Outdoor,Hard,1st Round,5,Berrettini M.,Harris A.,8.0,162.0,2870.0,316.0,6,3,6,1,6,3,0,0,0,0,2020-004
+Melbourne,Australian Open,2020-01-20,Grand Slam,Outdoor,Hard,1st Round,5,Berankis R.,Carballes Baena R.,69.0,83.0,804.0,664.0,6,4,6,2,6,2,0,0,0,0,2020-004
+Melbourne,Australian Open,2020-01-20,Grand Slam,Outdoor,Hard,1st Round,5,Evans D.,Mcdonald M.,32.0,129.0,1349.0,419.0,3,6,4,6,6,1,6,2,6,3,2020-004
+Melbourne,Australian Open,2020-01-20,Grand Slam,Outdoor,Hard,1st Round,5,Nishioka Y.,Djere L.,71.0,40.0,797.0,1185.0,6,4,3,6,6,2,7,6,0,0,2020-004
+Melbourne,Australian Open,2020-01-20,Grand Slam,Outdoor,Hard,1st Round,5,Pella G.,Smith J.P.,25.0,308.0,1585.0,130.0,6,3,7,5,6,4,0,0,0,0,2020-004
+Melbourne,Australian Open,2020-01-20,Grand Slam,Outdoor,Hard,1st Round,5,Querrey S.,Coric B.,45.0,28.0,1100.0,1490.0,6,3,6,4,6,4,0,0,0,0,2020-004
+Melbourne,Australian Open,2020-01-20,Grand Slam,Outdoor,Hard,1st Round,5,Barrere G.,Safwat M.,84.0,173.0,649.0,291.0,6,7,7,6,6,4,7,6,0,0,2020-004
+Melbourne,Australian Open,2020-01-20,Grand Slam,Outdoor,Hard,1st Round,5,Fucsovics M.,Shapovalov D.,67.0,13.0,827.0,2200.0,6,3,6,7,6,1,7,6,0,0,2020-004
+Melbourne,Australian Open,2020-01-20,Grand Slam,Outdoor,Hard,1st Round,5,Federer R.,Johnson S.,3.0,75.0,6590.0,720.0,6,3,6,2,6,2,0,0,0,0,2020-004
+Melbourne,Australian Open,2020-01-20,Grand Slam,Outdoor,Hard,1st Round,5,Dimitrov G.,Londero J.I.,20.0,52.0,1772.0,1017.0,4,6,6,2,6,0,6,4,0,0,2020-004
+Melbourne,Australian Open,2020-01-20,Grand Slam,Outdoor,Hard,1st Round,5,Tsitsipas S.,Caruso S.,6.0,95.0,5375.0,586.0,6,0,6,2,6,3,0,0,0,0,2020-004
+Melbourne,Australian Open,2020-01-20,Grand Slam,Outdoor,Hard,1st Round,5,Kohlschreiber P.,Giron M.,79.0,107.0,700.0,521.0,7,5,6,1,6,2,0,0,0,0,2020-004
+Melbourne,Australian Open,2020-01-20,Grand Slam,Outdoor,Hard,1st Round,5,Djokovic N.,Struff J.L.,2.0,37.0,9720.0,1270.0,7,6,6,2,2,6,6,1,0,0,2020-004
+Melbourne,Australian Open,2020-01-21,Grand Slam,Outdoor,Hard,1st Round,5,Cilic M.,Moutet C.,39.0,70.0,1205.0,800.0,6,3,6,2,6,4,0,0,0,0,2020-004
+Melbourne,Australian Open,2020-01-21,Grand Slam,Outdoor,Hard,1st Round,5,Davidovich Fokina A.,Gombos N.,88.0,113.0,627.0,498.0,4,6,6,4,2,6,6,3,6,2,2020-004
+Melbourne,Australian Open,2020-01-21,Grand Slam,Outdoor,Hard,1st Round,5,Hurkacz H.,Novak D.,31.0,99.0,1398.0,574.0,6,7,1,6,6,2,6,3,6,4,2020-004
+Melbourne,Australian Open,2020-01-21,Grand Slam,Outdoor,Hard,1st Round,5,Ito T.,Gunneswaran P.,146.0,123.0,362.0,442.0,6,4,6,2,7,5,0,0,0,0,2020-004
+Melbourne,Australian Open,2020-01-21,Grand Slam,Outdoor,Hard,1st Round,5,Millman J.,Humbert U.,47.0,43.0,1096.0,1130.0,7,6,6,3,1,6,7,5,0,0,2020-004
+Melbourne,Australian Open,2020-01-21,Grand Slam,Outdoor,Hard,1st Round,5,Paire B.,Stebe C.M.,21.0,154.0,1703.0,340.0,6,4,3,6,6,3,6,7,6,0,2020-004
+Melbourne,Australian Open,2020-01-21,Grand Slam,Outdoor,Hard,1st Round,5,Schwartzman D.,Harris L.,14.0,72.0,2130.0,746.0,6,4,6,2,6,2,0,0,0,0,2020-004
+Melbourne,Australian Open,2020-01-21,Grand Slam,Outdoor,Hard,1st Round,5,Bautista Agut R.,Lopez F.,9.0,57.0,2630.0,933.0,6,2,6,2,7,5,0,0,0,0,2020-004
+Melbourne,Australian Open,2020-01-21,Grand Slam,Outdoor,Hard,1st Round,5,Fognini F.,Opelka R.,12.0,38.0,2310.0,1227.0,3,6,6,7,6,4,6,3,7,6,2020-004
+Melbourne,Australian Open,2020-01-21,Grand Slam,Outdoor,Hard,1st Round,5,Sinner J.,Purcell M.,82.0,216.0,671.0,221.0,7,6,6,2,6,4,0,0,0,0,2020-004
+Melbourne,Australian Open,2020-01-21,Grand Slam,Outdoor,Hard,1st Round,5,Lajovic D.,Edmund K.,27.0,65.0,1516.0,845.0,7,6,6,3,7,6,0,0,0,0,2020-004
+Melbourne,Australian Open,2020-01-21,Grand Slam,Outdoor,Hard,1st Round,5,Polmans M.,Kukushkin M.,133.0,68.0,411.0,816.0,6,4,6,3,4,6,6,7,6,4,2020-004
+Melbourne,Australian Open,2020-01-21,Grand Slam,Outdoor,Hard,1st Round,5,Raonic M.,Giustino L.,35.0,150.0,1305.0,347.0,6,2,6,1,6,3,0,0,0,0,2020-004
+Melbourne,Australian Open,2020-01-21,Grand Slam,Outdoor,Hard,1st Round,5,Paul T.,Mayer L.,80.0,101.0,696.0,564.0,4,6,6,4,6,4,6,4,0,0,2020-004
+Melbourne,Australian Open,2020-01-21,Grand Slam,Outdoor,Hard,1st Round,5,Khachanov K.,Vilella Martinez M.,17.0,196.0,1995.0,254.0,4,6,6,4,7,6,6,3,0,0,2020-004
+Melbourne,Australian Open,2020-01-21,Grand Slam,Outdoor,Hard,1st Round,5,Thiem D.,Mannarino A.,5.0,44.0,5890.0,1111.0,6,3,7,5,6,2,0,0,0,0,2020-004
+Melbourne,Australian Open,2020-01-21,Grand Slam,Outdoor,Hard,1st Round,5,Garin C.,Travaglia S.,36.0,74.0,1285.0,730.0,6,4,6,3,6,4,0,0,0,0,2020-004
+Melbourne,Australian Open,2020-01-21,Grand Slam,Outdoor,Hard,1st Round,5,Sandgren T.,Trungelliti M.,100.0,202.0,573.0,238.0,6,1,6,4,7,5,0,0,0,0,2020-004
+Melbourne,Australian Open,2020-01-21,Grand Slam,Outdoor,Hard,1st Round,5,Wawrinka S.,Dzumhur D.,15.0,92.0,2045.0,594.0,7,5,6,7,6,4,6,4,0,0,2020-004
+Melbourne,Australian Open,2020-01-21,Grand Slam,Outdoor,Hard,1st Round,5,Gulbis E.,Auger-Aliassime F.,256.0,22.0,179.0,1701.0,7,5,4,6,7,6,6,4,0,0,2020-004
+Melbourne,Australian Open,2020-01-21,Grand Slam,Outdoor,Hard,1st Round,5,Krajinovic F.,Halys Q.,41.0,215.0,1158.0,222.0,7,6,7,6,3,6,4,6,7,5,2020-004
+Melbourne,Australian Open,2020-01-21,Grand Slam,Outdoor,Hard,1st Round,5,Thompson J.,Bublik A.,66.0,56.0,843.0,948.0,6,4,6,3,6,2,0,0,0,0,2020-004
+Melbourne,Australian Open,2020-01-21,Grand Slam,Outdoor,Hard,1st Round,5,Bedene A.,Duckworth J.,55.0,94.0,950.0,588.0,6,4,6,7,6,7,6,2,6,4,2020-004
+Melbourne,Australian Open,2020-01-21,Grand Slam,Outdoor,Hard,1st Round,5,Carreno Busta P.,Kovalik J.,30.0,139.0,1422.0,379.0,6,4,3,6,6,1,7,6,0,0,2020-004
+Melbourne,Australian Open,2020-01-21,Grand Slam,Outdoor,Hard,1st Round,5,Nadal R.,Dellien H.,1.0,73.0,10235.0,743.0,6,2,6,3,6,0,0,0,0,0,2020-004
+Melbourne,Australian Open,2020-01-21,Grand Slam,Outdoor,Hard,1st Round,5,Ymer M.,Uchiyama Y.,78.0,93.0,709.0,594.0,6,4,6,1,6,2,0,0,0,0,2020-004
+Melbourne,Australian Open,2020-01-21,Grand Slam,Outdoor,Hard,1st Round,5,Mmoh M.,Andujar P.,217.0,63.0,219.0,867.0,6,1,6,4,6,4,0,0,0,0,2020-004
+Melbourne,Australian Open,2020-01-21,Grand Slam,Outdoor,Hard,1st Round,5,Basilashvili N.,Kwon S.W.,29.0,87.0,1485.0,637.0,6,7,6,4,7,5,3,6,6,3,2020-004
+Melbourne,Australian Open,2020-01-21,Grand Slam,Outdoor,Hard,1st Round,5,Verdasco F.,Donskoy E.,51.0,106.0,1050.0,522.0,7,5,6,2,6,1,0,0,0,0,2020-004
+Melbourne,Australian Open,2020-01-21,Grand Slam,Outdoor,Hard,1st Round,5,Bolt A.,Ramos-Vinolas A.,140.0,42.0,377.0,1130.0,7,6,1,6,6,7,6,1,6,4,2020-004
+Melbourne,Australian Open,2020-01-21,Grand Slam,Outdoor,Hard,1st Round,5,Seppi A.,Kecmanovic M.,85.0,54.0,646.0,959.0,6,4,6,4,7,6,0,0,0,0,2020-004
+Melbourne,Australian Open,2020-01-21,Grand Slam,Outdoor,Hard,1st Round,5,Popyrin A.,Tsonga J.W.,96.0,33.0,585.0,1340.0,6,7,6,2,6,1,0,0,0,0,2020-004
+Melbourne,Australian Open,2020-01-21,Grand Slam,Outdoor,Hard,1st Round,5,Rublev A.,O'Connell C.,16.0,115.0,2004.0,481.0,6,3,0,6,6,4,7,6,0,0,2020-004
+Melbourne,Australian Open,2020-01-21,Grand Slam,Outdoor,Hard,1st Round,5,Gojowczyk P.,Eubanks C.,120.0,221.0,463.0,215.0,7,6,6,3,4,6,6,0,0,0,2020-004
+Melbourne,Australian Open,2020-01-21,Grand Slam,Outdoor,Hard,1st Round,5,Sugita Y.,Benchetrit E.,91.0,231.0,608.0,205.0,6,2,6,0,6,3,0,0,0,0,2020-004
+Melbourne,Australian Open,2020-01-21,Grand Slam,Outdoor,Hard,1st Round,5,Herbert P.H.,Norrie C.,64.0,62.0,865.0,885.0,7,5,3,6,3,6,7,5,6,4,2020-004
+Melbourne,Australian Open,2020-01-21,Grand Slam,Outdoor,Hard,1st Round,5,Medvedev D.,Tiafoe F.,4.0,50.0,5960.0,1050.0,6,3,4,6,6,4,6,2,0,0,2020-004
+Melbourne,Australian Open,2020-01-21,Grand Slam,Outdoor,Hard,1st Round,5,Monfils G.,Lu Y.H.,10.0,,2565.0,,6,1,6,4,6,2,0,0,0,0,2020-004
+Melbourne,Australian Open,2020-01-21,Grand Slam,Outdoor,Hard,1st Round,5,Kyrgios N.,Sonego L.,26.0,53.0,1520.0,990.0,6,2,7,6,7,6,0,0,0,0,2020-004
+Melbourne,Australian Open,2020-01-21,Grand Slam,Outdoor,Hard,1st Round,5,Munar J.,Gaston H.,90.0,247.0,608.0,189.0,7,5,5,7,6,0,6,3,0,0,2020-004
+Melbourne,Australian Open,2020-01-21,Grand Slam,Outdoor,Hard,1st Round,5,Fritz T.,Griekspoor T.,34.0,175.0,1335.0,288.0,6,3,6,3,6,3,0,0,0,0,2020-004
+Melbourne,Australian Open,2020-01-21,Grand Slam,Outdoor,Hard,1st Round,5,Goffin D.,Chardy J.,11.0,58.0,2555.0,920.0,6,4,6,3,6,1,0,0,0,0,2020-004
+Melbourne,Australian Open,2020-01-21,Grand Slam,Outdoor,Hard,1st Round,5,Delbonis F.,Sousa J.,76.0,59.0,711.0,891.0,6,3,6,4,7,6,0,0,0,0,2020-004
+Melbourne,Australian Open,2020-01-21,Grand Slam,Outdoor,Hard,1st Round,5,Tabilo A.,Galan D.E.,208.0,186.0,233.0,269.0,4,6,6,3,6,4,6,7,6,4,2020-004
+Melbourne,Australian Open,2020-01-21,Grand Slam,Outdoor,Hard,1st Round,5,Zverev A.,Cecchinato M.,7.0,77.0,3345.0,710.0,6,4,7,6,6,3,0,0,0,0,2020-004
+Melbourne,Australian Open,2020-01-21,Grand Slam,Outdoor,Hard,1st Round,5,Isner J.,Monteiro T.,19.0,86.0,1860.0,640.0,6,7,7,6,7,6,7,6,0,0,2020-004
+Melbourne,Australian Open,2020-01-21,Grand Slam,Outdoor,Hard,1st Round,5,Martinez P.,Koepfer D.,168.0,89.0,300.0,609.0,6,3,6,4,7,5,0,0,0,0,2020-004
+Melbourne,Australian Open,2020-01-21,Grand Slam,Outdoor,Hard,1st Round,5,Anderson K.,Ivashka I.,122.0,149.0,445.0,354.0,6,4,2,6,4,6,6,4,7,6,2020-004
+Melbourne,Australian Open,2020-01-21,Grand Slam,Outdoor,Hard,1st Round,5,Karlovic I.,Pospisil V.,124.0,138.0,436.0,392.0,7,6,6,4,7,5,0,0,0,0,2020-004
+Melbourne,Australian Open,2020-01-21,Grand Slam,Outdoor,Hard,1st Round,5,Gerasimov E.,Ruud C.,98.0,48.0,575.0,1079.0,6,3,7,6,1,6,4,6,7,6,2020-004
+Melbourne,Australian Open,2020-01-21,Grand Slam,Outdoor,Hard,1st Round,5,Simon G.,Cuevas P.,61.0,46.0,890.0,1097.0,6,1,6,3,6,3,0,0,0,0,2020-004
+Melbourne,Australian Open,2020-01-22,Grand Slam,Outdoor,Hard,2nd Round,5,Querrey S.,Berankis R.,45.0,69.0,1100.0,804.0,7,6,4,6,6,4,6,4,0,0,2020-004
+Melbourne,Australian Open,2020-01-22,Grand Slam,Outdoor,Hard,2nd Round,5,Pella G.,Barrere G.,25.0,84.0,1585.0,649.0,6,1,6,4,3,6,6,3,0,0,2020-004
+Melbourne,Australian Open,2020-01-22,Grand Slam,Outdoor,Hard,2nd Round,5,Nishioka Y.,Evans D.,71.0,32.0,797.0,1349.0,6,4,6,3,6,4,0,0,0,0,2020-004
+Melbourne,Australian Open,2020-01-22,Grand Slam,Outdoor,Hard,2nd Round,5,Cilic M.,Paire B.,39.0,21.0,1205.0,1703.0,6,2,6,7,3,6,6,1,7,6,2020-004
+Melbourne,Australian Open,2020-01-22,Grand Slam,Outdoor,Hard,2nd Round,5,Schwartzman D.,Davidovich Fokina A.,14.0,88.0,2130.0,627.0,6,1,6,4,6,2,0,0,0,0,2020-004
+Melbourne,Australian Open,2020-01-22,Grand Slam,Outdoor,Hard,2nd Round,5,Fucsovics M.,Sinner J.,67.0,82.0,827.0,671.0,6,4,6,4,6,3,0,0,0,0,2020-004
+Melbourne,Australian Open,2020-01-22,Grand Slam,Outdoor,Hard,2nd Round,5,Djokovic N.,Ito T.,2.0,146.0,9720.0,362.0,6,1,6,4,6,2,0,0,0,0,2020-004
+Melbourne,Australian Open,2020-01-22,Grand Slam,Outdoor,Hard,2nd Round,5,Sandgren T.,Berrettini M.,100.0,8.0,573.0,2870.0,7,6,6,4,4,6,2,6,7,5,2020-004
+Melbourne,Australian Open,2020-01-22,Grand Slam,Outdoor,Hard,2nd Round,5,Tsitsipas S.,Kohlschreiber P.,6.0,79.0,5375.0,700.0,0,0,0,0,0,0,0,0,0,0,2020-004
+Melbourne,Australian Open,2020-01-22,Grand Slam,Outdoor,Hard,2nd Round,5,Paul T.,Dimitrov G.,80.0,20.0,696.0,1772.0,6,4,7,6,3,6,6,7,7,6,2020-004
+Melbourne,Australian Open,2020-01-22,Grand Slam,Outdoor,Hard,2nd Round,5,Raonic M.,Garin C.,35.0,36.0,1305.0,1285.0,6,3,6,4,6,2,0,0,0,0,2020-004
+Melbourne,Australian Open,2020-01-22,Grand Slam,Outdoor,Hard,2nd Round,5,Lajovic D.,Polmans M.,27.0,133.0,1516.0,411.0,6,2,6,4,6,3,0,0,0,0,2020-004
+Melbourne,Australian Open,2020-01-22,Grand Slam,Outdoor,Hard,2nd Round,5,Millman J.,Hurkacz H.,47.0,31.0,1096.0,1398.0,6,4,7,5,6,3,0,0,0,0,2020-004
+Melbourne,Australian Open,2020-01-22,Grand Slam,Outdoor,Hard,2nd Round,5,Bautista Agut R.,Mmoh M.,9.0,217.0,2630.0,219.0,5,7,6,2,6,4,6,1,0,0,2020-004
+Melbourne,Australian Open,2020-01-22,Grand Slam,Outdoor,Hard,2nd Round,5,Fognini F.,Thompson J.,12.0,66.0,2310.0,843.0,7,6,6,1,3,6,4,6,7,6,2020-004
+Melbourne,Australian Open,2020-01-22,Grand Slam,Outdoor,Hard,2nd Round,5,Federer R.,Krajinovic F.,3.0,41.0,6590.0,1158.0,6,1,6,4,6,1,0,0,0,0,2020-004
+Melbourne,Australian Open,2020-01-23,Grand Slam,Outdoor,Hard,2nd Round,5,Gulbis E.,Bedene A.,256.0,55.0,179.0,950.0,7,5,6,3,6,2,0,0,0,0,2020-004
+Melbourne,Australian Open,2020-01-23,Grand Slam,Outdoor,Hard,2nd Round,5,Medvedev D.,Martinez P.,4.0,168.0,5960.0,300.0,7,5,6,1,6,3,0,0,0,0,2020-004
+Melbourne,Australian Open,2020-01-23,Grand Slam,Outdoor,Hard,2nd Round,5,Thiem D.,Bolt A.,5.0,140.0,5890.0,377.0,6,2,5,7,6,7,6,1,6,2,2020-004
+Melbourne,Australian Open,2020-01-23,Grand Slam,Outdoor,Hard,2nd Round,5,Zverev A.,Gerasimov E.,7.0,98.0,3345.0,575.0,7,6,6,4,7,5,0,0,0,0,2020-004
+Melbourne,Australian Open,2020-01-23,Grand Slam,Outdoor,Hard,2nd Round,5,Popyrin A.,Munar J.,96.0,90.0,585.0,608.0,6,2,7,6,6,2,0,0,0,0,2020-004
+Melbourne,Australian Open,2020-01-23,Grand Slam,Outdoor,Hard,2nd Round,5,Monfils G.,Karlovic I.,10.0,124.0,2565.0,436.0,4,6,7,6,6,4,7,5,0,0,2020-004
+Melbourne,Australian Open,2020-01-23,Grand Slam,Outdoor,Hard,2nd Round,5,Rublev A.,Sugita Y.,16.0,91.0,2004.0,608.0,6,2,6,3,7,6,0,0,0,0,2020-004
+Melbourne,Australian Open,2020-01-23,Grand Slam,Outdoor,Hard,2nd Round,5,Verdasco F.,Basilashvili N.,51.0,29.0,1050.0,1485.0,4,6,7,6,6,4,6,4,0,0,2020-004
+Melbourne,Australian Open,2020-01-23,Grand Slam,Outdoor,Hard,2nd Round,5,Isner J.,Tabilo A.,19.0,208.0,1860.0,233.0,6,4,6,3,6,2,0,0,0,0,2020-004
+Melbourne,Australian Open,2020-01-23,Grand Slam,Outdoor,Hard,2nd Round,5,Goffin D.,Herbert P.H.,11.0,64.0,2555.0,865.0,6,1,6,4,4,6,1,6,6,3,2020-004
+Melbourne,Australian Open,2020-01-23,Grand Slam,Outdoor,Hard,2nd Round,5,Khachanov K.,Ymer M.,17.0,78.0,1995.0,709.0,6,2,2,6,6,4,3,6,7,6,2020-004
+Melbourne,Australian Open,2020-01-23,Grand Slam,Outdoor,Hard,2nd Round,5,Carreno Busta P.,Gojowczyk P.,30.0,120.0,1422.0,463.0,6,4,6,1,1,6,6,4,0,0,2020-004
+Melbourne,Australian Open,2020-01-23,Grand Slam,Outdoor,Hard,2nd Round,5,Kyrgios N.,Simon G.,26.0,61.0,1520.0,890.0,6,2,6,4,4,6,7,5,0,0,2020-004
+Melbourne,Australian Open,2020-01-23,Grand Slam,Outdoor,Hard,2nd Round,5,Wawrinka S.,Seppi A.,15.0,85.0,2045.0,646.0,4,6,7,5,6,3,3,6,6,4,2020-004
+Melbourne,Australian Open,2020-01-23,Grand Slam,Outdoor,Hard,2nd Round,5,Fritz T.,Anderson K.,34.0,122.0,1335.0,445.0,4,6,6,7,7,6,6,2,6,2,2020-004
+Melbourne,Australian Open,2020-01-23,Grand Slam,Outdoor,Hard,2nd Round,5,Nadal R.,Delbonis F.,1.0,76.0,10235.0,711.0,6,3,7,6,6,1,0,0,0,0,2020-004
+Melbourne,Australian Open,2020-01-24,Grand Slam,Outdoor,Hard,3rd Round,5,Schwartzman D.,Lajovic D.,14.0,27.0,2130.0,1516.0,6,2,6,3,7,6,0,0,0,0,2020-004
+Melbourne,Australian Open,2020-01-24,Grand Slam,Outdoor,Hard,3rd Round,5,Fucsovics M.,Paul T.,67.0,80.0,827.0,696.0,6,1,6,1,6,4,0,0,0,0,2020-004
+Melbourne,Australian Open,2020-01-24,Grand Slam,Outdoor,Hard,3rd Round,5,Cilic M.,Bautista Agut R.,39.0,9.0,1205.0,2630.0,6,7,6,4,6,0,5,7,6,3,2020-004
+Melbourne,Australian Open,2020-01-24,Grand Slam,Outdoor,Hard,3rd Round,5,Djokovic N.,Nishioka Y.,2.0,71.0,9720.0,797.0,6,3,6,2,6,2,0,0,0,0,2020-004
+Melbourne,Australian Open,2020-01-24,Grand Slam,Outdoor,Hard,3rd Round,5,Sandgren T.,Querrey S.,100.0,45.0,573.0,1100.0,6,4,6,4,6,4,0,0,0,0,2020-004
+Melbourne,Australian Open,2020-01-24,Grand Slam,Outdoor,Hard,3rd Round,5,Raonic M.,Tsitsipas S.,35.0,6.0,1305.0,5375.0,7,5,6,4,7,6,0,0,0,0,2020-004
+Melbourne,Australian Open,2020-01-24,Grand Slam,Outdoor,Hard,3rd Round,5,Fognini F.,Pella G.,12.0,25.0,2310.0,1585.0,7,6,6,2,6,3,0,0,0,0,2020-004
+Melbourne,Australian Open,2020-01-24,Grand Slam,Outdoor,Hard,3rd Round,5,Federer R.,Millman J.,3.0,47.0,6590.0,1096.0,4,6,7,6,6,4,4,6,7,6,2020-004
+Melbourne,Australian Open,2020-01-25,Grand Slam,Outdoor,Hard,3rd Round,5,Monfils G.,Gulbis E.,10.0,256.0,2565.0,179.0,7,6,6,4,6,3,0,0,0,0,2020-004
+Melbourne,Australian Open,2020-01-25,Grand Slam,Outdoor,Hard,3rd Round,5,Thiem D.,Fritz T.,5.0,34.0,5890.0,1335.0,6,2,6,4,6,7,6,4,0,0,2020-004
+Melbourne,Australian Open,2020-01-25,Grand Slam,Outdoor,Hard,3rd Round,5,Rublev A.,Goffin D.,16.0,11.0,2004.0,2555.0,2,6,7,6,6,4,7,6,0,0,2020-004
+Melbourne,Australian Open,2020-01-25,Grand Slam,Outdoor,Hard,3rd Round,5,Nadal R.,Carreno Busta P.,1.0,30.0,10235.0,1422.0,6,1,6,2,6,4,0,0,0,0,2020-004
+Melbourne,Australian Open,2020-01-25,Grand Slam,Outdoor,Hard,3rd Round,5,Wawrinka S.,Isner J.,15.0,19.0,2045.0,1860.0,6,4,4,1,0,0,0,0,0,0,2020-004
+Melbourne,Australian Open,2020-01-25,Grand Slam,Outdoor,Hard,3rd Round,5,Kyrgios N.,Khachanov K.,26.0,17.0,1520.0,1995.0,6,2,7,6,6,7,6,7,7,6,2020-004
+Melbourne,Australian Open,2020-01-25,Grand Slam,Outdoor,Hard,3rd Round,5,Zverev A.,Verdasco F.,7.0,51.0,3345.0,1050.0,6,2,6,2,6,4,0,0,0,0,2020-004
+Melbourne,Australian Open,2020-01-25,Grand Slam,Outdoor,Hard,3rd Round,5,Medvedev D.,Popyrin A.,4.0,96.0,5960.0,585.0,6,4,6,3,6,2,0,0,0,0,2020-004
+Melbourne,Australian Open,2020-01-26,Grand Slam,Outdoor,Hard,4th Round,5,Raonic M.,Cilic M.,35.0,39.0,1305.0,1205.0,6,4,6,3,7,5,0,0,0,0,2020-004
+Melbourne,Australian Open,2020-01-26,Grand Slam,Outdoor,Hard,4th Round,5,Djokovic N.,Schwartzman D.,2.0,14.0,9720.0,2130.0,6,3,6,4,6,4,0,0,0,0,2020-004
+Melbourne,Australian Open,2020-01-26,Grand Slam,Outdoor,Hard,4th Round,5,Sandgren T.,Fognini F.,100.0,12.0,573.0,2310.0,7,6,7,5,6,7,6,4,0,0,2020-004
+Melbourne,Australian Open,2020-01-26,Grand Slam,Outdoor,Hard,4th Round,5,Federer R.,Fucsovics M.,3.0,67.0,6590.0,827.0,4,6,6,1,6,2,6,2,0,0,2020-004
+Melbourne,Australian Open,2020-01-27,Grand Slam,Outdoor,Hard,4th Round,5,Thiem D.,Monfils G.,5.0,10.0,5890.0,2565.0,6,2,6,4,6,4,0,0,0,0,2020-004
+Melbourne,Australian Open,2020-01-27,Grand Slam,Outdoor,Hard,4th Round,5,Wawrinka S.,Medvedev D.,15.0,4.0,2045.0,5960.0,6,2,2,6,4,6,7,6,6,2,2020-004
+Melbourne,Australian Open,2020-01-27,Grand Slam,Outdoor,Hard,4th Round,5,Nadal R.,Kyrgios N.,1.0,26.0,10235.0,1520.0,6,3,3,6,7,6,7,6,0,0,2020-004
+Melbourne,Australian Open,2020-01-27,Grand Slam,Outdoor,Hard,4th Round,5,Zverev A.,Rublev A.,7.0,16.0,3345.0,2004.0,6,4,6,4,6,4,0,0,0,0,2020-004
+Melbourne,Australian Open,2020-01-28,Grand Slam,Outdoor,Hard,Quarterfinals,5,Federer R.,Sandgren T.,3.0,100.0,6590.0,573.0,6,3,2,6,2,6,7,6,6,3,2020-004
+Melbourne,Australian Open,2020-01-28,Grand Slam,Outdoor,Hard,Quarterfinals,5,Djokovic N.,Raonic M.,2.0,35.0,9720.0,1305.0,6,4,6,3,7,6,0,0,0,0,2020-004
+Melbourne,Australian Open,2020-01-29,Grand Slam,Outdoor,Hard,Quarterfinals,5,Zverev A.,Wawrinka S.,7.0,15.0,3345.0,2045.0,1,6,6,3,6,4,6,2,0,0,2020-004
+Melbourne,Australian Open,2020-01-29,Grand Slam,Outdoor,Hard,Quarterfinals,5,Thiem D.,Nadal R.,5.0,1.0,5890.0,10235.0,7,6,7,6,4,6,7,6,0,0,2020-004
+Melbourne,Australian Open,2020-01-30,Grand Slam,Outdoor,Hard,Semifinals,5,Djokovic N.,Federer R.,2.0,3.0,9720.0,6590.0,7,6,6,4,6,3,0,0,0,0,2020-004
+Melbourne,Australian Open,2020-01-31,Grand Slam,Outdoor,Hard,Semifinals,5,Thiem D.,Zverev A.,5.0,7.0,5890.0,3345.0,3,6,6,4,7,6,7,6,0,0,2020-004
+Melbourne,Australian Open,2020-02-02,Grand Slam,Outdoor,Hard,The Final,5,Djokovic N.,Thiem D.,2.0,5.0,9720.0,5890.0,6,4,4,6,2,6,6,3,6,4,2020-004
+Cordoba,Cordoba Open,2020-02-03,ATP250,Outdoor,Clay,1st Round,3,Balazs A.,Sonego L.,108.0,52.0,505.0,980.0,6,2,7,6,0,0,0,0,0,0,2020-005
+Cordoba,Cordoba Open,2020-02-03,ATP250,Outdoor,Clay,1st Round,3,Mager G.,Ficovich J.P.,133.0,244.0,401.0,196.0,6,2,3,6,6,2,0,0,0,0,2020-005
+Cordoba,Cordoba Open,2020-02-03,ATP250,Outdoor,Clay,1st Round,3,Cuevas P.,Delbonis F.,48.0,74.0,1062.0,746.0,7,5,6,2,0,0,0,0,0,0,2020-005
+Cordoba,Cordoba Open,2020-02-04,ATP250,Outdoor,Clay,1st Round,3,Taberner C.,Verdasco F.,198.0,49.0,252.0,1050.0,4,6,6,1,6,4,0,0,0,0,2020-005
+Cordoba,Cordoba Open,2020-02-04,ATP250,Outdoor,Clay,1st Round,3,Martin A.,Coria F.,100.0,116.0,551.0,466.0,7,6,6,4,0,0,0,0,0,0,2020-005
+Cordoba,Cordoba Open,2020-02-04,ATP250,Outdoor,Clay,1st Round,3,Martinez P.,Gaio F.,150.0,124.0,347.0,422.0,4,6,6,3,6,4,0,0,0,0,2020-005
+Cordoba,Cordoba Open,2020-02-04,ATP250,Outdoor,Clay,1st Round,3,Ramos-Vinolas A.,Bagnis F.,42.0,135.0,1130.0,392.0,6,4,7,6,0,0,0,0,0,0,2020-005
+Cordoba,Cordoba Open,2020-02-04,ATP250,Outdoor,Clay,1st Round,3,Andujar P.,Horansky F.,63.0,173.0,867.0,300.0,6,2,6,2,0,0,0,0,0,0,2020-005
+Cordoba,Cordoba Open,2020-02-04,ATP250,Outdoor,Clay,1st Round,3,Moutet C.,Monteiro T.,71.0,89.0,777.0,634.0,6,4,6,3,0,0,0,0,0,0,2020-005
+Cordoba,Cordoba Open,2020-02-04,ATP250,Outdoor,Clay,1st Round,3,Cachin P.,Dellien H.,354.0,77.0,104.0,738.0,6,1,6,1,0,0,0,0,0,0,2020-005
+Cordoba,Cordoba Open,2020-02-04,ATP250,Outdoor,Clay,1st Round,3,Londero J.I.,Cecchinato M.,50.0,72.0,1012.0,758.0,6,2,7,5,0,0,0,0,0,0,2020-005
+Cordoba,Cordoba Open,2020-02-05,ATP250,Outdoor,Clay,1st Round,3,Munar J.,Mayer L.,87.0,103.0,643.0,529.0,6,4,6,3,0,0,0,0,0,0,2020-005
+Cordoba,Cordoba Open,2020-02-05,ATP250,Outdoor,Clay,2nd Round,3,Martin A.,Taberner C.,100.0,198.0,551.0,252.0,6,3,7,6,0,0,0,0,0,0,2020-005
+Cordoba,Cordoba Open,2020-02-05,ATP250,Outdoor,Clay,2nd Round,3,Cuevas P.,Mager G.,48.0,133.0,1062.0,401.0,6,7,7,6,6,1,0,0,0,0,2020-005
+Cordoba,Cordoba Open,2020-02-05,ATP250,Outdoor,Clay,2nd Round,3,Moutet C.,Pella G.,71.0,22.0,777.0,1665.0,6,7,7,5,6,3,0,0,0,0,2020-005
+Cordoba,Cordoba Open,2020-02-06,ATP250,Outdoor,Clay,2nd Round,3,Garin C.,Balazs A.,31.0,108.0,1320.0,505.0,6,3,6,0,0,0,0,0,0,0,2020-005
+Cordoba,Cordoba Open,2020-02-06,ATP250,Outdoor,Clay,2nd Round,3,Djere L.,Martinez P.,39.0,150.0,1185.0,347.0,6,3,6,4,0,0,0,0,0,0,2020-005
+Cordoba,Cordoba Open,2020-02-06,ATP250,Outdoor,Clay,2nd Round,3,Ramos-Vinolas A.,Andujar P.,42.0,63.0,1130.0,867.0,6,3,6,7,6,4,0,0,0,0,2020-005
+Cordoba,Cordoba Open,2020-02-07,ATP250,Outdoor,Clay,2nd Round,3,Londero J.I.,Cachin P.,50.0,354.0,1012.0,104.0,6,3,6,3,0,0,0,0,0,0,2020-005
+Cordoba,Cordoba Open,2020-02-07,ATP250,Outdoor,Clay,2nd Round,3,Schwartzman D.,Munar J.,14.0,87.0,2220.0,643.0,6,1,7,5,0,0,0,0,0,0,2020-005
+Cordoba,Cordoba Open,2020-02-07,ATP250,Outdoor,Clay,Quarterfinals,3,Martin A.,Moutet C.,100.0,71.0,551.0,777.0,6,3,6,2,0,0,0,0,0,0,2020-005
+Cordoba,Cordoba Open,2020-02-07,ATP250,Outdoor,Clay,Quarterfinals,3,Garin C.,Cuevas P.,31.0,48.0,1320.0,1062.0,1,6,6,3,6,4,0,0,0,0,2020-005
+Cordoba,Cordoba Open,2020-02-07,ATP250,Outdoor,Clay,Quarterfinals,3,Schwartzman D.,Ramos-Vinolas A.,14.0,42.0,2220.0,1130.0,6,0,7,6,0,0,0,0,0,0,2020-005
+Cordoba,Cordoba Open,2020-02-08,ATP250,Outdoor,Clay,Quarterfinals,3,Djere L.,Londero J.I.,39.0,50.0,1185.0,1012.0,6,7,6,3,7,6,0,0,0,0,2020-005
+Cordoba,Cordoba Open,2020-02-08,ATP250,Outdoor,Clay,Semifinals,3,Garin C.,Martin A.,31.0,100.0,1320.0,551.0,2,6,6,2,6,2,0,0,0,0,2020-005
+Cordoba,Cordoba Open,2020-02-09,ATP250,Outdoor,Clay,Semifinals,3,Schwartzman D.,Djere L.,14.0,39.0,2220.0,1185.0,6,1,1,6,6,2,0,0,0,0,2020-005
+Cordoba,Cordoba Open,2020-02-09,ATP250,Outdoor,Clay,The Final,3,Garin C.,Schwartzman D.,31.0,14.0,1320.0,2220.0,2,6,6,4,6,0,0,0,0,0,2020-005
+Montpellier,Open Sud de France,2020-02-03,ATP250,Indoor,Hard,1st Round,3,Pospisil V.,Bedene A.,132.0,51.0,402.0,985.0,6,3,6,4,0,0,0,0,0,0,2020-006
+Montpellier,Open Sud de France,2020-02-03,ATP250,Indoor,Hard,1st Round,3,Barrere G.,Sousa J.,91.0,69.0,612.0,811.0,6,2,7,6,0,0,0,0,0,0,2020-006
+Montpellier,Open Sud de France,2020-02-03,ATP250,Indoor,Hard,1st Round,3,Gombos N.,Carreno Busta P.,104.0,29.0,527.0,1332.0,3,6,6,4,6,3,0,0,0,0,2020-006
+Montpellier,Open Sud de France,2020-02-04,ATP250,Indoor,Hard,1st Round,3,Bublik A.,Laaksonen H.,54.0,112.0,952.0,480.0,6,7,6,1,7,6,0,0,0,0,2020-006
+Montpellier,Open Sud de France,2020-02-04,ATP250,Indoor,Hard,1st Round,3,Ymer M.,Sinner J.,76.0,78.0,739.0,710.0,6,3,6,4,0,0,0,0,0,0,2020-006
+Montpellier,Open Sud de France,2020-02-04,ATP250,Indoor,Hard,1st Round,3,Ruusuvuori E.,Novak D.,101.0,93.0,540.0,609.0,7,6,4,6,6,2,0,0,0,0,2020-006
+Montpellier,Open Sud de France,2020-02-04,ATP250,Indoor,Hard,1st Round,3,Krajinovic F.,Couacaud E.,44.0,214.0,1113.0,221.0,6,4,6,4,0,0,0,0,0,0,2020-006
+Montpellier,Open Sud de France,2020-02-04,ATP250,Indoor,Hard,1st Round,3,Herbert P.H.,Stakhovsky S.,67.0,153.0,820.0,342.0,6,2,7,5,0,0,0,0,0,0,2020-006
+Montpellier,Open Sud de France,2020-02-04,ATP250,Indoor,Hard,1st Round,3,Auger-Aliassime F.,Dzumhur D.,21.0,97.0,1666.0,594.0,6,7,6,2,6,2,0,0,0,0,2020-006
+Montpellier,Open Sud de France,2020-02-05,ATP250,Indoor,Hard,1st Round,3,Mannarino A.,Popyrin A.,45.0,99.0,1111.0,585.0,6,0,6,7,6,0,0,0,0,0,2020-006
+Montpellier,Open Sud de France,2020-02-05,ATP250,Indoor,Hard,1st Round,3,Lopez F.,Humbert U.,55.0,43.0,933.0,1121.0,6,4,6,1,0,0,0,0,0,0,2020-006
+Montpellier,Open Sud de France,2020-02-05,ATP250,Indoor,Hard,1st Round,3,Gasquet R.,Simon G.,58.0,59.0,890.0,890.0,6,4,6,4,0,0,0,0,0,0,2020-006
+Montpellier,Open Sud de France,2020-02-05,ATP250,Indoor,Hard,2nd Round,3,Barrere G.,Dimitrov G.,91.0,23.0,612.0,1637.0,6,7,6,4,7,5,0,0,0,0,2020-006
+Montpellier,Open Sud de France,2020-02-05,ATP250,Indoor,Hard,2nd Round,3,Pospisil V.,Shapovalov D.,132.0,16.0,402.0,2120.0,6,2,6,3,0,0,0,0,0,0,2020-006
+Montpellier,Open Sud de France,2020-02-06,ATP250,Indoor,Hard,2nd Round,3,Krajinovic F.,Ymer M.,44.0,76.0,1113.0,739.0,6,1,6,1,0,0,0,0,0,0,2020-006
+Montpellier,Open Sud de France,2020-02-06,ATP250,Indoor,Hard,2nd Round,3,Goffin D.,Bublik A.,10.0,54.0,2555.0,952.0,6,3,7,6,0,0,0,0,0,0,2020-006
+Montpellier,Open Sud de France,2020-02-06,ATP250,Indoor,Hard,2nd Round,3,Gasquet R.,Lopez F.,58.0,55.0,890.0,933.0,6,7,6,4,6,2,0,0,0,0,2020-006
+Montpellier,Open Sud de France,2020-02-06,ATP250,Indoor,Hard,2nd Round,3,Gombos N.,Ruusuvuori E.,104.0,101.0,527.0,540.0,7,5,6,4,0,0,0,0,0,0,2020-006
+Montpellier,Open Sud de France,2020-02-06,ATP250,Indoor,Hard,2nd Round,3,Herbert P.H.,Auger-Aliassime F.,67.0,21.0,820.0,1666.0,7,6,7,5,0,0,0,0,0,0,2020-006
+Montpellier,Open Sud de France,2020-02-06,ATP250,Indoor,Hard,2nd Round,3,Monfils G.,Mannarino A.,9.0,45.0,2700.0,1111.0,4,6,6,1,6,4,0,0,0,0,2020-006
+Montpellier,Open Sud de France,2020-02-07,ATP250,Indoor,Hard,Quarterfinals,3,Krajinovic F.,Barrere G.,44.0,91.0,1113.0,612.0,6,2,7,5,0,0,0,0,0,0,2020-006
+Montpellier,Open Sud de France,2020-02-07,ATP250,Indoor,Hard,Quarterfinals,3,Pospisil V.,Gasquet R.,132.0,58.0,402.0,890.0,6,1,1,0,0,0,0,0,0,0,2020-006
+Montpellier,Open Sud de France,2020-02-07,ATP250,Indoor,Hard,Quarterfinals,3,Monfils G.,Gombos N.,9.0,104.0,2700.0,527.0,6,3,6,4,0,0,0,0,0,0,2020-006
+Montpellier,Open Sud de France,2020-02-07,ATP250,Indoor,Hard,Quarterfinals,3,Goffin D.,Herbert P.H.,10.0,67.0,2555.0,820.0,6,4,7,6,0,0,0,0,0,0,2020-006
+Montpellier,Open Sud de France,2020-02-08,ATP250,Indoor,Hard,Semifinals,3,Monfils G.,Krajinovic F.,9.0,44.0,2700.0,1113.0,7,6,6,2,0,0,0,0,0,0,2020-006
+Montpellier,Open Sud de France,2020-02-08,ATP250,Indoor,Hard,Semifinals,3,Pospisil V.,Goffin D.,132.0,10.0,402.0,2555.0,6,3,1,6,7,5,0,0,0,0,2020-006
+Montpellier,Open Sud de France,2020-02-09,ATP250,Indoor,Hard,The Final,3,Monfils G.,Pospisil V.,9.0,132.0,2700.0,402.0,7,5,6,3,0,0,0,0,0,0,2020-007
+Pune,Maharashtra Open,2020-02-03,ATP250,Outdoor,Hard,1st Round,3,Stebe C.M.,Karlovic I.,149.0,121.0,350.0,436.0,6,3,6,4,0,0,0,0,0,0,2020-007
+Pune,Maharashtra Open,2020-02-03,ATP250,Outdoor,Hard,1st Round,3,Sugita Y.,Fabbiano T.,86.0,134.0,645.0,394.0,6,3,6,0,0,0,0,0,0,0,2020-007
+Pune,Maharashtra Open,2020-02-03,ATP250,Outdoor,Hard,1st Round,3,Troicki V.,Nagal S.,191.0,125.0,263.0,416.0,6,2,6,7,6,1,0,0,0,0,2020-007
+Pune,Maharashtra Open,2020-02-03,ATP250,Outdoor,Hard,1st Round,3,Caruso S.,Ramanathan R.,98.0,182.0,588.0,280.0,3,6,6,4,7,5,0,0,0,0,2020-007
+Pune,Maharashtra Open,2020-02-04,ATP250,Outdoor,Hard,1st Round,3,Duckworth J.,Gojowczyk P.,96.0,106.0,598.0,523.0,7,6,6,4,0,0,0,0,0,0,2020-007
+Pune,Maharashtra Open,2020-02-04,ATP250,Outdoor,Hard,1st Round,3,Gerasimov E.,Lorenzi P.,90.0,115.0,620.0,472.0,6,2,6,3,0,0,0,0,0,0,2020-007
+Pune,Maharashtra Open,2020-02-04,ATP250,Outdoor,Hard,1st Round,3,Marcora R.,Rosol L.,174.0,176.0,297.0,292.0,6,3,6,2,0,0,0,0,0,0,2020-007
+Pune,Maharashtra Open,2020-02-04,ATP250,Outdoor,Hard,1st Round,3,Milojevic N.,Hoang A.,148.0,126.0,357.0,415.0,7,6,6,4,0,0,0,0,0,0,2020-007
+Pune,Maharashtra Open,2020-02-04,ATP250,Outdoor,Hard,1st Round,3,Ivashka I.,Donskoy E.,152.0,109.0,344.0,503.0,6,3,6,2,0,0,0,0,0,0,2020-007
+Pune,Maharashtra Open,2020-02-04,ATP250,Outdoor,Hard,1st Round,3,Vesely J.,Kadhe A.,107.0,612.0,520.0,36.0,6,2,6,4,0,0,0,0,0,0,2020-007
+Pune,Maharashtra Open,2020-02-04,ATP250,Outdoor,Hard,1st Round,3,Gunneswaran P.,Maden Y.,122.0,131.0,433.0,404.0,7,6,7,6,0,0,0,0,0,0,2020-007
+Pune,Maharashtra Open,2020-02-05,ATP250,Outdoor,Hard,1st Round,3,Daniel T.,Mukund S.,102.0,263.0,536.0,168.0,6,2,7,6,0,0,0,0,0,0,2020-007
+Pune,Maharashtra Open,2020-02-05,ATP250,Outdoor,Hard,2nd Round,3,Vesely J.,Caruso S.,107.0,98.0,520.0,588.0,7,6,6,4,0,0,0,0,0,0,2020-007
+Pune,Maharashtra Open,2020-02-05,ATP250,Outdoor,Hard,2nd Round,3,Berankis R.,Stebe C.M.,73.0,149.0,751.0,350.0,7,6,6,1,0,0,0,0,0,0,2020-007
+Pune,Maharashtra Open,2020-02-05,ATP250,Outdoor,Hard,2nd Round,3,Sugita Y.,Troicki V.,86.0,191.0,645.0,263.0,0,0,0,0,0,0,0,0,0,0,2020-007
+Pune,Maharashtra Open,2020-02-05,ATP250,Outdoor,Hard,2nd Round,3,Ivashka I.,Travaglia S.,152.0,82.0,344.0,670.0,7,6,7,6,0,0,0,0,0,0,2020-007
+Pune,Maharashtra Open,2020-02-06,ATP250,Outdoor,Hard,2nd Round,3,Duckworth J.,Daniel T.,96.0,102.0,598.0,536.0,6,7,7,6,6,3,0,0,0,0,2020-007
+Pune,Maharashtra Open,2020-02-06,ATP250,Outdoor,Hard,2nd Round,3,Gerasimov E.,Milojevic N.,90.0,148.0,620.0,357.0,2,6,6,3,6,2,0,0,0,0,2020-007
+Pune,Maharashtra Open,2020-02-06,ATP250,Outdoor,Hard,2nd Round,3,Kwon S.W.,Gunneswaran P.,88.0,122.0,637.0,433.0,6,3,7,6,0,0,0,0,0,0,2020-007
+Pune,Maharashtra Open,2020-02-06,ATP250,Outdoor,Hard,2nd Round,3,Marcora R.,Paire B.,174.0,19.0,297.0,1738.0,6,4,6,4,0,0,0,0,0,0,2020-007
+Pune,Maharashtra Open,2020-02-07,ATP250,Outdoor,Hard,Quarterfinals,3,Vesely J.,Ivashka I.,107.0,152.0,520.0,344.0,2,6,6,1,7,6,0,0,0,0,2020-007
+Pune,Maharashtra Open,2020-02-07,ATP250,Outdoor,Hard,Quarterfinals,3,Berankis R.,Sugita Y.,73.0,86.0,751.0,645.0,4,6,7,6,6,2,0,0,0,0,2020-007
+Pune,Maharashtra Open,2020-02-07,ATP250,Outdoor,Hard,Quarterfinals,3,Duckworth J.,Marcora R.,96.0,174.0,598.0,297.0,6,3,7,6,0,0,0,0,0,0,2020-007
+Pune,Maharashtra Open,2020-02-07,ATP250,Outdoor,Hard,Quarterfinals,3,Gerasimov E.,Kwon S.W.,90.0,88.0,620.0,637.0,4,6,7,6,6,4,0,0,0,0,2020-007
+Pune,Maharashtra Open,2020-02-08,ATP250,Outdoor,Hard,Semifinals,3,Vesely J.,Berankis R.,107.0,73.0,520.0,751.0,6,7,7,6,7,6,0,0,0,0,2020-007
+Pune,Maharashtra Open,2020-02-08,ATP250,Outdoor,Hard,Semifinals,3,Gerasimov E.,Duckworth J.,90.0,96.0,620.0,598.0,7,6,6,4,0,0,0,0,0,0,2020-007
+Pune,Maharashtra Open,2020-02-09,ATP250,Outdoor,Hard,The Final,3,Vesely J.,Gerasimov E.,107.0,90.0,520.0,620.0,7,6,5,7,6,3,0,0,0,0,2020-007
+Buenos Aires,Argentina Open,2020-02-10,ATP250,Outdoor,Clay,1st Round,3,Monteiro T.,Munar J.,92.0,95.0,634.0,618.0,6,3,6,3,0,0,0,0,0,0,2020-008
+Buenos Aires,Argentina Open,2020-02-10,ATP250,Outdoor,Clay,1st Round,3,Ruud C.,Andujar P.,45.0,58.0,1079.0,887.0,6,2,6,3,0,0,0,0,0,0,2020-008
+Buenos Aires,Argentina Open,2020-02-10,ATP250,Outdoor,Clay,1st Round,3,Cuevas P.,Sonego L.,48.0,49.0,1017.0,980.0,6,4,6,4,0,0,0,0,0,0,2020-008
+Buenos Aires,Argentina Open,2020-02-11,ATP250,Outdoor,Clay,1st Round,3,Delbonis F.,Dellien H.,87.0,77.0,666.0,738.0,1,6,6,3,7,5,0,0,0,0,2020-008
+Buenos Aires,Argentina Open,2020-02-11,ATP250,Outdoor,Clay,1st Round,3,Carballes Baena R.,Cecchinato M.,88.0,73.0,664.0,758.0,6,4,7,6,0,0,0,0,0,0,2020-008
+Buenos Aires,Argentina Open,2020-02-11,ATP250,Outdoor,Clay,1st Round,3,Bagnis F.,Martin A.,134.0,93.0,392.0,629.0,6,4,6,1,0,0,0,0,0,0,2020-008
+Buenos Aires,Argentina Open,2020-02-11,ATP250,Outdoor,Clay,1st Round,3,Kovalik J.,Moutet C.,129.0,76.0,405.0,742.0,6,3,7,6,0,0,0,0,0,0,2020-008
+Buenos Aires,Argentina Open,2020-02-11,ATP250,Outdoor,Clay,1st Round,3,Sousa P.,Diaz Acosta F.,145.0,471.0,373.0,65.0,4,6,6,2,6,3,0,0,0,0,2020-008
+Buenos Aires,Argentina Open,2020-02-11,ATP250,Outdoor,Clay,1st Round,3,Martinez P.,Domingues J.,142.0,175.0,379.0,286.0,7,6,7,5,0,0,0,0,0,0,2020-008
+Buenos Aires,Argentina Open,2020-02-11,ATP250,Outdoor,Clay,1st Round,3,Djere L.,Cerundolo F.,35.0,239.0,1265.0,197.0,6,2,2,6,6,4,0,0,0,0,2020-008
+Buenos Aires,Argentina Open,2020-02-11,ATP250,Outdoor,Clay,1st Round,3,Londero J.I.,Horansky F.,69.0,182.0,807.0,277.0,6,4,4,6,6,2,0,0,0,0,2020-008
+Buenos Aires,Argentina Open,2020-02-12,ATP250,Outdoor,Clay,1st Round,3,Ramos-Vinolas A.,Mayer L.,42.0,107.0,1130.0,529.0,4,6,6,3,7,5,0,0,0,0,2020-008
+Buenos Aires,Argentina Open,2020-02-12,ATP250,Outdoor,Clay,2nd Round,3,Sousa P.,Kovalik J.,145.0,129.0,373.0,405.0,7,6,7,6,0,0,0,0,0,0,2020-008
+Buenos Aires,Argentina Open,2020-02-12,ATP250,Outdoor,Clay,2nd Round,3,Lajovic D.,Martinez P.,23.0,142.0,1596.0,379.0,7,6,7,6,0,0,0,0,0,0,2020-008
+Buenos Aires,Argentina Open,2020-02-12,ATP250,Outdoor,Clay,2nd Round,3,Ruud C.,Carballes Baena R.,45.0,88.0,1079.0,664.0,6,1,6,0,0,0,0,0,0,0,2020-008
+Buenos Aires,Argentina Open,2020-02-13,ATP250,Outdoor,Clay,2nd Round,3,Monteiro T.,Coric B.,92.0,31.0,634.0,1320.0,6,4,7,6,0,0,0,0,0,0,2020-008
+Buenos Aires,Argentina Open,2020-02-13,ATP250,Outdoor,Clay,2nd Round,3,Londero J.I.,Djere L.,69.0,35.0,807.0,1265.0,6,7,6,2,6,1,0,0,0,0,2020-008
+Buenos Aires,Argentina Open,2020-02-13,ATP250,Outdoor,Clay,2nd Round,3,Cuevas P.,Ramos-Vinolas A.,48.0,42.0,1017.0,1130.0,6,4,4,6,6,4,0,0,0,0,2020-008
+Buenos Aires,Argentina Open,2020-02-13,ATP250,Outdoor,Clay,2nd Round,3,Pella G.,Bagnis F.,27.0,134.0,1560.0,392.0,7,6,6,7,6,4,0,0,0,0,2020-008
+Buenos Aires,Argentina Open,2020-02-14,ATP250,Outdoor,Clay,2nd Round,3,Schwartzman D.,Delbonis F.,14.0,87.0,2325.0,666.0,6,3,4,6,6,2,0,0,0,0,2020-008
+Buenos Aires,Argentina Open,2020-02-14,ATP250,Outdoor,Clay,Quarterfinals,3,Ruud C.,Lajovic D.,45.0,23.0,1079.0,1596.0,7,5,6,1,0,0,0,0,0,0,2020-008
+Buenos Aires,Argentina Open,2020-02-14,ATP250,Outdoor,Clay,Quarterfinals,3,Londero J.I.,Pella G.,69.0,27.0,807.0,1560.0,6,4,7,6,0,0,0,0,0,0,2020-008
+Buenos Aires,Argentina Open,2020-02-14,ATP250,Outdoor,Clay,Quarterfinals,3,Schwartzman D.,Cuevas P.,14.0,48.0,2325.0,1017.0,5,7,7,6,7,5,0,0,0,0,2020-008
+Buenos Aires,Argentina Open,2020-02-15,ATP250,Outdoor,Clay,Quarterfinals,3,Sousa P.,Monteiro T.,145.0,92.0,373.0,634.0,7,6,6,4,0,0,0,0,0,0,2020-008
+Buenos Aires,Argentina Open,2020-02-15,ATP250,Outdoor,Clay,Semifinals,3,Ruud C.,Londero J.I.,45.0,69.0,1079.0,807.0,4,6,7,5,6,1,0,0,0,0,2020-008
+Buenos Aires,Argentina Open,2020-02-15,ATP250,Outdoor,Clay,Semifinals,3,Sousa P.,Schwartzman D.,145.0,14.0,373.0,2325.0,0,0,0,0,0,0,0,0,0,0,2020-008
+Buenos Aires,Argentina Open,2020-02-16,ATP250,Outdoor,Clay,The Final,3,Ruud C.,Sousa P.,45.0,145.0,1079.0,373.0,6,1,6,4,0,0,0,0,0,0,2020-008
+New York,New York Open,2020-02-10,ATP250,Indoor,Hard,1st Round,3,Kecmanovic M.,Paul T.,54.0,70.0,921.0,778.0,6,4,6,2,0,0,0,0,0,0,2020-009
+New York,New York Open,2020-02-10,ATP250,Indoor,Hard,1st Round,3,Seppi A.,Dzumhur D.,98.0,100.0,601.0,594.0,6,3,1,6,7,6,0,0,0,0,2020-009
+New York,New York Open,2020-02-11,ATP250,Indoor,Hard,1st Round,3,Johnson S.,Sandgren T.,75.0,53.0,745.0,923.0,6,7,6,3,7,6,0,0,0,0,2020-009
+New York,New York Open,2020-02-11,ATP250,Indoor,Hard,1st Round,3,Giron M.,Sock J.,113.0,,483.0,,6,3,6,4,0,0,0,0,0,0,2020-009
+New York,New York Open,2020-02-11,ATP250,Indoor,Hard,1st Round,3,Thompson J.,Karlovic I.,63.0,122.0,843.0,436.0,6,3,7,6,0,0,0,0,0,0,2020-009
+New York,New York Open,2020-02-11,ATP250,Indoor,Hard,1st Round,3,Kwon S.W.,Soeda G.,84.0,112.0,672.0,500.0,6,2,6,7,6,3,0,0,0,0,2020-009
+New York,New York Open,2020-02-11,ATP250,Indoor,Hard,1st Round,3,Edmund K.,Uchiyama Y.,62.0,97.0,845.0,604.0,7,5,6,4,0,0,0,0,0,0,2020-009
+New York,New York Open,2020-02-11,ATP250,Indoor,Hard,1st Round,3,Lorenzi P.,Petrovic D.,116.0,159.0,472.0,328.0,4,6,6,4,6,0,0,0,0,0,2020-009
+New York,New York Open,2020-02-11,ATP250,Indoor,Hard,1st Round,3,Koepfer D.,Schnur B.,94.0,121.0,626.0,440.0,6,4,6,3,0,0,0,0,0,0,2020-009
+New York,New York Open,2020-02-11,ATP250,Indoor,Hard,1st Round,3,Nishioka Y.,Laaksonen H.,64.0,114.0,842.0,480.0,6,3,0,6,6,2,0,0,0,0,2020-009
+New York,New York Open,2020-02-12,ATP250,Indoor,Hard,1st Round,3,Norrie C.,Shi B.,59.0,,885.0,,7,5,6,3,0,0,0,0,0,0,2020-009
+New York,New York Open,2020-02-12,ATP250,Indoor,Hard,1st Round,3,Jung J.,Anderson K.,131.0,120.0,400.0,445.0,7,6,6,4,0,0,0,0,0,0,2020-009
+New York,New York Open,2020-02-12,ATP250,Indoor,Hard,2nd Round,3,Kecmanovic M.,Lorenzi P.,54.0,116.0,921.0,472.0,6,3,6,3,0,0,0,0,0,0,2020-009
+New York,New York Open,2020-02-12,ATP250,Indoor,Hard,2nd Round,3,Seppi A.,Johnson S.,98.0,75.0,601.0,745.0,7,6,6,3,0,0,0,0,0,0,2020-009
+New York,New York Open,2020-02-13,ATP250,Indoor,Hard,2nd Round,3,Kwon S.W.,Raonic M.,84.0,32.0,672.0,1305.0,7,6,6,7,6,4,0,0,0,0,2020-009
+New York,New York Open,2020-02-13,ATP250,Indoor,Hard,2nd Round,3,Humbert U.,Giron M.,43.0,113.0,1121.0,483.0,6,1,6,0,0,0,0,0,0,0,2020-009
+New York,New York Open,2020-02-13,ATP250,Indoor,Hard,2nd Round,3,Edmund K.,Koepfer D.,62.0,94.0,845.0,626.0,6,2,6,4,0,0,0,0,0,0,2020-009
+New York,New York Open,2020-02-13,ATP250,Indoor,Hard,2nd Round,3,Jung J.,Norrie C.,131.0,59.0,400.0,885.0,6,4,6,4,0,0,0,0,0,0,2020-009
+New York,New York Open,2020-02-13,ATP250,Indoor,Hard,2nd Round,3,Opelka R.,Nishioka Y.,40.0,64.0,1152.0,842.0,6,4,6,4,0,0,0,0,0,0,2020-009
+New York,New York Open,2020-02-14,ATP250,Indoor,Hard,2nd Round,3,Thompson J.,Isner J.,63.0,18.0,843.0,1940.0,7,6,6,7,6,3,0,0,0,0,2020-009
+New York,New York Open,2020-02-14,ATP250,Indoor,Hard,Quarterfinals,3,Kecmanovic M.,Humbert U.,54.0,43.0,921.0,1121.0,3,6,6,2,6,4,0,0,0,0,2020-009
+New York,New York Open,2020-02-14,ATP250,Indoor,Hard,Quarterfinals,3,Edmund K.,Kwon S.W.,62.0,84.0,845.0,672.0,3,6,6,2,7,6,0,0,0,0,2020-009
+New York,New York Open,2020-02-15,ATP250,Indoor,Hard,Quarterfinals,3,Jung J.,Opelka R.,131.0,40.0,400.0,1152.0,5,7,6,4,6,4,0,0,0,0,2020-009
+New York,New York Open,2020-02-15,ATP250,Indoor,Hard,Quarterfinals,3,Seppi A.,Thompson J.,98.0,63.0,601.0,843.0,6,7,6,4,6,1,0,0,0,0,2020-009
+New York,New York Open,2020-02-15,ATP250,Indoor,Hard,Semifinals,3,Edmund K.,Kecmanovic M.,62.0,54.0,845.0,921.0,6,1,6,4,0,0,0,0,0,0,2020-009
+New York,New York Open,2020-02-16,ATP250,Indoor,Hard,Semifinals,3,Seppi A.,Jung J.,98.0,131.0,601.0,400.0,6,3,6,2,0,0,0,0,0,0,2020-009
+New York,New York Open,2020-02-16,ATP250,Indoor,Hard,The Final,3,Edmund K.,Seppi A.,62.0,98.0,845.0,601.0,7,5,6,1,0,0,0,0,0,0,2020-009
+Rotterdam,ABN AMRO World Tennis Tournament,2020-02-10,ATP500,Indoor,Hard,1st Round,3,Carreno Busta P.,Mannarino A.,30.0,44.0,1332.0,1111.0,7,5,6,7,6,4,0,0,0,0,2020-010
+Rotterdam,ABN AMRO World Tennis Tournament,2020-02-10,ATP500,Indoor,Hard,1st Round,3,Bautista Agut R.,Fucsovics M.,12.0,66.0,2360.0,832.0,4,6,7,6,6,1,0,0,0,0,2020-010
+Rotterdam,ABN AMRO World Tennis Tournament,2020-02-10,ATP500,Indoor,Hard,1st Round,3,Dimitrov G.,Shapovalov D.,22.0,16.0,1637.0,2120.0,6,3,7,6,0,0,0,0,0,0,2020-010
+Rotterdam,ABN AMRO World Tennis Tournament,2020-02-10,ATP500,Indoor,Hard,1st Round,3,Evans D.,Kohlschreiber P.,33.0,81.0,1296.0,700.0,6,3,7,5,0,0,0,0,0,0,2020-010
+Rotterdam,ABN AMRO World Tennis Tournament,2020-02-11,ATP500,Indoor,Hard,1st Round,3,Auger-Aliassime F.,Struff J.L.,21.0,34.0,1666.0,1270.0,6,3,1,6,6,3,0,0,0,0,2020-010
+Rotterdam,ABN AMRO World Tennis Tournament,2020-02-11,ATP500,Indoor,Hard,1st Round,3,Bublik A.,Barrere G.,56.0,90.0,892.0,651.0,6,3,6,7,6,4,0,0,0,0,2020-010
+Rotterdam,ABN AMRO World Tennis Tournament,2020-02-11,ATP500,Indoor,Hard,1st Round,3,Khachanov K.,Fognini F.,17.0,11.0,1995.0,2400.0,6,3,6,3,0,0,0,0,0,0,2020-010
+Rotterdam,ABN AMRO World Tennis Tournament,2020-02-11,ATP500,Indoor,Hard,1st Round,3,Rublev A.,Basilashvili N.,15.0,28.0,2174.0,1440.0,6,2,6,3,0,0,0,0,0,0,2020-010
+Rotterdam,ABN AMRO World Tennis Tournament,2020-02-11,ATP500,Indoor,Hard,1st Round,3,Bedene A.,Paire B.,52.0,19.0,940.0,1738.0,6,2,6,4,0,0,0,0,0,0,2020-010
+Rotterdam,ABN AMRO World Tennis Tournament,2020-02-11,ATP500,Indoor,Hard,1st Round,3,Tsitsipas S.,Hurkacz H.,6.0,29.0,4745.0,1433.0,6,7,6,3,6,1,0,0,0,0,2020-010
+Rotterdam,ABN AMRO World Tennis Tournament,2020-02-11,ATP500,Indoor,Hard,1st Round,3,Krajinovic F.,Griekspoor T.,39.0,172.0,1158.0,294.0,6,4,6,1,0,0,0,0,0,0,2020-010
+Rotterdam,ABN AMRO World Tennis Tournament,2020-02-12,ATP500,Indoor,Hard,1st Round,3,Sinner J.,Albot R.,79.0,50.0,710.0,977.0,0,0,0,0,0,0,0,0,0,0,2020-010
+Rotterdam,ABN AMRO World Tennis Tournament,2020-02-12,ATP500,Indoor,Hard,1st Round,3,Simon G.,Kukushkin M.,57.0,67.0,890.0,816.0,7,6,3,6,6,3,0,0,0,0,2020-010
+Rotterdam,ABN AMRO World Tennis Tournament,2020-02-12,ATP500,Indoor,Hard,1st Round,3,Goffin D.,Haase R.,10.0,167.0,2600.0,305.0,3,6,7,6,6,4,0,0,0,0,2020-010
+Rotterdam,ABN AMRO World Tennis Tournament,2020-02-12,ATP500,Indoor,Hard,1st Round,3,Monfils G.,Sousa J.,9.0,68.0,2860.0,811.0,6,3,6,2,0,0,0,0,0,0,2020-010
+Rotterdam,ABN AMRO World Tennis Tournament,2020-02-12,ATP500,Indoor,Hard,1st Round,3,Pospisil V.,Medvedev D.,104.0,5.0,552.0,5890.0,6,4,6,3,0,0,0,0,0,0,2020-010
+Rotterdam,ABN AMRO World Tennis Tournament,2020-02-12,ATP500,Indoor,Hard,2nd Round,3,Carreno Busta P.,Bautista Agut R.,30.0,12.0,1332.0,2360.0,6,4,2,6,7,6,0,0,0,0,2020-010
+Rotterdam,ABN AMRO World Tennis Tournament,2020-02-12,ATP500,Indoor,Hard,2nd Round,3,Evans D.,Khachanov K.,33.0,17.0,1296.0,1995.0,4,6,6,3,6,4,0,0,0,0,2020-010
+Rotterdam,ABN AMRO World Tennis Tournament,2020-02-12,ATP500,Indoor,Hard,2nd Round,3,Auger-Aliassime F.,Dimitrov G.,21.0,22.0,1666.0,1637.0,6,4,6,2,0,0,0,0,0,0,2020-010
+Rotterdam,ABN AMRO World Tennis Tournament,2020-02-13,ATP500,Indoor,Hard,2nd Round,3,Sinner J.,Goffin D.,79.0,10.0,710.0,2600.0,7,6,7,5,0,0,0,0,0,0,2020-010
+Rotterdam,ABN AMRO World Tennis Tournament,2020-02-13,ATP500,Indoor,Hard,2nd Round,3,Rublev A.,Bublik A.,15.0,56.0,2174.0,892.0,7,5,6,3,0,0,0,0,0,0,2020-010
+Rotterdam,ABN AMRO World Tennis Tournament,2020-02-13,ATP500,Indoor,Hard,2nd Round,3,Bedene A.,Tsitsipas S.,52.0,6.0,940.0,4745.0,7,5,6,4,0,0,0,0,0,0,2020-010
+Rotterdam,ABN AMRO World Tennis Tournament,2020-02-13,ATP500,Indoor,Hard,2nd Round,3,Monfils G.,Simon G.,9.0,57.0,2860.0,890.0,6,4,6,1,0,0,0,0,0,0,2020-010
+Rotterdam,ABN AMRO World Tennis Tournament,2020-02-13,ATP500,Indoor,Hard,2nd Round,3,Krajinovic F.,Pospisil V.,39.0,104.0,1158.0,552.0,6,4,7,6,0,0,0,0,0,0,2020-010
+Rotterdam,ABN AMRO World Tennis Tournament,2020-02-14,ATP500,Indoor,Hard,Quarterfinals,3,Carreno Busta P.,Sinner J.,30.0,79.0,1332.0,710.0,7,5,3,6,7,6,0,0,0,0,2020-010
+Rotterdam,ABN AMRO World Tennis Tournament,2020-02-14,ATP500,Indoor,Hard,Quarterfinals,3,Auger-Aliassime F.,Bedene A.,21.0,52.0,1666.0,940.0,6,4,7,6,0,0,0,0,0,0,2020-010
+Rotterdam,ABN AMRO World Tennis Tournament,2020-02-14,ATP500,Indoor,Hard,Quarterfinals,3,Monfils G.,Evans D.,9.0,33.0,2860.0,1296.0,7,6,6,2,0,0,0,0,0,0,2020-010
+Rotterdam,ABN AMRO World Tennis Tournament,2020-02-14,ATP500,Indoor,Hard,Quarterfinals,3,Krajinovic F.,Rublev A.,39.0,15.0,1158.0,2174.0,7,6,6,4,0,0,0,0,0,0,2020-010
+Rotterdam,ABN AMRO World Tennis Tournament,2020-02-15,ATP500,Indoor,Hard,Semifinals,3,Auger-Aliassime F.,Carreno Busta P.,21.0,30.0,1666.0,1332.0,7,6,6,4,0,0,0,0,0,0,2020-010
+Rotterdam,ABN AMRO World Tennis Tournament,2020-02-15,ATP500,Indoor,Hard,Semifinals,3,Monfils G.,Krajinovic F.,9.0,39.0,2860.0,1158.0,6,4,7,6,0,0,0,0,0,0,2020-010
+Rotterdam,ABN AMRO World Tennis Tournament,2020-02-16,ATP500,Indoor,Hard,The Final,3,Monfils G.,Auger-Aliassime F.,9.0,21.0,2860.0,1666.0,6,2,6,2,0,0,0,0,0,0,2020-010
+Delray Beach,Delray Beach Open,2020-02-17,ATP250,Outdoor,Hard,1st Round,3,Mcdonald M.,Uchiyama Y.,159.0,96.0,327.0,604.0,6,2,7,6,0,0,0,0,0,0,2020-011
+Delray Beach,Delray Beach Open,2020-02-17,ATP250,Outdoor,Hard,1st Round,3,Harrison R.,Dzumhur D.,433.0,108.0,73.0,520.0,6,3,6,2,0,0,0,0,0,0,2020-011
+Delray Beach,Delray Beach Open,2020-02-17,ATP250,Outdoor,Hard,1st Round,3,Nakashima B.,Vesely J.,294.0,74.0,139.0,760.0,7,6,6,1,0,0,0,0,0,0,2020-011
+Delray Beach,Delray Beach Open,2020-02-17,ATP250,Outdoor,Hard,1st Round,3,Kwon S.W.,Mannarino A.,82.0,42.0,702.0,1111.0,1,6,6,3,6,2,0,0,0,0,2020-011
+Delray Beach,Delray Beach Open,2020-02-17,ATP250,Outdoor,Hard,1st Round,3,Nishioka Y.,Millman J.,63.0,40.0,862.0,1141.0,3,6,6,4,6,2,0,0,0,0,2020-011
+Delray Beach,Delray Beach Open,2020-02-18,ATP250,Outdoor,Hard,1st Round,3,Tiafoe F.,Gomez E.,84.0,148.0,700.0,363.0,7,6,6,2,0,0,0,0,0,0,2020-011
+Delray Beach,Delray Beach Open,2020-02-18,ATP250,Outdoor,Hard,1st Round,3,Norrie C.,Fritz T.,60.0,38.0,885.0,1255.0,6,4,6,7,6,4,0,0,0,0,2020-011
+Delray Beach,Delray Beach Open,2020-02-18,ATP250,Outdoor,Hard,1st Round,3,Stebe C.M.,Tomic B.,147.0,197.0,370.0,249.0,6,2,3,6,6,2,0,0,0,0,2020-011
+Delray Beach,Delray Beach Open,2020-02-18,ATP250,Outdoor,Hard,1st Round,3,Kecmanovic M.,Thompson J.,50.0,65.0,999.0,843.0,6,2,0,0,0,0,0,0,0,0,2020-011
+Delray Beach,Delray Beach Open,2020-02-18,ATP250,Outdoor,Hard,1st Round,3,Johnson S.,Laaksonen H.,76.0,134.0,745.0,400.0,7,6,6,4,0,0,0,0,0,0,2020-011
+Delray Beach,Delray Beach Open,2020-02-18,ATP250,Outdoor,Hard,1st Round,3,Raonic M.,Istomin D.,37.0,164.0,1260.0,305.0,6,2,6,2,0,0,0,0,0,0,2020-011
+Delray Beach,Delray Beach Open,2020-02-18,ATP250,Outdoor,Hard,1st Round,3,Humbert U.,Kozlov S.,44.0,367.0,1086.0,97.0,6,7,6,3,6,1,0,0,0,0,2020-011
+Delray Beach,Delray Beach Open,2020-02-18,ATP250,Outdoor,Hard,1st Round,3,Rubin N.,Jung J.,269.0,119.0,162.0,457.0,6,3,4,3,0,0,0,0,0,0,2020-011
+Delray Beach,Delray Beach Open,2020-02-18,ATP250,Outdoor,Hard,1st Round,3,Opelka R.,Gulbis E.,54.0,224.0,947.0,209.0,6,7,6,4,7,6,0,0,0,0,2020-011
+Delray Beach,Delray Beach Open,2020-02-18,ATP250,Outdoor,Hard,1st Round,3,Sock J.,Albot R.,,51.0,,977.0,3,6,6,3,7,6,0,0,0,0,2020-011
+Delray Beach,Delray Beach Open,2020-02-19,ATP250,Outdoor,Hard,1st Round,3,Paul T.,Galan D.E.,70.0,146.0,778.0,376.0,6,2,6,4,0,0,0,0,0,0,2020-011
+Delray Beach,Delray Beach Open,2020-02-19,ATP250,Outdoor,Hard,2nd Round,3,Kwon S.W.,Harrison R.,82.0,433.0,702.0,73.0,6,4,3,6,7,6,0,0,0,0,2020-011
+Delray Beach,Delray Beach Open,2020-02-19,ATP250,Outdoor,Hard,2nd Round,3,Nishioka Y.,Rubin N.,63.0,269.0,862.0,162.0,6,1,6,2,0,0,0,0,0,0,2020-011
+Delray Beach,Delray Beach Open,2020-02-19,ATP250,Outdoor,Hard,2nd Round,3,Nakashima B.,Norrie C.,294.0,60.0,139.0,885.0,7,5,6,2,0,0,0,0,0,0,2020-011
+Delray Beach,Delray Beach Open,2020-02-19,ATP250,Outdoor,Hard,2nd Round,3,Opelka R.,Mcdonald M.,54.0,159.0,947.0,327.0,6,3,6,4,0,0,0,0,0,0,2020-011
+Delray Beach,Delray Beach Open,2020-02-20,ATP250,Outdoor,Hard,2nd Round,3,Humbert U.,Kecmanovic M.,44.0,50.0,1086.0,999.0,6,4,7,6,0,0,0,0,0,0,2020-011
+Delray Beach,Delray Beach Open,2020-02-20,ATP250,Outdoor,Hard,2nd Round,3,Tiafoe F.,Paul T.,84.0,70.0,700.0,778.0,7,5,7,6,0,0,0,0,0,0,2020-011
+Delray Beach,Delray Beach Open,2020-02-20,ATP250,Outdoor,Hard,2nd Round,3,Johnson S.,Sock J.,76.0,,745.0,,6,4,5,7,6,1,0,0,0,0,2020-011
+Delray Beach,Delray Beach Open,2020-02-21,ATP250,Outdoor,Hard,2nd Round,3,Raonic M.,Stebe C.M.,37.0,147.0,1260.0,370.0,7,5,6,3,0,0,0,0,0,0,2020-011
+Delray Beach,Delray Beach Open,2020-02-21,ATP250,Outdoor,Hard,Quarterfinals,3,Humbert U.,Tiafoe F.,44.0,84.0,1086.0,700.0,6,1,6,2,0,0,0,0,0,0,2020-011
+Delray Beach,Delray Beach Open,2020-02-21,ATP250,Outdoor,Hard,Quarterfinals,3,Nishioka Y.,Nakashima B.,63.0,294.0,862.0,139.0,3,6,7,6,6,4,0,0,0,0,2020-011
+Delray Beach,Delray Beach Open,2020-02-21,ATP250,Outdoor,Hard,Quarterfinals,3,Opelka R.,Kwon S.W.,54.0,82.0,947.0,702.0,6,3,6,4,0,0,0,0,0,0,2020-011
+Delray Beach,Delray Beach Open,2020-02-22,ATP250,Outdoor,Hard,Quarterfinals,3,Raonic M.,Johnson S.,37.0,76.0,1260.0,745.0,7,6,6,3,0,0,0,0,0,0,2020-011
+Delray Beach,Delray Beach Open,2020-02-22,ATP250,Outdoor,Hard,Semifinals,3,Nishioka Y.,Humbert U.,63.0,44.0,862.0,1086.0,1,6,6,4,6,0,0,0,0,0,2020-011
+Delray Beach,Delray Beach Open,2020-02-23,ATP250,Outdoor,Hard,Semifinals,3,Opelka R.,Raonic M.,54.0,37.0,947.0,1260.0,4,6,7,6,6,3,0,0,0,0,2020-011
+Delray Beach,Delray Beach Open,2020-02-23,ATP250,Outdoor,Hard,The Final,3,Opelka R.,Nishioka Y.,54.0,63.0,947.0,862.0,7,5,6,7,6,2,0,0,0,0,2020-011
+Marseille,Open 13,2020-02-17,ATP250,Indoor,Hard,1st Round,3,Ymer M.,Gasquet R.,75.0,57.0,749.0,915.0,6,3,3,6,7,5,0,0,0,0,2020-012
+Marseille,Open 13,2020-02-17,ATP250,Indoor,Hard,1st Round,3,Paire B.,Barrere G.,20.0,89.0,1738.0,665.0,6,4,7,6,0,0,0,0,0,0,2020-012
+Marseille,Open 13,2020-02-17,ATP250,Indoor,Hard,1st Round,3,Bublik A.,Fucsovics M.,55.0,73.0,930.0,762.0,6,4,7,5,0,0,0,0,0,0,2020-012
+Marseille,Open 13,2020-02-18,ATP250,Indoor,Hard,1st Round,3,Hurkacz H.,Hoang A.,29.0,129.0,1433.0,412.0,6,4,6,1,0,0,0,0,0,0,2020-012
+Marseille,Open 13,2020-02-18,ATP250,Indoor,Hard,1st Round,3,Pospisil V.,Ruusuvuori E.,98.0,101.0,597.0,576.0,7,6,6,3,0,0,0,0,0,0,2020-012
+Marseille,Open 13,2020-02-18,ATP250,Indoor,Hard,1st Round,3,Sinner J.,Gombos N.,68.0,102.0,793.0,565.0,6,4,7,6,0,0,0,0,0,0,2020-012
+Marseille,Open 13,2020-02-18,ATP250,Indoor,Hard,1st Round,3,Cilic M.,Ivashka I.,39.0,137.0,1205.0,394.0,3,6,7,6,6,4,0,0,0,0,2020-012
+Marseille,Open 13,2020-02-18,ATP250,Indoor,Hard,1st Round,3,Simon G.,Mayot H.,58.0,509.0,890.0,55.0,6,4,7,6,0,0,0,0,0,0,2020-012
+Marseille,Open 13,2020-02-18,ATP250,Indoor,Hard,1st Round,3,Bedene A.,Khachanov K.,47.0,17.0,1010.0,2040.0,4,6,6,4,7,5,0,0,0,0,2020-012
+Marseille,Open 13,2020-02-19,ATP250,Indoor,Hard,1st Round,3,Gerasimov E.,Novak D.,72.0,95.0,764.0,609.0,7,6,6,3,0,0,0,0,0,0,2020-012
+Marseille,Open 13,2020-02-19,ATP250,Indoor,Hard,1st Round,3,Herbert P.H.,Kukushkin M.,79.0,69.0,715.0,791.0,7,6,6,4,0,0,0,0,0,0,2020-012
+Marseille,Open 13,2020-02-19,ATP250,Indoor,Hard,1st Round,3,Auger-Aliassime F.,Travaglia S.,18.0,85.0,1921.0,684.0,6,7,7,6,6,3,0,0,0,0,2020-012
+Marseille,Open 13,2020-02-19,ATP250,Indoor,Hard,2nd Round,3,Pospisil V.,Hurkacz H.,98.0,29.0,597.0,1433.0,6,3,6,4,0,0,0,0,0,0,2020-012
+Marseille,Open 13,2020-02-19,ATP250,Indoor,Hard,2nd Round,3,Tsitsipas S.,Ymer M.,6.0,75.0,4745.0,749.0,6,1,6,3,0,0,0,0,0,0,2020-012
+Marseille,Open 13,2020-02-19,ATP250,Indoor,Hard,2nd Round,3,Bublik A.,Paire B.,55.0,20.0,930.0,1738.0,3,6,6,4,6,4,0,0,0,0,2020-012
+Marseille,Open 13,2020-02-20,ATP250,Indoor,Hard,2nd Round,3,Simon G.,Bedene A.,58.0,47.0,890.0,1010.0,7,6,6,4,0,0,0,0,0,0,2020-012
+Marseille,Open 13,2020-02-20,ATP250,Indoor,Hard,2nd Round,3,Shapovalov D.,Cilic M.,15.0,39.0,2075.0,1205.0,6,4,4,6,6,2,0,0,0,0,2020-012
+Marseille,Open 13,2020-02-20,ATP250,Indoor,Hard,2nd Round,3,Medvedev D.,Sinner J.,5.0,68.0,5890.0,793.0,1,6,6,1,6,2,0,0,0,0,2020-012
+Marseille,Open 13,2020-02-20,ATP250,Indoor,Hard,2nd Round,3,Auger-Aliassime F.,Herbert P.H.,18.0,79.0,1921.0,715.0,6,0,6,7,7,6,0,0,0,0,2020-012
+Marseille,Open 13,2020-02-20,ATP250,Indoor,Hard,2nd Round,3,Gerasimov E.,Goffin D.,72.0,10.0,764.0,2600.0,6,4,7,6,0,0,0,0,0,0,2020-012
+Marseille,Open 13,2020-02-21,ATP250,Indoor,Hard,Quarterfinals,3,Bublik A.,Shapovalov D.,55.0,15.0,930.0,2075.0,7,5,4,6,6,3,0,0,0,0,2020-012
+Marseille,Open 13,2020-02-21,ATP250,Indoor,Hard,Quarterfinals,3,Tsitsipas S.,Pospisil V.,6.0,98.0,4745.0,597.0,7,5,6,3,0,0,0,0,0,0,2020-012
+Marseille,Open 13,2020-02-21,ATP250,Indoor,Hard,Quarterfinals,3,Simon G.,Medvedev D.,58.0,5.0,890.0,5890.0,6,4,6,0,0,0,0,0,0,0,2020-012
+Marseille,Open 13,2020-02-21,ATP250,Indoor,Hard,Quarterfinals,3,Auger-Aliassime F.,Gerasimov E.,18.0,72.0,1921.0,764.0,7,5,6,2,0,0,0,0,0,0,2020-012
+Marseille,Open 13,2020-02-22,ATP250,Indoor,Hard,Semifinals,3,Tsitsipas S.,Bublik A.,6.0,55.0,4745.0,930.0,7,5,6,3,0,0,0,0,0,0,2020-012
+Marseille,Open 13,2020-02-22,ATP250,Indoor,Hard,Semifinals,3,Auger-Aliassime F.,Simon G.,18.0,58.0,1921.0,890.0,7,5,7,6,0,0,0,0,0,0,2020-012
+Marseille,Open 13,2020-02-23,ATP250,Indoor,Hard,The Final,3,Tsitsipas S.,Auger-Aliassime F.,6.0,18.0,4745.0,1921.0,6,3,6,4,0,0,0,0,0,0,2020-012
+Rio de Janeiro,Rio Open,2020-02-17,ATP500,Outdoor,Clay,1st Round,3,Delbonis F.,Carballes Baena R.,86.0,93.0,676.0,639.0,6,2,6,4,0,0,0,0,0,0,2020-013
+Rio de Janeiro,Rio Open,2020-02-17,ATP500,Outdoor,Clay,1st Round,3,Garin C.,Martin A.,25.0,94.0,1550.0,629.0,4,6,7,5,7,6,0,0,0,0,2020-013
+Rio de Janeiro,Rio Open,2020-02-17,ATP500,Outdoor,Clay,1st Round,3,Andujar P.,Verdasco F.,59.0,49.0,887.0,1000.0,6,3,6,3,0,0,0,0,0,0,2020-013
+Rio de Janeiro,Rio Open,2020-02-17,ATP500,Outdoor,Clay,1st Round,3,Martinez P.,Dellien H.,133.0,78.0,404.0,738.0,3,6,6,2,7,5,0,0,0,0,2020-013
+Rio de Janeiro,Rio Open,2020-02-17,ATP500,Outdoor,Clay,1st Round,3,Seyboth Wild T.,Davidovich Fokina A.,206.0,90.0,235.0,655.0,5,7,7,6,7,5,0,0,0,0,2020-013
+Rio de Janeiro,Rio Open,2020-02-17,ATP500,Outdoor,Clay,1st Round,3,Coria F.,Moutet C.,116.0,77.0,466.0,742.0,1,6,7,6,7,6,0,0,0,0,2020-013
+Rio de Janeiro,Rio Open,2020-02-18,ATP500,Outdoor,Clay,1st Round,3,Alcaraz C.,Ramos-Vinolas A.,406.0,41.0,82.0,1130.0,7,6,4,6,7,6,0,0,0,0,2020-013
+Rio de Janeiro,Rio Open,2020-02-18,ATP500,Outdoor,Clay,1st Round,3,Balazs A.,Cuevas P.,106.0,46.0,525.0,1017.0,6,4,6,3,0,0,0,0,0,0,2020-013
+Rio de Janeiro,Rio Open,2020-02-18,ATP500,Outdoor,Clay,1st Round,3,Lajovic D.,Cecchinato M.,23.0,111.0,1641.0,508.0,6,4,6,7,6,1,0,0,0,0,2020-013
+Rio de Janeiro,Rio Open,2020-02-18,ATP500,Outdoor,Clay,1st Round,3,Coric B.,Londero J.I.,32.0,61.0,1320.0,881.0,7,6,7,5,0,0,0,0,0,0,2020-013
+Rio de Janeiro,Rio Open,2020-02-18,ATP500,Outdoor,Clay,1st Round,3,Munar J.,Caruso S.,99.0,97.0,593.0,600.0,7,5,6,4,0,0,0,0,0,0,2020-013
+Rio de Janeiro,Rio Open,2020-02-18,ATP500,Outdoor,Clay,1st Round,3,Sonego L.,Mayer L.,52.0,109.0,960.0,509.0,6,1,5,7,6,4,0,0,0,0,2020-013
+Rio de Janeiro,Rio Open,2020-02-18,ATP500,Outdoor,Clay,1st Round,3,Domingues J.,Gaio F.,169.0,127.0,292.0,422.0,7,6,6,4,0,0,0,0,0,0,2020-013
+Rio de Janeiro,Rio Open,2020-02-18,ATP500,Outdoor,Clay,1st Round,3,Mager G.,Ruud C.,128.0,34.0,413.0,1313.0,7,6,7,5,0,0,0,0,0,0,2020-013
+Rio de Janeiro,Rio Open,2020-02-18,ATP500,Outdoor,Clay,1st Round,3,Thiem D.,Meligeni Rodrigues F,4.0,341.0,7045.0,111.0,6,2,4,6,6,1,0,0,0,0,2020-013
+Rio de Janeiro,Rio Open,2020-02-19,ATP500,Outdoor,Clay,1st Round,3,Monteiro T.,Pella G.,88.0,26.0,669.0,1515.0,5,7,6,4,7,6,0,0,0,0,2020-013
+Rio de Janeiro,Rio Open,2020-02-19,ATP500,Outdoor,Clay,2nd Round,3,Garin C.,Delbonis F.,25.0,86.0,1550.0,676.0,6,4,6,3,0,0,0,0,0,0,2020-013
+Rio de Janeiro,Rio Open,2020-02-19,ATP500,Outdoor,Clay,2nd Round,3,Martinez P.,Andujar P.,133.0,59.0,404.0,887.0,6,1,6,4,0,0,0,0,0,0,2020-013
+Rio de Janeiro,Rio Open,2020-02-19,ATP500,Outdoor,Clay,2nd Round,3,Balazs A.,Monteiro T.,106.0,88.0,525.0,669.0,1,6,6,1,6,4,0,0,0,0,2020-013
+Rio de Janeiro,Rio Open,2020-02-20,ATP500,Outdoor,Clay,2nd Round,3,Coria F.,Alcaraz C.,116.0,406.0,466.0,82.0,6,4,4,6,6,4,0,0,0,0,2020-013
+Rio de Janeiro,Rio Open,2020-02-20,ATP500,Outdoor,Clay,2nd Round,3,Mager G.,Domingues J.,128.0,169.0,413.0,292.0,6,3,7,6,0,0,0,0,0,0,2020-013
+Rio de Janeiro,Rio Open,2020-02-20,ATP500,Outdoor,Clay,2nd Round,3,Sonego L.,Lajovic D.,52.0,23.0,960.0,1641.0,7,6,7,6,0,0,0,0,0,0,2020-013
+Rio de Janeiro,Rio Open,2020-02-20,ATP500,Outdoor,Clay,2nd Round,3,Coric B.,Seyboth Wild T.,32.0,206.0,1320.0,235.0,6,3,1,6,7,6,0,0,0,0,2020-013
+Rio de Janeiro,Rio Open,2020-02-21,ATP500,Outdoor,Clay,2nd Round,3,Thiem D.,Munar J.,4.0,99.0,7045.0,593.0,6,7,6,3,6,4,0,0,0,0,2020-013
+Rio de Janeiro,Rio Open,2020-02-21,ATP500,Outdoor,Clay,Quarterfinals,3,Garin C.,Coria F.,25.0,116.0,1550.0,466.0,2,6,6,3,7,5,0,0,0,0,2020-013
+Rio de Janeiro,Rio Open,2020-02-22,ATP500,Outdoor,Clay,Quarterfinals,3,Coric B.,Sonego L.,32.0,52.0,1320.0,960.0,7,6,6,3,0,0,0,0,0,0,2020-013
+Rio de Janeiro,Rio Open,2020-02-22,ATP500,Outdoor,Clay,Quarterfinals,3,Balazs A.,Martinez P.,106.0,133.0,525.0,404.0,2,6,6,4,6,2,0,0,0,0,2020-013
+Rio de Janeiro,Rio Open,2020-02-22,ATP500,Outdoor,Clay,Quarterfinals,3,Mager G.,Thiem D.,128.0,4.0,413.0,7045.0,7,6,7,5,0,0,0,0,0,0,2020-013
+Rio de Janeiro,Rio Open,2020-02-23,ATP500,Outdoor,Clay,Semifinals,3,Garin C.,Coric B.,25.0,32.0,1550.0,1320.0,6,4,7,5,0,0,0,0,0,0,2020-013
+Rio de Janeiro,Rio Open,2020-02-23,ATP500,Outdoor,Clay,Semifinals,3,Mager G.,Balazs A.,128.0,106.0,413.0,525.0,7,6,4,6,7,6,0,0,0,0,2020-013
+Rio de Janeiro,Rio Open,2020-02-23,ATP500,Outdoor,Clay,The Final,3,Garin C.,Mager G.,25.0,128.0,1550.0,413.0,7,6,7,5,0,0,0,0,0,0,2020-013
+Acapulco,Abierto Mexicano,2020-02-24,ATP500,Outdoor,Hard,1st Round,3,Mannarino A.,Norrie C.,42.0,58.0,1086.0,872.0,2,6,6,3,6,3,0,0,0,0,2020-014
+Acapulco,Abierto Mexicano,2020-02-25,ATP500,Outdoor,Hard,1st Round,3,Paul T.,Mcdonald M.,66.0,196.0,792.0,257.0,6,7,6,4,6,4,0,0,0,0,2020-014
+Acapulco,Abierto Mexicano,2020-02-25,ATP500,Outdoor,Hard,1st Round,3,Kecmanovic M.,De Minaur A.,50.0,25.0,1003.0,1575.0,3,6,6,4,6,3,0,0,0,0,2020-014
+Acapulco,Abierto Mexicano,2020-02-25,ATP500,Outdoor,Hard,1st Round,3,Wawrinka S.,Tiafoe F.,16.0,82.0,2060.0,700.0,6,3,6,7,7,6,0,0,0,0,2020-014
+Acapulco,Abierto Mexicano,2020-02-25,ATP500,Outdoor,Hard,1st Round,3,Giron M.,Lopez Villasenor G.,115.0,518.0,498.0,54.0,6,4,7,6,0,0,0,0,0,0,2020-014
+Acapulco,Abierto Mexicano,2020-02-25,ATP500,Outdoor,Hard,1st Round,3,Edmund K.,Lopez F.,44.0,52.0,1085.0,953.0,6,4,6,1,0,0,0,0,0,0,2020-014
+Acapulco,Abierto Mexicano,2020-02-25,ATP500,Outdoor,Hard,1st Round,3,Martinez P.,Albot R.,113.0,69.0,504.0,772.0,6,3,6,2,0,0,0,0,0,0,2020-014
+Acapulco,Abierto Mexicano,2020-02-25,ATP500,Outdoor,Hard,1st Round,3,Kwon S.W.,Daniel T.,76.0,110.0,732.0,511.0,6,2,2,6,6,3,0,0,0,0,2020-014
+Acapulco,Abierto Mexicano,2020-02-25,ATP500,Outdoor,Hard,1st Round,3,Dimitrov G.,Dzumhur D.,22.0,109.0,1682.0,520.0,6,3,6,3,0,0,0,0,0,0,2020-014
+Acapulco,Abierto Mexicano,2020-02-25,ATP500,Outdoor,Hard,1st Round,3,Auger-Aliassime F.,Bolt A.,19.0,137.0,1771.0,395.0,6,3,7,6,0,0,0,0,0,0,2020-014
+Acapulco,Abierto Mexicano,2020-02-26,ATP500,Outdoor,Hard,1st Round,3,Lajovic D.,Johnson S.,24.0,73.0,1670.0,745.0,6,7,6,4,6,3,0,0,0,0,2020-014
+Acapulco,Abierto Mexicano,2020-02-26,ATP500,Outdoor,Hard,1st Round,3,Zverev A.,Jung J.,7.0,119.0,3885.0,457.0,7,6,6,1,0,0,0,0,0,0,2020-014
+Acapulco,Abierto Mexicano,2020-02-26,ATP500,Outdoor,Hard,1st Round,3,Nadal R.,Andujar P.,2.0,54.0,9395.0,932.0,6,3,6,2,0,0,0,0,0,0,2020-014
+Acapulco,Abierto Mexicano,2020-02-26,ATP500,Outdoor,Hard,1st Round,3,Fritz T.,Millman J.,35.0,40.0,1255.0,1141.0,7,5,3,6,6,1,0,0,0,0,2020-014
+Acapulco,Abierto Mexicano,2020-02-26,ATP500,Outdoor,Hard,1st Round,3,Isner J.,Zverev M.,20.0,257.0,1760.0,182.0,6,3,7,6,0,0,0,0,0,0,2020-014
+Acapulco,Abierto Mexicano,2020-02-26,ATP500,Outdoor,Hard,1st Round,3,Humbert U.,Kyrgios N.,43.0,23.0,1086.0,1670.0,6,3,0,0,0,0,0,0,0,0,2020-014
+Acapulco,Abierto Mexicano,2020-02-26,ATP500,Outdoor,Hard,2nd Round,3,Edmund K.,Auger-Aliassime F.,44.0,19.0,1085.0,1771.0,6,4,6,4,0,0,0,0,0,0,2020-014
+Acapulco,Abierto Mexicano,2020-02-26,ATP500,Outdoor,Hard,2nd Round,3,Kwon S.W.,Lajovic D.,76.0,24.0,732.0,1670.0,7,6,6,0,0,0,0,0,0,0,2020-014
+Acapulco,Abierto Mexicano,2020-02-26,ATP500,Outdoor,Hard,2nd Round,3,Isner J.,Giron M.,20.0,115.0,1760.0,498.0,6,3,7,6,0,0,0,0,0,0,2020-014
+Acapulco,Abierto Mexicano,2020-02-27,ATP500,Outdoor,Hard,2nd Round,3,Paul T.,Zverev A.,66.0,7.0,792.0,3885.0,6,3,6,4,0,0,0,0,0,0,2020-014
+Acapulco,Abierto Mexicano,2020-02-27,ATP500,Outdoor,Hard,2nd Round,3,Dimitrov G.,Mannarino A.,22.0,42.0,1682.0,1086.0,6,7,6,2,7,6,0,0,0,0,2020-014
+Acapulco,Abierto Mexicano,2020-02-27,ATP500,Outdoor,Hard,2nd Round,3,Fritz T.,Humbert U.,35.0,43.0,1255.0,1086.0,6,4,6,1,0,0,0,0,0,0,2020-014
+Acapulco,Abierto Mexicano,2020-02-27,ATP500,Outdoor,Hard,2nd Round,3,Wawrinka S.,Martinez P.,16.0,113.0,2060.0,504.0,6,4,6,4,0,0,0,0,0,0,2020-014
+Acapulco,Abierto Mexicano,2020-02-27,ATP500,Outdoor,Hard,2nd Round,3,Nadal R.,Kecmanovic M.,2.0,50.0,9395.0,1003.0,6,2,7,5,0,0,0,0,0,0,2020-014
+Acapulco,Abierto Mexicano,2020-02-27,ATP500,Outdoor,Hard,Quarterfinals,3,Isner J.,Paul T.,20.0,66.0,1760.0,792.0,7,6,3,6,6,2,0,0,0,0,2020-014
+Acapulco,Abierto Mexicano,2020-02-28,ATP500,Outdoor,Hard,Quarterfinals,3,Fritz T.,Edmund K.,35.0,44.0,1255.0,1085.0,6,4,6,3,0,0,0,0,0,0,2020-014
+Acapulco,Abierto Mexicano,2020-02-28,ATP500,Outdoor,Hard,Quarterfinals,3,Dimitrov G.,Wawrinka S.,22.0,16.0,1682.0,2060.0,6,4,6,4,0,0,0,0,0,0,2020-014
+Acapulco,Abierto Mexicano,2020-02-28,ATP500,Outdoor,Hard,Quarterfinals,3,Nadal R.,Kwon S.W.,2.0,76.0,9395.0,732.0,6,2,6,1,0,0,0,0,0,0,2020-014
+Acapulco,Abierto Mexicano,2020-02-29,ATP500,Outdoor,Hard,Semifinals,3,Fritz T.,Isner J.,35.0,20.0,1255.0,1760.0,2,6,7,5,6,3,0,0,0,0,2020-014
+Acapulco,Abierto Mexicano,2020-02-29,ATP500,Outdoor,Hard,Semifinals,3,Nadal R.,Dimitrov G.,2.0,22.0,9395.0,1682.0,6,3,6,2,0,0,0,0,0,0,2020-014
+Acapulco,Abierto Mexicano,2020-03-01,ATP500,Outdoor,Hard,The Final,3,Nadal R.,Fritz T.,2.0,35.0,9395.0,1255.0,6,3,6,2,0,0,0,0,0,0,2020-014
+Dubai ,Dubai Tennis Championships,2020-02-24,ATP500,Outdoor,Hard,1st Round,3,Khachanov K.,Kukushkin M.,17.0,89.0,2040.0,661.0,7,6,6,1,0,0,0,0,0,0,2020-015
+Dubai ,Dubai Tennis Championships,2020-02-24,ATP500,Outdoor,Hard,1st Round,3,Kohlschreiber P.,Safwat M.,80.0,132.0,704.0,407.0,4,6,6,4,6,0,0,0,0,0,2020-015
+Dubai ,Dubai Tennis Championships,2020-02-24,ATP500,Outdoor,Hard,1st Round,3,Rublev A.,Musetti L.,14.0,311.0,2219.0,129.0,6,4,6,4,0,0,0,0,0,0,2020-015
+Dubai ,Dubai Tennis Championships,2020-02-24,ATP500,Outdoor,Hard,1st Round,3,Gasquet R.,Harris L.,56.0,93.0,915.0,641.0,7,6,6,4,0,0,0,0,0,0,2020-015
+Dubai ,Dubai Tennis Championships,2020-02-24,ATP500,Outdoor,Hard,1st Round,3,Djokovic N.,Jaziri M.,1.0,260.0,9720.0,181.0,6,1,6,2,0,0,0,0,0,0,2020-015
+Dubai ,Dubai Tennis Championships,2020-02-24,ATP500,Outdoor,Hard,1st Round,3,Monfils G.,Fucsovics M.,9.0,70.0,2860.0,762.0,6,4,7,5,0,0,0,0,0,0,2020-015
+Dubai ,Dubai Tennis Championships,2020-02-25,ATP500,Outdoor,Hard,1st Round,3,Paire B.,Cilic M.,21.0,36.0,1738.0,1225.0,2,6,7,5,7,6,0,0,0,0,2020-015
+Dubai ,Dubai Tennis Championships,2020-02-25,ATP500,Outdoor,Hard,1st Round,3,Novak D.,Gunneswaran P.,96.0,134.0,621.0,405.0,6,4,6,3,0,0,0,0,0,0,2020-015
+Dubai ,Dubai Tennis Championships,2020-02-25,ATP500,Outdoor,Hard,1st Round,3,Uchiyama Y.,Lu Y.H.,99.0,962.0,604.0,10.0,3,6,6,1,6,2,0,0,0,0,2020-015
+Dubai ,Dubai Tennis Championships,2020-02-25,ATP500,Outdoor,Hard,1st Round,3,Krajinovic F.,Sousa J.,33.0,68.0,1318.0,776.0,4,6,6,3,6,3,0,0,0,0,2020-015
+Dubai ,Dubai Tennis Championships,2020-02-25,ATP500,Outdoor,Hard,1st Round,3,Bublik A.,Hurkacz H.,47.0,30.0,1010.0,1433.0,6,2,7,5,0,0,0,0,0,0,2020-015
+Dubai ,Dubai Tennis Championships,2020-02-25,ATP500,Outdoor,Hard,1st Round,3,Evans D.,Fognini F.,37.0,11.0,1224.0,2400.0,3,6,6,4,7,5,0,0,0,0,2020-015
+Dubai ,Dubai Tennis Championships,2020-02-25,ATP500,Outdoor,Hard,1st Round,3,Herbert P.H.,Nishioka Y.,78.0,48.0,715.0,1007.0,7,5,6,2,0,0,0,0,0,0,2020-015
+Dubai ,Dubai Tennis Championships,2020-02-25,ATP500,Outdoor,Hard,1st Round,3,Basilashvili N.,Berankis R.,29.0,62.0,1440.0,841.0,5,7,7,6,6,3,0,0,0,0,2020-015
+Dubai ,Dubai Tennis Championships,2020-02-25,ATP500,Outdoor,Hard,1st Round,3,Tsitsipas S.,Carreno Busta P.,6.0,27.0,4745.0,1500.0,7,6,6,1,0,0,0,0,0,0,2020-015
+Dubai ,Dubai Tennis Championships,2020-02-25,ATP500,Outdoor,Hard,1st Round,3,Struff J.L.,Bautista Agut R.,34.0,12.0,1270.0,2360.0,7,6,7,5,0,0,0,0,0,0,2020-015
+Dubai ,Dubai Tennis Championships,2020-02-26,ATP500,Outdoor,Hard,2nd Round,3,Evans D.,Herbert P.H.,37.0,78.0,1224.0,715.0,7,5,3,6,7,6,0,0,0,0,2020-015
+Dubai ,Dubai Tennis Championships,2020-02-26,ATP500,Outdoor,Hard,2nd Round,3,Rublev A.,Krajinovic F.,14.0,33.0,2219.0,1318.0,7,6,6,0,0,0,0,0,0,0,2020-015
+Dubai ,Dubai Tennis Championships,2020-02-26,ATP500,Outdoor,Hard,2nd Round,3,Tsitsipas S.,Bublik A.,6.0,47.0,4745.0,1010.0,7,6,6,4,0,0,0,0,0,0,2020-015
+Dubai ,Dubai Tennis Championships,2020-02-26,ATP500,Outdoor,Hard,2nd Round,3,Khachanov K.,Novak D.,17.0,96.0,2040.0,621.0,6,3,6,4,0,0,0,0,0,0,2020-015
+Dubai ,Dubai Tennis Championships,2020-02-26,ATP500,Outdoor,Hard,2nd Round,3,Struff J.L.,Basilashvili N.,34.0,29.0,1270.0,1440.0,6,1,6,0,0,0,0,0,0,0,2020-015
+Dubai ,Dubai Tennis Championships,2020-02-26,ATP500,Outdoor,Hard,2nd Round,3,Djokovic N.,Kohlschreiber P.,1.0,80.0,9720.0,704.0,6,3,6,1,0,0,0,0,0,0,2020-015
+Dubai ,Dubai Tennis Championships,2020-02-26,ATP500,Outdoor,Hard,2nd Round,3,Gasquet R.,Paire B.,56.0,21.0,915.0,1738.0,6,4,6,4,0,0,0,0,0,0,2020-015
+Dubai ,Dubai Tennis Championships,2020-02-26,ATP500,Outdoor,Hard,2nd Round,3,Monfils G.,Uchiyama Y.,9.0,99.0,2860.0,604.0,6,1,6,2,0,0,0,0,0,0,2020-015
+Dubai ,Dubai Tennis Championships,2020-02-27,ATP500,Outdoor,Hard,Quarterfinals,3,Evans D.,Rublev A.,37.0,14.0,1224.0,2219.0,6,2,7,6,0,0,0,0,0,0,2020-015
+Dubai ,Dubai Tennis Championships,2020-02-27,ATP500,Outdoor,Hard,Quarterfinals,3,Tsitsipas S.,Struff J.L.,6.0,34.0,4745.0,1270.0,4,6,6,4,6,4,0,0,0,0,2020-015
+Dubai ,Dubai Tennis Championships,2020-02-27,ATP500,Outdoor,Hard,Quarterfinals,3,Djokovic N.,Khachanov K.,1.0,17.0,9720.0,2040.0,6,2,6,2,0,0,0,0,0,0,2020-015
+Dubai ,Dubai Tennis Championships,2020-02-27,ATP500,Outdoor,Hard,Quarterfinals,3,Monfils G.,Gasquet R.,9.0,56.0,2860.0,915.0,6,3,6,3,0,0,0,0,0,0,2020-015
+Dubai ,Dubai Tennis Championships,2020-02-28,ATP500,Outdoor,Hard,Semifinals,3,Tsitsipas S.,Evans D.,6.0,37.0,4745.0,1224.0,6,2,6,3,0,0,0,0,0,0,2020-015
+Dubai ,Dubai Tennis Championships,2020-02-28,ATP500,Outdoor,Hard,Semifinals,3,Djokovic N.,Monfils G.,1.0,9.0,9720.0,2860.0,2,6,7,6,6,1,0,0,0,0,2020-015
+Dubai ,Dubai Tennis Championships,2020-02-29,ATP500,Outdoor,Hard,The Final,3,Djokovic N.,Tsitsipas S.,1.0,6.0,9720.0,4745.0,6,3,6,4,0,0,0,0,0,0,2020-015
+Santiago,Chile Open,2020-02-24,ATP250,Indoor,Clay,1st Round,3,Dellien H.,Cecchinato M.,94.0,112.0,638.0,508.0,6,3,1,6,6,3,0,0,0,0,2020-016
+Santiago,Chile Open,2020-02-24,ATP250,Indoor,Clay,1st Round,3,Seyboth Wild T.,Bagnis F.,182.0,131.0,277.0,409.0,6,1,3,6,6,1,0,0,0,0,2020-016
+Santiago,Chile Open,2020-02-24,ATP250,Indoor,Clay,1st Round,3,Carballes Baena R.,Munar J.,97.0,105.0,614.0,548.0,6,4,4,6,6,4,0,0,0,0,2020-016
+Santiago,Chile Open,2020-02-24,ATP250,Indoor,Clay,1st Round,3,Barrios Vera M.T.,Taberner C.,300.0,175.0,134.0,281.0,4,6,6,4,6,2,0,0,0,0,2020-016
+Santiago,Chile Open,2020-02-25,ATP250,Indoor,Clay,1st Round,3,Davidovich Fokina A.,Martin A.,98.0,95.0,611.0,629.0,2,6,7,6,6,3,0,0,0,0,2020-016
+Santiago,Chile Open,2020-02-25,ATP250,Indoor,Clay,1st Round,3,Monteiro T.,Mayer L.,88.0,111.0,669.0,509.0,6,7,6,3,6,4,0,0,0,0,2020-016
+Santiago,Chile Open,2020-02-25,ATP250,Indoor,Clay,1st Round,3,Olivo R.,Sousa P.,297.0,108.0,139.0,522.0,4,6,6,3,6,4,0,0,0,0,2020-016
+Santiago,Chile Open,2020-02-25,ATP250,Indoor,Clay,1st Round,3,Delbonis F.,Klizan M.,85.0,158.0,676.0,315.0,6,1,7,6,0,0,0,0,0,0,2020-016
+Santiago,Chile Open,2020-02-25,ATP250,Indoor,Clay,1st Round,3,Caruso S.,Kovalik J.,100.0,120.0,600.0,447.0,6,2,6,3,0,0,0,0,0,0,2020-016
+Santiago,Chile Open,2020-02-25,ATP250,Indoor,Clay,1st Round,3,Varillas J.P.,Horansky F.,146.0,164.0,380.0,296.0,6,4,6,2,0,0,0,0,0,0,2020-016
+Santiago,Chile Open,2020-02-25,ATP250,Indoor,Clay,1st Round,3,Londero J.I.,Coria F.,63.0,104.0,832.0,569.0,6,4,6,2,0,0,0,0,0,0,2020-016
+Santiago,Chile Open,2020-02-25,ATP250,Indoor,Clay,1st Round,3,Tabilo A.,Lorenzi P.,166.0,121.0,290.0,446.0,6,3,6,4,0,0,0,0,0,0,2020-016
+Santiago,Chile Open,2020-02-26,ATP250,Indoor,Clay,2nd Round,3,Olivo R.,Cuevas P.,297.0,60.0,139.0,857.0,5,7,7,6,7,6,0,0,0,0,2020-016
+Santiago,Chile Open,2020-02-26,ATP250,Indoor,Clay,2nd Round,3,Delbonis F.,Caruso S.,85.0,100.0,676.0,600.0,7,6,6,3,0,0,0,0,0,0,2020-016
+Santiago,Chile Open,2020-02-26,ATP250,Indoor,Clay,2nd Round,3,Dellien H.,Barrios Vera M.T.,94.0,300.0,638.0,134.0,6,3,7,6,0,0,0,0,0,0,2020-016
+Santiago,Chile Open,2020-02-26,ATP250,Indoor,Clay,2nd Round,3,Ruud C.,Tabilo A.,38.0,166.0,1219.0,290.0,6,4,7,5,0,0,0,0,0,0,2020-016
+Santiago,Chile Open,2020-02-27,ATP250,Indoor,Clay,2nd Round,3,Monteiro T.,Carballes Baena R.,88.0,97.0,669.0,614.0,6,1,6,4,0,0,0,0,0,0,2020-016
+Santiago,Chile Open,2020-02-27,ATP250,Indoor,Clay,2nd Round,3,Seyboth Wild T.,Londero J.I.,182.0,63.0,277.0,832.0,7,6,6,4,0,0,0,0,0,0,2020-016
+Santiago,Chile Open,2020-02-27,ATP250,Indoor,Clay,2nd Round,3,Ramos-Vinolas A.,Varillas J.P.,45.0,146.0,1085.0,380.0,7,6,6,2,0,0,0,0,0,0,2020-016
+Santiago,Chile Open,2020-02-27,ATP250,Indoor,Clay,2nd Round,3,Garin C.,Davidovich Fokina A.,18.0,98.0,2005.0,611.0,6,2,0,6,7,6,0,0,0,0,2020-016
+Santiago,Chile Open,2020-02-28,ATP250,Indoor,Clay,Quarterfinals,3,Ruud C.,Delbonis F.,38.0,85.0,1219.0,676.0,7,5,7,5,0,0,0,0,0,0,2020-016
+Santiago,Chile Open,2020-02-28,ATP250,Indoor,Clay,Quarterfinals,3,Ramos-Vinolas A.,Monteiro T.,45.0,88.0,1085.0,669.0,6,4,6,4,0,0,0,0,0,0,2020-016
+Santiago,Chile Open,2020-02-28,ATP250,Indoor,Clay,Quarterfinals,3,Olivo R.,Dellien H.,297.0,94.0,139.0,638.0,3,6,7,6,7,5,0,0,0,0,2020-016
+Santiago,Chile Open,2020-02-29,ATP250,Indoor,Clay,Quarterfinals,3,Seyboth Wild T.,Garin C.,182.0,18.0,277.0,2005.0,7,6,0,0,0,0,0,0,0,0,2020-016
+Santiago,Chile Open,2020-02-29,ATP250,Indoor,Clay,Semifinals,3,Ruud C.,Ramos-Vinolas A.,38.0,45.0,1219.0,1085.0,7,6,6,2,0,0,0,0,0,0,2020-016
+Santiago,Chile Open,2020-02-29,ATP250,Indoor,Clay,Semifinals,3,Seyboth Wild T.,Olivo R.,182.0,297.0,277.0,139.0,6,1,6,3,0,0,0,0,0,0,2020-016
+Santiago,Chile Open,2020-03-01,ATP250,Indoor,Clay,The Final,3,Seyboth Wild T.,Ruud C.,182.0,38.0,277.0,1219.0,7,5,4,6,6,3,0,0,0,0,2020-016
+New York,Western & Southern Financial Group Masters,2020-08-22,Masters 1000,Outdoor,Hard,1st Round,3,Auger-Aliassime F.,Basilashvili N.,20.0,27.0,1771.0,1395.0,6,4,6,1,0,0,0,0,0,0,2020-017
+New York,Western & Southern Financial Group Masters,2020-08-22,Masters 1000,Outdoor,Hard,1st Round,3,Carreno Busta P.,Lajovic D.,25.0,23.0,1500.0,1695.0,7,5,6,1,0,0,0,0,0,0,2020-017
+New York,Western & Southern Financial Group Masters,2020-08-22,Masters 1000,Outdoor,Hard,1st Round,3,Struff J.L.,De Minaur A.,34.0,26.0,1315.0,1485.0,6,2,6,4,0,0,0,0,0,0,2020-017
+New York,Western & Southern Financial Group Masters,2020-08-22,Masters 1000,Outdoor,Hard,1st Round,3,Anderson K.,Edmund K.,124.0,44.0,445.0,1050.0,7,6,4,6,6,3,0,0,0,0,2020-017
+New York,Western & Southern Financial Group Masters,2020-08-22,Masters 1000,Outdoor,Hard,1st Round,3,Opelka R.,Norrie C.,39.0,77.0,1177.0,712.0,6,3,6,4,0,0,0,0,0,0,2020-017
+New York,Western & Southern Financial Group Masters,2020-08-22,Masters 1000,Outdoor,Hard,1st Round,3,Coric B.,Paire B.,33.0,22.0,1320.0,1738.0,6,0,1,0,0,0,0,0,0,0,2020-017
+New York,Western & Southern Financial Group Masters,2020-08-22,Masters 1000,Outdoor,Hard,1st Round,3,Fritz T.,Harris L.,24.0,97.0,1510.0,616.0,6,1,6,3,0,0,0,0,0,0,2020-017
+New York,Western & Southern Financial Group Masters,2020-08-22,Masters 1000,Outdoor,Hard,1st Round,3,Krajinovic F.,Caruso S.,32.0,99.0,1343.0,597.0,7,5,6,4,0,0,0,0,0,0,2020-017
+New York,Western & Southern Financial Group Masters,2020-08-22,Masters 1000,Outdoor,Hard,1st Round,3,Murray A.,Tiafoe F.,134.0,81.0,412.0,700.0,7,6,3,6,6,1,0,0,0,0,2020-017
+New York,Western & Southern Financial Group Masters,2020-08-22,Masters 1000,Outdoor,Hard,1st Round,3,Berankis R.,Paul T.,72.0,57.0,739.0,894.0,6,7,6,4,7,5,0,0,0,0,2020-017
+New York,Western & Southern Financial Group Masters,2020-08-23,Masters 1000,Outdoor,Hard,1st Round,3,Raonic M.,Querrey S.,30.0,45.0,1350.0,1045.0,6,4,6,4,0,0,0,0,0,0,2020-017
+New York,Western & Southern Financial Group Masters,2020-08-23,Masters 1000,Outdoor,Hard,1st Round,3,Shapovalov D.,Cilic M.,17.0,37.0,2075.0,1225.0,6,3,6,3,0,0,0,0,0,0,2020-017
+New York,Western & Southern Financial Group Masters,2020-08-23,Masters 1000,Outdoor,Hard,1st Round,3,Khachanov K.,Bublik A.,16.0,51.0,2120.0,965.0,6,4,6,4,0,0,0,0,0,0,2020-017
+New York,Western & Southern Financial Group Masters,2020-08-23,Masters 1000,Outdoor,Hard,1st Round,3,Sandgren T.,Sonego L.,55.0,46.0,923.0,1030.0,6,3,7,6,0,0,0,0,0,0,2020-017
+New York,Western & Southern Financial Group Masters,2020-08-23,Masters 1000,Outdoor,Hard,1st Round,3,Schwartzman D.,Ruud C.,13.0,36.0,2265.0,1279.0,7,6,6,3,0,0,0,0,0,0,2020-017
+New York,Western & Southern Financial Group Masters,2020-08-23,Masters 1000,Outdoor,Hard,1st Round,3,Giron M.,Mcdonald M.,101.0,269.0,577.0,172.0,7,6,7,5,0,0,0,0,0,0,2020-017
+New York,Western & Southern Financial Group Masters,2020-08-23,Masters 1000,Outdoor,Hard,1st Round,3,Bedene A.,Garin C.,61.0,18.0,850.0,1900.0,6,4,6,7,6,0,0,0,0,0,2020-017
+New York,Western & Southern Financial Group Masters,2020-08-23,Masters 1000,Outdoor,Hard,1st Round,3,Fucsovics M.,Gombos N.,84.0,109.0,692.0,522.0,6,3,6,4,0,0,0,0,0,0,2020-017
+New York,Western & Southern Financial Group Masters,2020-08-23,Masters 1000,Outdoor,Hard,1st Round,3,Evans D.,Rublev A.,28.0,14.0,1359.0,2234.0,7,5,3,6,6,2,0,0,0,0,2020-017
+New York,Western & Southern Financial Group Masters,2020-08-23,Masters 1000,Outdoor,Hard,1st Round,3,Dimitrov G.,Humbert U.,19.0,42.0,1850.0,1111.0,6,3,6,4,0,0,0,0,0,0,2020-017
+New York,Western & Southern Financial Group Masters,2020-08-23,Masters 1000,Outdoor,Hard,1st Round,3,Isner J.,Hurkacz H.,21.0,29.0,1760.0,1353.0,7,5,6,4,0,0,0,0,0,0,2020-017
+New York,Western & Southern Financial Group Masters,2020-08-23,Masters 1000,Outdoor,Hard,1st Round,3,Millman J.,Mannarino A.,43.0,38.0,1071.0,1191.0,4,6,6,4,7,6,0,0,0,0,2020-017
+New York,Western & Southern Financial Group Masters,2020-08-23,Masters 1000,Outdoor,Hard,1st Round,3,Gasquet R.,Wolf J.J.,50.0,143.0,985.0,383.0,6,4,6,4,0,0,0,0,0,0,2020-017
+New York,Western & Southern Financial Group Masters,2020-08-24,Masters 1000,Outdoor,Hard,1st Round,3,Ruusuvuori E.,Korda S.,100.0,225.0,584.0,220.0,7,6,4,6,7,5,0,0,0,0,2020-017
+New York,Western & Southern Financial Group Masters,2020-08-24,Masters 1000,Outdoor,Hard,2nd Round,3,Tsitsipas S.,Anderson K.,6.0,124.0,4745.0,445.0,6,1,6,3,0,0,0,0,0,0,2020-017
+New York,Western & Southern Financial Group Masters,2020-08-24,Masters 1000,Outdoor,Hard,2nd Round,3,Goffin D.,Coric B.,10.0,33.0,2555.0,1320.0,7,6,6,4,0,0,0,0,0,0,2020-017
+New York,Western & Southern Financial Group Masters,2020-08-24,Masters 1000,Outdoor,Hard,2nd Round,3,Bedene A.,Fritz T.,61.0,24.0,850.0,1510.0,7,6,7,5,0,0,0,0,0,0,2020-017
+New York,Western & Southern Financial Group Masters,2020-08-24,Masters 1000,Outdoor,Hard,2nd Round,3,Medvedev D.,Giron M.,5.0,101.0,5890.0,577.0,6,4,6,4,0,0,0,0,0,0,2020-017
+New York,Western & Southern Financial Group Masters,2020-08-24,Masters 1000,Outdoor,Hard,2nd Round,3,Raonic M.,Evans D.,30.0,28.0,1350.0,1359.0,6,3,7,5,0,0,0,0,0,0,2020-017
+New York,Western & Southern Financial Group Masters,2020-08-24,Masters 1000,Outdoor,Hard,2nd Round,3,Sandgren T.,Auger-Aliassime F.,55.0,20.0,923.0,1771.0,6,7,6,2,7,6,0,0,0,0,2020-017
+New York,Western & Southern Financial Group Masters,2020-08-24,Masters 1000,Outdoor,Hard,2nd Round,3,Khachanov K.,Carreno Busta P.,16.0,25.0,2120.0,1500.0,7,6,6,1,0,0,0,0,0,0,2020-017
+New York,Western & Southern Financial Group Masters,2020-08-24,Masters 1000,Outdoor,Hard,2nd Round,3,Isner J.,Millman J.,21.0,43.0,1760.0,1071.0,4,6,7,6,7,6,0,0,0,0,2020-017
+New York,Western & Southern Financial Group Masters,2020-08-24,Masters 1000,Outdoor,Hard,2nd Round,3,Opelka R.,Schwartzman D.,39.0,13.0,1177.0,2265.0,6,3,7,6,0,0,0,0,0,0,2020-017
+New York,Western & Southern Financial Group Masters,2020-08-24,Masters 1000,Outdoor,Hard,2nd Round,3,Struff J.L.,Shapovalov D.,34.0,17.0,1315.0,2075.0,7,6,3,6,6,4,0,0,0,0,2020-017
+New York,Western & Southern Financial Group Masters,2020-08-24,Masters 1000,Outdoor,Hard,2nd Round,3,Bautista Agut R.,Gasquet R.,12.0,50.0,2360.0,985.0,7,5,6,1,0,0,0,0,0,0,2020-017
+New York,Western & Southern Financial Group Masters,2020-08-24,Masters 1000,Outdoor,Hard,2nd Round,3,Murray A.,Zverev A.,134.0,7.0,412.0,3630.0,6,3,3,6,7,5,0,0,0,0,2020-017
+New York,Western & Southern Financial Group Masters,2020-08-25,Masters 1000,Outdoor,Hard,2nd Round,3,Berrettini M.,Ruusuvuori E.,8.0,100.0,2860.0,584.0,6,4,6,7,7,5,0,0,0,0,2020-017
+New York,Western & Southern Financial Group Masters,2020-08-25,Masters 1000,Outdoor,Hard,2nd Round,3,Fucsovics M.,Dimitrov G.,84.0,19.0,692.0,1850.0,7,5,4,6,6,2,0,0,0,0,2020-017
+New York,Western & Southern Financial Group Masters,2020-08-25,Masters 1000,Outdoor,Hard,2nd Round,3,Krajinovic F.,Thiem D.,32.0,3.0,1343.0,7045.0,6,2,6,1,0,0,0,0,0,0,2020-017
+New York,Western & Southern Financial Group Masters,2020-08-25,Masters 1000,Outdoor,Hard,2nd Round,3,Djokovic N.,Berankis R.,1.0,72.0,10220.0,739.0,7,6,6,4,0,0,0,0,0,0,2020-017
+New York,Western & Southern Financial Group Masters,2020-08-25,Masters 1000,Outdoor,Hard,3rd Round,3,Medvedev D.,Bedene A.,5.0,61.0,5890.0,850.0,6,3,6,3,0,0,0,0,0,0,2020-017
+New York,Western & Southern Financial Group Masters,2020-08-25,Masters 1000,Outdoor,Hard,3rd Round,3,Struff J.L.,Goffin D.,34.0,10.0,1315.0,2555.0,6,4,3,6,6,4,0,0,0,0,2020-017
+New York,Western & Southern Financial Group Masters,2020-08-25,Masters 1000,Outdoor,Hard,3rd Round,3,Bautista Agut R.,Khachanov K.,12.0,16.0,2360.0,2120.0,4,6,6,3,6,2,0,0,0,0,2020-017
+New York,Western & Southern Financial Group Masters,2020-08-25,Masters 1000,Outdoor,Hard,3rd Round,3,Djokovic N.,Sandgren T.,1.0,55.0,10220.0,923.0,6,2,6,4,0,0,0,0,0,0,2020-017
+New York,Western & Southern Financial Group Masters,2020-08-25,Masters 1000,Outdoor,Hard,3rd Round,3,Opelka R.,Berrettini M.,39.0,8.0,1177.0,2860.0,6,3,7,6,0,0,0,0,0,0,2020-017
+New York,Western & Southern Financial Group Masters,2020-08-26,Masters 1000,Outdoor,Hard,3rd Round,3,Raonic M.,Murray A.,30.0,134.0,1350.0,412.0,6,2,6,2,0,0,0,0,0,0,2020-017
+New York,Western & Southern Financial Group Masters,2020-08-26,Masters 1000,Outdoor,Hard,3rd Round,3,Tsitsipas S.,Isner J.,6.0,21.0,4745.0,1760.0,7,6,7,6,0,0,0,0,0,0,2020-017
+New York,Western & Southern Financial Group Masters,2020-08-26,Masters 1000,Outdoor,Hard,3rd Round,3,Krajinovic F.,Fucsovics M.,32.0,84.0,1343.0,692.0,6,2,6,1,0,0,0,0,0,0,2020-017
+New York,Western & Southern Financial Group Masters,2020-08-26,Masters 1000,Outdoor,Hard,Quarterfinals,3,Bautista Agut R.,Medvedev D.,12.0,5.0,2360.0,5890.0,1,6,6,4,6,3,0,0,0,0,2020-017
+New York,Western & Southern Financial Group Masters,2020-08-26,Masters 1000,Outdoor,Hard,Quarterfinals,3,Djokovic N.,Struff J.L.,1.0,34.0,10220.0,1315.0,6,3,6,1,0,0,0,0,0,0,2020-017
+New York,Western & Southern Financial Group Masters,2020-08-27,Masters 1000,Outdoor,Hard,Quarterfinals,3,Tsitsipas S.,Opelka R.,6.0,39.0,4745.0,1177.0,5,6,0,0,0,0,0,0,0,0,2020-017
+New York,Western & Southern Financial Group Masters,2020-08-27,Masters 1000,Outdoor,Hard,Quarterfinals,3,Raonic M.,Krajinovic F.,30.0,32.0,1350.0,1343.0,4,6,7,6,7,5,0,0,0,0,2020-017
+New York,Western & Southern Financial Group Masters,2020-08-28,Masters 1000,Outdoor,Hard,Semifinals,3,Raonic M.,Tsitsipas S.,30.0,6.0,1350.0,4745.0,7,6,6,3,0,0,0,0,0,0,2020-017
+New York,Western & Southern Financial Group Masters,2020-08-28,Masters 1000,Outdoor,Hard,Semifinals,3,Djokovic N.,Bautista Agut R.,1.0,12.0,10220.0,2360.0,4,6,6,4,7,6,0,0,0,0,2020-017
+New York,Western & Southern Financial Group Masters,2020-08-29,Masters 1000,Outdoor,Hard,The Final,3,Djokovic N.,Raonic M.,1.0,30.0,10220.0,1350.0,1,6,6,3,6,4,0,0,0,0,2020-017
+Kitzbuhel,Generali Open,2020-09-08,ATP250,Outdoor,Clay,1st Round,3,Hurkacz H.,Sousa J.,33.0,68.0,1353.0,776.0,6,3,7,5,0,0,0,0,0,0,2020-018
+Kitzbuhel,Generali Open,2020-09-08,ATP250,Outdoor,Clay,1st Round,3,Ofner S.,Albot R.,159.0,70.0,341.0,772.0,6,7,6,4,7,6,0,0,0,0,2020-018
+Kitzbuhel,Generali Open,2020-09-08,ATP250,Outdoor,Clay,1st Round,3,Kecmanovic M.,Nishikori K.,47.0,34.0,1028.0,1345.0,4,6,6,4,6,2,0,0,0,0,2020-018
+Kitzbuhel,Generali Open,2020-09-08,ATP250,Outdoor,Clay,1st Round,3,Pella G.,Nishioka Y.,36.0,49.0,1310.0,1007.0,6,3,6,0,0,0,0,0,0,0,2020-018
+Kitzbuhel,Generali Open,2020-09-09,ATP250,Outdoor,Clay,1st Round,3,Hanfmann Y.,Bublik A.,118.0,54.0,486.0,965.0,7,5,6,2,0,0,0,0,0,0,2020-018
+Kitzbuhel,Generali Open,2020-09-09,ATP250,Outdoor,Clay,1st Round,3,Huesler M.A.,Ruusuvuori E.,303.0,92.0,139.0,648.0,3,6,6,4,7,6,0,0,0,0,2020-018
+Kitzbuhel,Generali Open,2020-09-09,ATP250,Outdoor,Clay,1st Round,3,Sinner J.,Kohlschreiber P.,74.0,75.0,733.0,729.0,6,3,6,2,0,0,0,0,0,0,2020-018
+Kitzbuhel,Generali Open,2020-09-09,ATP250,Outdoor,Clay,1st Round,3,Delbonis F.,Londero J.I.,79.0,62.0,711.0,832.0,6,4,6,0,0,0,0,0,0,0,2020-018
+Kitzbuhel,Generali Open,2020-09-09,ATP250,Outdoor,Clay,1st Round,3,Thompson J.,Millman J.,63.0,43.0,829.0,1096.0,6,3,4,6,7,6,0,0,0,0,2020-018
+Kitzbuhel,Generali Open,2020-09-09,ATP250,Outdoor,Clay,1st Round,3,Marterer M.,Novak D.,337.0,85.0,118.0,695.0,7,6,6,4,0,0,0,0,0,0,2020-018
+Kitzbuhel,Generali Open,2020-09-09,ATP250,Outdoor,Clay,1st Round,3,Djere L.,Ramos-Vinolas A.,81.0,41.0,705.0,1130.0,6,1,3,6,7,6,0,0,0,0,2020-018
+Kitzbuhel,Generali Open,2020-09-09,ATP250,Outdoor,Clay,1st Round,3,Lopez F.,Herbert P.H.,57.0,69.0,908.0,775.0,6,4,6,3,0,0,0,0,0,0,2020-018
+Kitzbuhel,Generali Open,2020-09-10,ATP250,Outdoor,Clay,2nd Round,3,Hanfmann Y.,Lajovic D.,118.0,24.0,486.0,1695.0,4,6,6,3,6,4,0,0,0,0,2020-018
+Kitzbuhel,Generali Open,2020-09-10,ATP250,Outdoor,Clay,2nd Round,3,Marterer M.,Hurkacz H.,337.0,33.0,118.0,1353.0,6,1,6,4,0,0,0,0,0,0,2020-018
+Kitzbuhel,Generali Open,2020-09-10,ATP250,Outdoor,Clay,2nd Round,3,Delbonis F.,Basilashvili N.,79.0,30.0,711.0,1395.0,7,5,6,3,0,0,0,0,0,0,2020-018
+Kitzbuhel,Generali Open,2020-09-10,ATP250,Outdoor,Clay,2nd Round,3,Djere L.,Sinner J.,81.0,74.0,705.0,733.0,6,4,6,4,0,0,0,0,0,0,2020-018
+Kitzbuhel,Generali Open,2020-09-10,ATP250,Outdoor,Clay,2nd Round,3,Kecmanovic M.,Thompson J.,47.0,63.0,1028.0,829.0,6,2,6,2,0,0,0,0,0,0,2020-018
+Kitzbuhel,Generali Open,2020-09-10,ATP250,Outdoor,Clay,2nd Round,3,Schwartzman D.,Ofner S.,13.0,159.0,2265.0,341.0,6,2,2,6,7,5,0,0,0,0,2020-018
+Kitzbuhel,Generali Open,2020-09-10,ATP250,Outdoor,Clay,2nd Round,3,Lopez F.,Pella G.,57.0,36.0,908.0,1310.0,7,5,6,7,7,6,0,0,0,0,2020-018
+Kitzbuhel,Generali Open,2020-09-10,ATP250,Outdoor,Clay,2nd Round,3,Huesler M.A.,Fognini F.,303.0,12.0,139.0,2400.0,6,1,6,2,0,0,0,0,0,0,2020-018
+Kitzbuhel,Generali Open,2020-09-11,ATP250,Outdoor,Clay,Quarterfinals,3,Hanfmann Y.,Marterer M.,118.0,337.0,486.0,118.0,6,2,7,5,0,0,0,0,0,0,2020-018
+Kitzbuhel,Generali Open,2020-09-11,ATP250,Outdoor,Clay,Quarterfinals,3,Djere L.,Schwartzman D.,81.0,13.0,705.0,2265.0,7,6,6,3,0,0,0,0,0,0,2020-018
+Kitzbuhel,Generali Open,2020-09-11,ATP250,Outdoor,Clay,Quarterfinals,3,Kecmanovic M.,Delbonis F.,47.0,79.0,1028.0,711.0,6,4,6,7,7,5,0,0,0,0,2020-018
+Kitzbuhel,Generali Open,2020-09-11,ATP250,Outdoor,Clay,Quarterfinals,3,Huesler M.A.,Lopez F.,303.0,57.0,139.0,908.0,6,4,6,3,0,0,0,0,0,0,2020-018
+Kitzbuhel,Generali Open,2020-09-12,ATP250,Outdoor,Clay,Semifinals,3,Hanfmann Y.,Djere L.,118.0,81.0,486.0,705.0,4,6,6,3,7,6,0,0,0,0,2020-018
+Kitzbuhel,Generali Open,2020-09-12,ATP250,Outdoor,Clay,Semifinals,3,Kecmanovic M.,Huesler M.A.,47.0,303.0,1028.0,139.0,6,2,5,7,6,3,0,0,0,0,2020-018
+Kitzbuhel,Generali Open,2020-09-13,ATP250,Outdoor,Clay,The Final,3,Kecmanovic M.,Hanfmann Y.,47.0,118.0,1028.0,486.0,6,4,6,4,0,0,0,0,0,0,2020-018
+New York,US Open,2020-08-31,Grand Slam,Outdoor,Hard,1st Round,5,Thompson J.,Travaglia S.,63.0,87.0,829.0,684.0,6,3,6,4,4,6,6,2,0,0,2020-019
+New York,US Open,2020-08-31,Grand Slam,Outdoor,Hard,1st Round,5,Coric B.,Andujar P.,32.0,56.0,1355.0,942.0,7,5,6,3,6,1,0,0,0,0,2020-019
+New York,US Open,2020-08-31,Grand Slam,Outdoor,Hard,1st Round,5,Davidovich Fokina A.,Novak D.,99.0,85.0,627.0,695.0,3,6,6,4,6,3,1,6,6,0,2020-019
+New York,US Open,2020-08-31,Grand Slam,Outdoor,Hard,1st Round,5,Coria F.,Jung J.,103.0,122.0,569.0,462.0,2,6,4,6,6,4,6,1,2,0,2020-019
+New York,US Open,2020-08-31,Grand Slam,Outdoor,Hard,1st Round,5,Gerasimov E.,Lajovic D.,72.0,24.0,744.0,1695.0,6,1,4,6,6,4,6,4,0,0,2020-019
+New York,US Open,2020-08-31,Grand Slam,Outdoor,Hard,1st Round,5,Londero J.I.,Donskoy E.,62.0,114.0,832.0,505.0,6,3,6,3,7,5,0,0,0,0,2020-019
+New York,US Open,2020-08-31,Grand Slam,Outdoor,Hard,1st Round,5,Norrie C.,Schwartzman D.,76.0,13.0,727.0,2265.0,3,6,4,6,6,2,6,1,7,5,2020-019
+New York,US Open,2020-08-31,Grand Slam,Outdoor,Hard,1st Round,5,Shapovalov D.,Korda S.,17.0,205.0,2075.0,252.0,6,4,4,6,6,3,6,2,0,0,2020-019
+New York,US Open,2020-08-31,Grand Slam,Outdoor,Hard,1st Round,5,Mannarino A.,Sonego L.,39.0,46.0,1191.0,1030.0,6,1,6,4,2,6,6,3,0,0,2020-019
+New York,US Open,2020-08-31,Grand Slam,Outdoor,Hard,1st Round,5,Zverev A.,Anderson K.,7.0,117.0,3630.0,490.0,7,6,5,7,6,3,7,5,0,0,2020-019
+New York,US Open,2020-08-31,Grand Slam,Outdoor,Hard,1st Round,5,Carreno Busta P.,Uchiyama Y.,27.0,86.0,1500.0,685.0,4,6,6,3,1,6,6,3,6,3,2020-019
+New York,US Open,2020-08-31,Grand Slam,Outdoor,Hard,1st Round,5,Sock J.,Cuevas P.,389.0,61.0,95.0,857.0,3,6,6,4,6,2,4,6,7,6,2020-019
+New York,US Open,2020-08-31,Grand Slam,Outdoor,Hard,1st Round,5,Hurkacz H.,Gojowczyk P.,33.0,127.0,1353.0,444.0,6,3,6,4,6,4,0,0,0,0,2020-019
+New York,US Open,2020-08-31,Grand Slam,Outdoor,Hard,1st Round,5,Simon G.,Safwat M.,52.0,135.0,970.0,407.0,6,1,6,4,6,4,0,0,0,0,2020-019
+New York,US Open,2020-08-31,Grand Slam,Outdoor,Hard,1st Round,5,Krueger M.,Sousa P.,198.0,110.0,264.0,522.0,3,6,6,2,7,5,6,3,0,0,2020-019
+New York,US Open,2020-08-31,Grand Slam,Outdoor,Hard,1st Round,5,Nakashima B.,Lorenzi P.,223.0,125.0,229.0,447.0,6,3,6,2,7,6,0,0,0,0,2020-019
+New York,US Open,2020-08-31,Grand Slam,Outdoor,Hard,1st Round,5,Tsitsipas S.,Ramos-Vinolas A.,6.0,41.0,5095.0,1130.0,6,2,6,1,6,1,0,0,0,0,2020-019
+New York,US Open,2020-08-31,Grand Slam,Outdoor,Hard,1st Round,5,Cressy M.,Kovalik J.,168.0,123.0,320.0,452.0,6,1,2,6,6,4,6,4,0,0,2020-019
+New York,US Open,2020-08-31,Grand Slam,Outdoor,Hard,1st Round,5,Fritz T.,Koepfer D.,25.0,91.0,1545.0,652.0,6,7,6,3,6,2,6,4,0,0,2020-019
+New York,US Open,2020-08-31,Grand Slam,Outdoor,Hard,1st Round,5,Giron M.,Polmans M.,96.0,121.0,639.0,462.0,6,4,6,7,3,6,6,4,6,2,2020-019
+New York,US Open,2020-08-31,Grand Slam,Outdoor,Hard,1st Round,5,Kukushkin M.,Balazs A.,90.0,78.0,661.0,715.0,6,4,7,5,6,4,0,0,0,0,2020-019
+New York,US Open,2020-09-01,Grand Slam,Outdoor,Hard,1st Round,5,Kwon S.W.,Kwiatkowski T.S.,73.0,187.0,742.0,281.0,3,6,7,6,6,1,6,2,0,0,2020-019
+New York,US Open,2020-09-01,Grand Slam,Outdoor,Hard,1st Round,5,Berankis R.,Gaio F.,65.0,132.0,809.0,423.0,7,6,4,6,6,4,6,4,0,0,2020-019
+New York,US Open,2020-09-01,Grand Slam,Outdoor,Hard,1st Round,5,Edmund K.,Bublik A.,44.0,54.0,1050.0,965.0,2,6,7,5,7,5,6,0,0,0,2020-019
+New York,US Open,2020-09-01,Grand Slam,Outdoor,Hard,1st Round,5,Johnson S.,Isner J.,64.0,22.0,825.0,1805.0,6,7,6,3,6,7,6,3,7,6,2020-019
+New York,US Open,2020-09-01,Grand Slam,Outdoor,Hard,1st Round,5,Goffin D.,Opelka R.,10.0,35.0,2555.0,1312.0,7,6,3,6,6,1,6,4,0,0,2020-019
+New York,US Open,2020-09-01,Grand Slam,Outdoor,Hard,1st Round,5,Krajinovic F.,Ymer M.,26.0,71.0,1503.0,759.0,6,2,7,6,6,3,0,0,0,0,2020-019
+New York,US Open,2020-09-01,Grand Slam,Outdoor,Hard,1st Round,5,Harris L.,Cecchinato M.,95.0,108.0,641.0,526.0,6,4,7,5,6,2,0,0,0,0,2020-019
+New York,US Open,2020-09-01,Grand Slam,Outdoor,Hard,1st Round,5,Djokovic N.,Dzumhur D.,1.0,109.0,10860.0,524.0,6,1,6,4,6,1,0,0,0,0,2020-019
+New York,US Open,2020-09-01,Grand Slam,Outdoor,Hard,1st Round,5,Struff J.L.,Martinez P.,29.0,106.0,1405.0,546.0,6,0,7,5,6,4,0,0,0,0,2020-019
+New York,US Open,2020-09-01,Grand Slam,Outdoor,Hard,1st Round,5,Garin C.,Blanch U.,19.0,244.0,1900.0,207.0,4,6,5,7,6,4,6,4,6,2,2020-019
+New York,US Open,2020-09-01,Grand Slam,Outdoor,Hard,1st Round,5,Mmoh M.,Sousa J.,186.0,68.0,281.0,776.0,6,2,7,5,2,6,6,1,0,0,2020-019
+New York,US Open,2020-09-01,Grand Slam,Outdoor,Hard,1st Round,5,Kuznetsov An.,Querrey S.,34.0,45.0,1527.0,1045.0,6,4,7,6,6,2,0,0,0,0,2020-019
+New York,US Open,2020-09-01,Grand Slam,Outdoor,Hard,1st Round,5,Murray A.,Nishioka Y.,115.0,49.0,502.0,1007.0,4,6,4,6,7,6,7,6,6,4,2020-019
+New York,US Open,2020-09-01,Grand Slam,Outdoor,Hard,1st Round,5,Ruud C.,Mcdonald M.,37.0,243.0,1279.0,207.0,4,6,4,6,6,4,6,3,6,2,2020-019
+New York,US Open,2020-09-01,Grand Slam,Outdoor,Hard,1st Round,5,Nagal S.,Klahn B.,124.0,129.0,448.0,436.0,6,1,6,3,3,6,6,1,0,0,2020-019
+New York,US Open,2020-09-01,Grand Slam,Outdoor,Hard,1st Round,5,Ruusuvuori E.,Bedene A.,92.0,53.0,648.0,965.0,6,3,3,6,6,1,4,6,6,1,2020-019
+New York,US Open,2020-09-01,Grand Slam,Outdoor,Hard,1st Round,5,Khachanov K.,Sinner J.,16.0,74.0,2120.0,733.0,3,6,6,7,6,2,6,0,7,6,2020-019
+New York,US Open,2020-09-01,Grand Slam,Outdoor,Hard,1st Round,5,Thiem D.,Munar J.,3.0,105.0,7135.0,548.0,7,6,6,3,0,0,0,0,0,0,2020-019
+New York,US Open,2020-09-01,Grand Slam,Outdoor,Hard,1st Round,5,Auger-Aliassime F.,Monteiro T.,21.0,83.0,1806.0,700.0,6,3,6,7,7,6,7,6,0,0,2020-019
+New York,US Open,2020-09-01,Grand Slam,Outdoor,Hard,1st Round,5,Cilic M.,Kudla D.,38.0,111.0,1225.0,521.0,6,7,3,6,7,5,7,5,6,3,2020-019
+New York,US Open,2020-09-01,Grand Slam,Outdoor,Hard,1st Round,5,Rublev A.,Chardy J.,14.0,60.0,2234.0,860.0,6,4,6,4,6,3,0,0,0,0,2020-019
+New York,US Open,2020-09-01,Grand Slam,Outdoor,Hard,1st Round,5,Barrere G.,Daniel T.,93.0,112.0,647.0,511.0,6,3,6,4,3,6,6,1,0,0,2020-019
+New York,US Open,2020-09-01,Grand Slam,Outdoor,Hard,1st Round,5,Gombos N.,Albot R.,104.0,70.0,550.0,772.0,6,4,6,1,6,4,0,0,0,0,2020-019
+New York,US Open,2020-09-01,Grand Slam,Outdoor,Hard,1st Round,5,Evans D.,Seyboth Wild T.,31.0,113.0,1384.0,507.0,6,2,6,1,7,6,0,0,0,0,2020-019
+New York,US Open,2020-09-01,Grand Slam,Outdoor,Hard,1st Round,5,Pospisil V.,Kohlschreiber P.,94.0,75.0,642.0,729.0,7,6,7,5,7,6,0,0,0,0,2020-019
+New York,US Open,2020-09-01,Grand Slam,Outdoor,Hard,1st Round,5,Wolf J.J.,Pella G.,138.0,36.0,402.0,1310.0,6,2,0,6,6,3,6,3,0,0,2020-019
+New York,US Open,2020-09-01,Grand Slam,Outdoor,Hard,1st Round,5,Carballes Baena R.,Lopez F.,101.0,57.0,614.0,908.0,3,6,7,6,6,4,6,3,0,0,2020-019
+New York,US Open,2020-09-01,Grand Slam,Outdoor,Hard,1st Round,5,Bautista Agut R.,Sandgren T.,11.0,48.0,2540.0,1013.0,6,4,6,4,7,6,0,0,0,0,2020-019
+New York,US Open,2020-09-02,Grand Slam,Outdoor,Hard,1st Round,5,Kecmanovic M.,Mager G.,47.0,80.0,1028.0,711.0,6,4,6,4,6,7,3,6,6,2,2020-019
+New York,US Open,2020-09-02,Grand Slam,Outdoor,Hard,1st Round,5,Raonic M.,Mayer L.,18.0,120.0,1950.0,464.0,6,3,6,2,6,3,0,0,0,0,2020-019
+New York,US Open,2020-09-02,Grand Slam,Outdoor,Hard,1st Round,5,Moutet C.,Vesely J.,77.0,67.0,722.0,785.0,6,4,6,4,7,5,0,0,0,0,2020-019
+New York,US Open,2020-09-02,Grand Slam,Outdoor,Hard,1st Round,5,Dimitrov G.,Paul T.,20.0,58.0,1885.0,894.0,6,4,6,3,6,1,0,0,0,0,2020-019
+New York,US Open,2020-09-02,Grand Slam,Outdoor,Hard,1st Round,5,O Connell C.,Djere L.,116.0,81.0,498.0,705.0,4,6,6,4,7,6,6,4,0,0,2020-019
+New York,US Open,2020-09-02,Grand Slam,Outdoor,Hard,1st Round,5,Fucsovics M.,Dellien H.,66.0,97.0,787.0,638.0,6,3,6,3,6,1,0,0,0,0,2020-019
+New York,US Open,2020-09-02,Grand Slam,Outdoor,Hard,1st Round,5,Escobedo E.,Majchrzak K.,185.0,107.0,284.0,532.0,7,6,6,2,6,3,0,0,0,0,2020-019
+New York,US Open,2020-09-02,Grand Slam,Outdoor,Hard,1st Round,5,Gasquet R.,Karlovic I.,51.0,126.0,985.0,444.0,7,6,7,6,6,1,0,0,0,0,2020-019
+New York,US Open,2020-09-02,Grand Slam,Outdoor,Hard,1st Round,5,Tiafoe F.,Seppi A.,82.0,89.0,700.0,671.0,4,6,6,3,6,4,7,5,0,0,2020-019
+New York,US Open,2020-09-02,Grand Slam,Outdoor,Hard,1st Round,5,De Minaur A.,Martin A.,28.0,98.0,1485.0,638.0,6,4,6,3,7,5,0,0,0,0,2020-019
+New York,US Open,2020-09-02,Grand Slam,Outdoor,Hard,1st Round,5,Berrettini M.,Soeda G.,8.0,119.0,2940.0,480.0,7,6,6,1,6,4,0,0,0,0,2020-019
+New York,US Open,2020-09-02,Grand Slam,Outdoor,Hard,1st Round,5,Caruso S.,Duckworth J.,100.0,84.0,623.0,697.0,4,6,7,5,7,5,6,2,0,0,2020-019
+New York,US Open,2020-09-02,Grand Slam,Outdoor,Hard,1st Round,5,Millman J.,Basilashvili N.,43.0,30.0,1096.0,1395.0,6,1,6,4,6,4,0,0,0,0,2020-019
+New York,US Open,2020-09-02,Grand Slam,Outdoor,Hard,1st Round,5,Humbert U.,Sugita Y.,42.0,88.0,1111.0,682.0,6,3,6,4,6,3,0,0,0,0,2020-019
+New York,US Open,2020-09-02,Grand Slam,Outdoor,Hard,1st Round,5,Medvedev D.,Delbonis F.,5.0,79.0,5890.0,711.0,6,1,6,2,6,4,0,0,0,0,2020-019
+New York,US Open,2020-09-02,Grand Slam,Outdoor,Hard,2nd Round,5,Krajinovic F.,Giron M.,26.0,96.0,1503.0,639.0,6,4,6,1,6,3,0,0,0,0,2020-019
+New York,US Open,2020-09-02,Grand Slam,Outdoor,Hard,2nd Round,5,Kukushkin M.,Garin C.,90.0,19.0,661.0,1900.0,6,2,6,1,3,6,4,6,7,5,2020-019
+New York,US Open,2020-09-02,Grand Slam,Outdoor,Hard,2nd Round,5,Zverev A.,Nakashima B.,7.0,223.0,3630.0,229.0,7,5,6,7,6,3,6,1,0,0,2020-019
+New York,US Open,2020-09-02,Grand Slam,Outdoor,Hard,2nd Round,5,Thompson J.,Gerasimov E.,63.0,72.0,829.0,744.0,6,1,6,4,3,6,6,3,0,0,2020-019
+New York,US Open,2020-09-02,Grand Slam,Outdoor,Hard,2nd Round,5,Goffin D.,Harris L.,10.0,95.0,2555.0,641.0,7,6,4,6,6,1,6,4,0,0,2020-019
+New York,US Open,2020-09-02,Grand Slam,Outdoor,Hard,2nd Round,5,Struff J.L.,Mmoh M.,29.0,186.0,1405.0,281.0,6,2,6,2,7,5,0,0,0,0,2020-019
+New York,US Open,2020-09-02,Grand Slam,Outdoor,Hard,2nd Round,5,Djokovic N.,Edmund K.,1.0,44.0,10860.0,1050.0,6,7,6,3,6,4,6,2,0,0,2020-019
+New York,US Open,2020-09-02,Grand Slam,Outdoor,Hard,2nd Round,5,Mannarino A.,Sock J.,39.0,389.0,1191.0,95.0,7,6,7,5,6,2,0,0,0,0,2020-019
+New York,US Open,2020-09-02,Grand Slam,Outdoor,Hard,2nd Round,5,Davidovich Fokina A.,Hurkacz H.,99.0,33.0,627.0,1353.0,6,4,1,6,6,2,6,2,0,0,2020-019
+New York,US Open,2020-09-03,Grand Slam,Outdoor,Hard,2nd Round,5,Norrie C.,Coria F.,76.0,103.0,727.0,569.0,6,3,6,4,6,4,0,0,0,0,2020-019
+New York,US Open,2020-09-03,Grand Slam,Outdoor,Hard,2nd Round,5,Carreno Busta P.,Krueger M.,27.0,198.0,1500.0,264.0,6,1,6,2,6,2,0,0,0,0,2020-019
+New York,US Open,2020-09-03,Grand Slam,Outdoor,Hard,2nd Round,5,Fritz T.,Simon G.,25.0,52.0,1545.0,970.0,7,5,6,3,6,2,0,0,0,0,2020-019
+New York,US Open,2020-09-03,Grand Slam,Outdoor,Hard,2nd Round,5,Coric B.,Londero J.I.,32.0,62.0,1355.0,832.0,7,5,4,6,6,7,6,2,6,3,2020-019
+New York,US Open,2020-09-03,Grand Slam,Outdoor,Hard,2nd Round,5,Berankis R.,Johnson S.,65.0,64.0,809.0,825.0,7,5,6,2,1,6,7,6,0,0,2020-019
+New York,US Open,2020-09-03,Grand Slam,Outdoor,Hard,2nd Round,5,Shapovalov D.,Kwon S.W.,17.0,73.0,2075.0,742.0,6,7,6,4,6,4,6,2,0,0,2020-019
+New York,US Open,2020-09-03,Grand Slam,Outdoor,Hard,2nd Round,5,Tsitsipas S.,Cressy M.,6.0,168.0,5095.0,320.0,7,6,6,3,6,4,0,0,0,0,2020-019
+New York,US Open,2020-09-03,Grand Slam,Outdoor,Hard,2nd Round,5,Bautista Agut R.,Kecmanovic M.,11.0,47.0,2540.0,1028.0,6,3,3,6,6,3,6,4,0,0,2020-019
+New York,US Open,2020-09-03,Grand Slam,Outdoor,Hard,2nd Round,5,De Minaur A.,Gasquet R.,28.0,51.0,1485.0,985.0,6,4,6,3,6,7,7,5,0,0,2020-019
+New York,US Open,2020-09-03,Grand Slam,Outdoor,Hard,2nd Round,5,Khachanov K.,Kuznetsov An.,16.0,34.0,2120.0,1527.0,6,3,6,4,6,1,0,0,0,0,2020-019
+New York,US Open,2020-09-03,Grand Slam,Outdoor,Hard,2nd Round,5,Cilic M.,Gombos N.,38.0,104.0,1225.0,550.0,6,3,1,6,7,6,7,5,0,0,2020-019
+New York,US Open,2020-09-03,Grand Slam,Outdoor,Hard,2nd Round,5,Rublev A.,Barrere G.,14.0,93.0,2234.0,647.0,6,2,6,4,7,6,0,0,0,0,2020-019
+New York,US Open,2020-09-03,Grand Slam,Outdoor,Hard,2nd Round,5,Caruso S.,Escobedo E.,100.0,185.0,623.0,284.0,3,6,6,4,6,3,6,4,0,0,2020-019
+New York,US Open,2020-09-03,Grand Slam,Outdoor,Hard,2nd Round,5,Ruud C.,Ruusuvuori E.,37.0,92.0,1279.0,648.0,6,4,6,3,3,2,0,0,0,0,2020-019
+New York,US Open,2020-09-03,Grand Slam,Outdoor,Hard,2nd Round,5,Pospisil V.,Raonic M.,94.0,18.0,642.0,1950.0,6,7,6,3,7,6,6,3,0,0,2020-019
+New York,US Open,2020-09-03,Grand Slam,Outdoor,Hard,2nd Round,5,Thiem D.,Nagal S.,3.0,124.0,7135.0,448.0,6,3,6,3,6,2,0,0,0,0,2020-019
+New York,US Open,2020-09-03,Grand Slam,Outdoor,Hard,2nd Round,5,Wolf J.J.,Carballes Baena R.,138.0,101.0,402.0,614.0,6,2,6,4,6,3,0,0,0,0,2020-019
+New York,US Open,2020-09-03,Grand Slam,Outdoor,Hard,2nd Round,5,Fucsovics M.,Dimitrov G.,66.0,20.0,787.0,1885.0,6,7,7,6,3,6,6,4,6,1,2020-019
+New York,US Open,2020-09-03,Grand Slam,Outdoor,Hard,2nd Round,5,Tiafoe F.,Millman J.,82.0,43.0,700.0,1096.0,7,6,3,6,1,6,6,3,6,3,2020-019
+New York,US Open,2020-09-03,Grand Slam,Outdoor,Hard,2nd Round,5,Berrettini M.,Humbert U.,8.0,42.0,2940.0,1111.0,6,4,6,4,7,6,0,0,0,0,2020-019
+New York,US Open,2020-09-04,Grand Slam,Outdoor,Hard,2nd Round,5,Medvedev D.,O Connell C.,5.0,116.0,5890.0,498.0,6,3,6,2,6,4,0,0,0,0,2020-019
+New York,US Open,2020-09-04,Grand Slam,Outdoor,Hard,2nd Round,5,Auger-Aliassime F.,Murray A.,21.0,115.0,1806.0,502.0,6,2,6,3,6,4,0,0,0,0,2020-019
+New York,US Open,2020-09-04,Grand Slam,Outdoor,Hard,2nd Round,5,Moutet C.,Evans D.,77.0,31.0,722.0,1384.0,4,6,6,3,7,6,7,6,0,0,2020-019
+New York,US Open,2020-09-04,Grand Slam,Outdoor,Hard,3rd Round,5,Davidovich Fokina A.,Norrie C.,99.0,76.0,627.0,727.0,7,6,4,6,6,2,6,1,0,0,2020-019
+New York,US Open,2020-09-04,Grand Slam,Outdoor,Hard,3rd Round,5,Goffin D.,Krajinovic F.,10.0,26.0,2555.0,1503.0,6,1,7,6,6,4,0,0,0,0,2020-019
+New York,US Open,2020-09-04,Grand Slam,Outdoor,Hard,3rd Round,5,Thompson J.,Kukushkin M.,63.0,90.0,829.0,661.0,7,5,6,4,6,1,0,0,0,0,2020-019
+New York,US Open,2020-09-04,Grand Slam,Outdoor,Hard,3rd Round,5,Carreno Busta P.,Berankis R.,27.0,65.0,1500.0,809.0,6,4,6,3,6,2,0,0,0,0,2020-019
+New York,US Open,2020-09-04,Grand Slam,Outdoor,Hard,3rd Round,5,Shapovalov D.,Fritz T.,17.0,25.0,2075.0,1545.0,3,6,6,3,4,6,7,6,6,2,2020-019
+New York,US Open,2020-09-05,Grand Slam,Outdoor,Hard,3rd Round,5,Zverev A.,Mannarino A.,7.0,39.0,3630.0,1191.0,6,7,6,4,6,2,6,2,0,0,2020-019
+New York,US Open,2020-09-05,Grand Slam,Outdoor,Hard,3rd Round,5,Djokovic N.,Struff J.L.,1.0,29.0,10860.0,1405.0,6,3,6,3,6,1,0,0,0,0,2020-019
+New York,US Open,2020-09-05,Grand Slam,Outdoor,Hard,3rd Round,5,Coric B.,Tsitsipas S.,32.0,6.0,1355.0,5095.0,6,7,6,4,4,6,7,5,7,6,2020-019
+New York,US Open,2020-09-05,Grand Slam,Outdoor,Hard,3rd Round,5,Rublev A.,Caruso S.,14.0,100.0,2234.0,623.0,6,0,6,4,6,0,0,0,0,0,2020-019
+New York,US Open,2020-09-05,Grand Slam,Outdoor,Hard,3rd Round,5,Medvedev D.,Wolf J.J.,5.0,138.0,5890.0,402.0,6,3,6,3,6,2,0,0,0,0,2020-019
+New York,US Open,2020-09-05,Grand Slam,Outdoor,Hard,3rd Round,5,Pospisil V.,Bautista Agut R.,94.0,11.0,642.0,2540.0,7,5,2,6,4,6,6,3,6,2,2020-019
+New York,US Open,2020-09-05,Grand Slam,Outdoor,Hard,3rd Round,5,De Minaur A.,Khachanov K.,28.0,16.0,1485.0,2120.0,6,4,0,6,4,6,6,3,6,1,2020-019
+New York,US Open,2020-09-05,Grand Slam,Outdoor,Hard,3rd Round,5,Berrettini M.,Ruud C.,8.0,37.0,2940.0,1279.0,6,4,6,4,6,2,0,0,0,0,2020-019
+New York,US Open,2020-09-05,Grand Slam,Outdoor,Hard,3rd Round,5,Auger-Aliassime F.,Moutet C.,21.0,77.0,1806.0,722.0,6,1,6,0,6,4,0,0,0,0,2020-019
+New York,US Open,2020-09-05,Grand Slam,Outdoor,Hard,3rd Round,5,Tiafoe F.,Fucsovics M.,82.0,66.0,700.0,787.0,6,2,6,3,6,2,0,0,0,0,2020-019
+New York,US Open,2020-09-06,Grand Slam,Outdoor,Hard,3rd Round,5,Thiem D.,Cilic M.,3.0,38.0,7135.0,1225.0,6,2,6,2,3,6,6,3,0,0,2020-019
+New York,US Open,2020-09-06,Grand Slam,Outdoor,Hard,4th Round,5,Zverev A.,Davidovich Fokina A.,7.0,99.0,3630.0,627.0,6,2,6,2,6,1,0,0,0,0,2020-019
+New York,US Open,2020-09-06,Grand Slam,Outdoor,Hard,4th Round,5,Carreno Busta P.,Djokovic N.,27.0,1.0,1500.0,10860.0,6,5,0,0,0,0,0,0,0,0,2020-019
+New York,US Open,2020-09-07,Grand Slam,Outdoor,Hard,4th Round,5,Coric B.,Thompson J.,32.0,63.0,1355.0,829.0,7,5,6,1,6,3,0,0,0,0,2020-019
+New York,US Open,2020-09-07,Grand Slam,Outdoor,Hard,4th Round,5,Shapovalov D.,Goffin D.,17.0,10.0,2075.0,2555.0,6,7,6,3,6,4,6,3,0,0,2020-019
+New York,US Open,2020-09-07,Grand Slam,Outdoor,Hard,4th Round,5,De Minaur A.,Pospisil V.,28.0,94.0,1485.0,642.0,7,6,6,3,6,2,0,0,0,0,2020-019
+New York,US Open,2020-09-07,Grand Slam,Outdoor,Hard,4th Round,5,Thiem D.,Auger-Aliassime F.,3.0,21.0,7135.0,1806.0,7,6,6,1,6,1,0,0,0,0,2020-019
+New York,US Open,2020-09-08,Grand Slam,Outdoor,Hard,4th Round,5,Rublev A.,Berrettini M.,14.0,8.0,2234.0,2940.0,4,6,6,3,6,3,6,3,0,0,2020-019
+New York,US Open,2020-09-08,Grand Slam,Outdoor,Hard,4th Round,5,Medvedev D.,Tiafoe F.,5.0,82.0,5890.0,700.0,6,4,6,1,6,0,0,0,0,0,2020-019
+New York,US Open,2020-09-08,Grand Slam,Outdoor,Hard,Quarterfinals,5,Zverev A.,Coric B.,7.0,32.0,3630.0,1355.0,1,6,7,6,7,6,6,3,0,0,2020-019
+New York,US Open,2020-09-09,Grand Slam,Outdoor,Hard,Quarterfinals,5,Carreno Busta P.,Shapovalov D.,27.0,17.0,1500.0,2075.0,3,6,7,6,7,6,0,6,6,3,2020-019
+New York,US Open,2020-09-09,Grand Slam,Outdoor,Hard,Quarterfinals,5,Medvedev D.,Rublev A.,5.0,14.0,5890.0,2234.0,7,6,6,3,7,6,0,0,0,0,2020-019
+New York,US Open,2020-09-10,Grand Slam,Outdoor,Hard,Quarterfinals,5,Thiem D.,De Minaur A.,3.0,28.0,7135.0,1485.0,6,1,6,2,6,4,0,0,0,0,2020-019
+New York,US Open,2020-09-11,Grand Slam,Outdoor,Hard,Semifinals,5,Zverev A.,Carreno Busta P.,7.0,27.0,3630.0,1500.0,3,6,2,6,6,3,6,4,6,3,2020-019
+New York,US Open,2020-09-12,Grand Slam,Outdoor,Hard,Semifinals,5,Thiem D.,Medvedev D.,3.0,5.0,7135.0,5890.0,6,2,7,6,7,6,0,0,0,0,2020-019
+New York,US Open,2020-09-13,Grand Slam,Outdoor,Hard,The Final,5,Thiem D.,Zverev A.,3.0,7.0,7135.0,3630.0,2,6,4,6,6,4,6,3,7,6,2020-019
