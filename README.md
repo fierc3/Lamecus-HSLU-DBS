@@ -1,3 +1,4 @@
+![icon-ico](https://user-images.githubusercontent.com/16936182/111320774-9c7b1e80-8667-11eb-8fa7-f587c9b88124.png)
 # Lamecus-HSLU-DBS
 Datebasesystem Project for HSLU Module DBS.
 
