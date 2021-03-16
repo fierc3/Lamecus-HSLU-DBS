@@ -28,6 +28,7 @@ CREATE TABLE Player (
 pId int NOT NULL AUTO_INCREMENT,
 firstName varchar(255),
 lastName varchar(255),
+nameDisplay varchar(255),
 countryCode varchar(5),
 weight int,
 height int,
@@ -75,4 +76,32 @@ FOREIGN KEY (rId) references  Round(rId),
 FOREIGN KEY (wpId) references Player(pId),
 FOREIGN KEY (lpId) references  Player(pId),
 FOREIGN KEY (piId) references  Pitch(piId)
-);matches
+);
+
+
+ALTER TABLE `lamecus`.`player` 
+CHANGE COLUMN `handed` `handed` ENUM('Right-Handed', 'Left-Handed', 'Ambidextrous','') NULL DEFAULT NULL ,
+CHANGE COLUMN `backhand` `backhand` ENUM('Two-Handed Backhand', 'One-Handed Backhand','') NULL DEFAULT NULL ;
+
+ALTER TABLE `lamecus`.`pitch` 
+CHANGE COLUMN `surface` `surface` ENUM('Hard', 'Grass', 'Clay') NULL DEFAULT NULL ;
+
+
+ALTER TABLE `lamecus`.`pitch` 
+CHANGE COLUMN `court` `court` ENUM('Indoor', 'Outdoor') NULL DEFAULT NULL ;
+
+
+ALTER TABLE `lamecus`.`series` 
+ADD UNIQUE INDEX `name_UNIQUE` (`name` ASC) VISIBLE;
+;
+
+ALTER TABLE `lamecus`.`player` 
+ADD UNIQUE INDEX `nameDisplay_UNIQUE` (`nameDisplay` ASC) VISIBLE;
+;
+
+ALTER TABLE `lamecus`.`round` 
+ADD UNIQUE INDEX `name_UNIQUE` (`name` ASC) VISIBLE;
+;
+
+
+
