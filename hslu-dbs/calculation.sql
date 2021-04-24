@@ -1,10 +1,10 @@
-SET @tournamentId = 2050;
-SET @maxDate = date('2021/04/20');
+SET @tournamentId = 2065; /*frenchopen=2467, usopen=2065*/
+SET @maxDate = date('2018/12/31');
 
-SET @first1 = 'Novak';
-SET @last1 = 'Djokovic';
-SET @first2 = 'Adrian';
-SET @last2 = 'Mannarino';
+SET @first1 = 'Novak';			/*Novak */
+SET @last1 = 'Djokovic';		/*Djokovic */
+SET @first2 = 'Juan Martin';	/*Andy Stan */
+SET @last2 = 'del Potro';		/*Murray Wawrinka */
 
 SET @p1 = 0;
 SET @p2 = 0;
@@ -109,4 +109,4 @@ SET @p2Odds = 100 / (@p1Power + @p2Power ) * @p2Power;
 SELECT @toDate, @fromDate, @pitchId, @p1, @p1Pts, @h2h1Wins, @form1T,@form1W, @form1L, @pitch1T, @pitch1W,@pitch1L, @p2, @p2Pts, @h2h2Wins, @form2T,@form2W, @form2L, @pitch2T, @pitch2W,@pitch2L, truncate(@p1Power,2), truncate(@p2Power,2), truncate(@p1Odds,2) AS 'Player 1 Odds', truncate(@p2Odds,2) AS'Player 2 Odds';
 
 /*****************************************RESULT*********************************************/
-SELECT tournament.name AS 'Tournament', @toDate AS 'Match Date', concat(concat(@first1,' '), @last1) AS 'Player 1',  truncate(@p1Odds,2) AS 'Odds Player 2', concat(concat(@first2,' '), @last2)  AS 'Player 2',truncate(@p2Odds,2) AS 'Odds Player 2' FROM tournament WHERE tId = tournament.tId LIMIT 1;
+SELECT tournament.name AS 'Tournament', @toDate AS 'Match Date', concat(concat(@first1,' '), @last1) AS 'Player 1',  truncate(@p1Odds,2) AS 'Odds Player 2', concat(concat(@first2,' '), @last2)  AS 'Player 2',truncate(@p2Odds,2) AS 'Odds Player 2' FROM tournament WHERE tournament.tId = @tournamentId LIMIT 1;

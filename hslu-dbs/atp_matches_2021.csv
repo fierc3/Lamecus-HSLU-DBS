@@ -1,0 +1,796 @@
+location,tournament,match_date,series,court,surface,round,best_of,winner,loser,wrank,lrank,wpts,lpts,w1,l1,w2,l2,w3,l3,w4,l4,w5,l5,tourney_id
+Antalya,Antalya Open,2021-01-07,ATP250,Indoor,Hard,1st Round,3,Basilashvili N.,Arnaboldi A.,40,267.0,1395,206.0,4,6,7,5,6,1,0,0,0,0,2021-001
+Antalya,Antalya Open,2021-01-07,ATP250,Indoor,Hard,1st Round,3,Celikbilek A.,Zuk K.,309,262.0,150,209.0,7,6,7,5,0,0,0,0,0,0,2021-001
+Antalya,Antalya Open,2021-01-07,ATP250,Indoor,Hard,1st Round,3,Ruusuvuori E.,Vesely J.,87,67.0,806,928.0,6,3,7,6,0,0,0,0,0,0,2021-001
+Antalya,Antalya Open,2021-01-07,ATP250,Indoor,Hard,1st Round,3,Bublik A.,Caruso S.,49,76.0,1090,858.0,6,3,6,3,0,0,0,0,0,0,2021-001
+Antalya,Antalya Open,2021-01-07,ATP250,Indoor,Hard,1st Round,3,Goffin D.,Herbert P.H.,16,83.0,2555,822.0,3,6,7,5,6,0,0,0,0,0,2021-001
+Antalya,Antalya Open,2021-01-07,ATP250,Indoor,Hard,1st Round,3,Travaglia S.,Kecmanovic M.,75,42.0,869,1328.0,1,6,6,4,6,0,0,0,0,0,2021-001
+Antalya,Antalya Open,2021-01-08,ATP250,Indoor,Hard,1st Round,3,Struff J.L.,Kotov P.,37,269.0,1450,205.0,6,4,6,3,0,0,0,0,0,0,2021-001
+Antalya,Antalya Open,2021-01-08,ATP250,Indoor,Hard,1st Round,3,Lamasine T.,Gerasimov E.,271,78.0,204,840.0,7,6,6,2,0,0,0,0,0,0,2021-001
+Antalya,Antalya Open,2021-01-08,ATP250,Indoor,Hard,1st Round,3,Andreev A.,Ilhan M.,564,571.0,52,51.0,6,4,6,3,0,0,0,0,0,0,2021-001
+Antalya,Antalya Open,2021-01-08,ATP250,Indoor,Hard,1st Round,3,Grenier H.,Molcan A.,250,313.0,220,145.0,7,5,6,4,0,0,0,0,0,0,2021-001
+Antalya,Antalya Open,2021-01-08,ATP250,Indoor,Hard,1st Round,3,Berrettini M.,Kirkin E.,10,446.0,3085,83.0,6,0,6,4,0,0,0,0,0,0,2021-001
+Antalya,Antalya Open,2021-01-08,ATP250,Indoor,Hard,1st Round,3,Chardy J.,Albot R.,72,85.0,880,817.0,6,3,6,4,0,0,0,0,0,0,2021-001
+Antalya,Antalya Open,2021-01-08,ATP250,Indoor,Hard,1st Round,3,De Minaur A.,Jaziri M.,23,249.0,1860,220.0,6,2,6,1,0,0,0,0,0,0,2021-001
+Antalya,Antalya Open,2021-01-08,ATP250,Indoor,Hard,1st Round,3,Kuhn N.,Bachinger M.,253,279.0,219,189.0,3,6,6,3,4,1,0,0,0,0,2021-001
+Antalya,Antalya Open,2021-01-08,ATP250,Indoor,Hard,1st Round,3,Fognini F.,Vrbensky M.,17,311.0,2400,148.0,6,4,7,6,0,0,0,0,0,0,2021-001
+Antalya,Antalya Open,2021-01-08,ATP250,Indoor,Hard,1st Round,3,Kuzmanov D.,Djere L.,298,55.0,166,1068.0,6,1,3,2,0,0,0,0,0,0,2021-001
+Antalya,Antalya Open,2021-01-09,ATP250,Indoor,Hard,2nd Round,3,De Minaur A.,Andreev A.,23,564.0,1860,52.0,6,3,6,1,0,0,0,0,0,0,2021-001
+Antalya,Antalya Open,2021-01-09,ATP250,Indoor,Hard,2nd Round,3,Basilashvili N.,Celikbilek A.,40,309.0,1395,150.0,7,6,6,4,0,0,0,0,0,0,2021-001
+Antalya,Antalya Open,2021-01-09,ATP250,Indoor,Hard,2nd Round,3,Travaglia S.,Ruusuvuori E.,75,87.0,869,806.0,7,6,6,3,0,0,0,0,0,0,2021-001
+Antalya,Antalya Open,2021-01-09,ATP250,Indoor,Hard,2nd Round,3,Goffin D.,Kuhn N.,16,253.0,2555,219.0,6,0,6,2,0,0,0,0,0,0,2021-001
+Antalya,Antalya Open,2021-01-10,ATP250,Indoor,Hard,2nd Round,3,Chardy J.,Fognini F.,72,17.0,880,2400.0,7,6,6,7,7,6,0,0,0,0,2021-001
+Antalya,Antalya Open,2021-01-10,ATP250,Indoor,Hard,2nd Round,3,Bublik A.,Lamasine T.,49,271.0,1090,204.0,6,2,6,4,0,0,0,0,0,0,2021-001
+Antalya,Antalya Open,2021-01-10,ATP250,Indoor,Hard,2nd Round,3,Struff J.L.,Grenier H.,37,250.0,1450,220.0,0,0,0,0,0,0,0,0,0,0,2021-001
+Antalya,Antalya Open,2021-01-10,ATP250,Indoor,Hard,2nd Round,3,Berrettini M.,Kuzmanov D.,10,298.0,3085,166.0,6,2,6,3,0,0,0,0,0,0,2021-001
+Antalya,Antalya Open,2021-01-11,ATP250,Indoor,Hard,Quarterfinals,3,Goffin D.,Travaglia S.,16,75.0,2555,869.0,6,3,6,2,0,0,0,0,0,0,2021-001
+Antalya,Antalya Open,2021-01-11,ATP250,Indoor,Hard,Quarterfinals,3,Chardy J.,Struff J.L.,72,37.0,880,1450.0,4,6,6,2,7,6,0,0,0,0,2021-001
+Antalya,Antalya Open,2021-01-11,ATP250,Indoor,Hard,Quarterfinals,3,Bublik A.,Berrettini M.,49,10.0,1090,3085.0,7,6,6,4,0,0,0,0,0,0,2021-001
+Antalya,Antalya Open,2021-01-11,ATP250,Indoor,Hard,Quarterfinals,3,De Minaur A.,Basilashvili N.,23,40.0,1860,1395.0,6,2,6,4,0,0,0,0,0,0,2021-001
+Antalya,Antalya Open,2021-01-12,ATP250,Indoor,Hard,Semifinals,3,De Minaur A.,Goffin D.,23,16.0,1860,2555.0,6,4,3,6,6,2,0,0,0,0,2021-001
+Antalya,Antalya Open,2021-01-12,ATP250,Indoor,Hard,Semifinals,3,Bublik A.,Chardy J.,49,72.0,1090,880.0,6,4,6,7,6,3,0,0,0,0,2021-001
+Antalya,Antalya Open,2021-01-13,ATP250,Indoor,Hard,The Final,3,De Minaur A.,Bublik A.,23,49.0,1860,1090.0,0,2,0,0,0,0,0,0,0,0,2021-001
+Delray Beach,Delray Beach Open,2021-01-07,ATP250,Outdoor,Hard,1st Round,3,Monteiro T.,Bellucci T.,84,281.0,820,185.0,6,3,7,5,0,0,0,0,0,0,2021-002
+Delray Beach,Delray Beach Open,2021-01-07,ATP250,Outdoor,Hard,1st Round,3,Paul T.,Nam J.S.,52,268.0,1080,205.0,6,1,6,4,0,0,0,0,0,0,2021-002
+Delray Beach,Delray Beach Open,2021-01-07,ATP250,Outdoor,Hard,1st Round,3,Mager G.,Harrison R.,101,481.0,733,73.0,3,6,6,1,6,4,0,0,0,0,2021-002
+Delray Beach,Delray Beach Open,2021-01-07,ATP250,Outdoor,Hard,1st Round,3,Korda S.,Kwon S.W.,119,95.0,566,768.0,6,4,6,4,0,0,0,0,0,0,2021-002
+Delray Beach,Delray Beach Open,2021-01-08,ATP250,Outdoor,Hard,1st Round,3,Querrey S.,Mcdonald M.,56,194.0,1065,335.0,6,3,6,4,0,0,0,0,0,0,2021-002
+Delray Beach,Delray Beach Open,2021-01-08,ATP250,Outdoor,Hard,1st Round,3,Harrison C.,Etcheverry T.,280,256.0,225,216.0,6,4,6,2,0,0,0,0,0,0,2021-002
+Delray Beach,Delray Beach Open,2021-01-08,ATP250,Outdoor,Hard,1st Round,3,Galan D.,Martin A.,115,100.0,606,734.0,6,4,6,4,0,0,0,0,0,0,2021-002
+Delray Beach,Delray Beach Open,2021-01-08,ATP250,Outdoor,Hard,1st Round,3,Quiroz R.,Rubin N.,293,251.0,171,219.0,7,6,6,3,0,0,0,0,0,0,2021-002
+Delray Beach,Delray Beach Open,2021-01-08,ATP250,Outdoor,Hard,1st Round,3,Fratangelo B.,King K.,274,304.0,195,154.0,6,2,6,2,0,0,0,0,0,0,2021-002
+Delray Beach,Delray Beach Open,2021-01-08,ATP250,Outdoor,Hard,1st Round,3,Norrie C.,Aragone J.C.,74,299.0,877,165.0,6,2,6,1,0,0,0,0,0,0,2021-002
+Delray Beach,Delray Beach Open,2021-01-08,ATP250,Outdoor,Hard,1st Round,3,Karlovic I.,Andujar P.,148,59.0,444,1044.0,6,3,5,7,6,4,0,0,0,0,2021-002
+Delray Beach,Delray Beach Open,2021-01-09,ATP250,Outdoor,Hard,1st Round,3,Tiafoe F.,Young D.,62,327.0,1005,135.0,6,3,6,4,0,0,0,0,0,0,2021-002
+Delray Beach,Delray Beach Open,2021-01-09,ATP250,Outdoor,Hard,2nd Round,3,Mager G.,Querrey S.,101,56.0,733,1065.0,7,6,6,1,0,0,0,0,0,0,2021-002
+Delray Beach,Delray Beach Open,2021-01-09,ATP250,Outdoor,Hard,2nd Round,3,Harrison C.,Garin C.,280,22.0,225,2180.0,7,6,6,2,0,0,0,0,0,0,2021-002
+Delray Beach,Delray Beach Open,2021-01-09,ATP250,Outdoor,Hard,2nd Round,3,Korda S.,Paul T.,119,52.0,566,1080.0,4,6,6,3,6,2,0,0,0,0,2021-002
+Delray Beach,Delray Beach Open,2021-01-10,ATP250,Outdoor,Hard,2nd Round,3,Isner J.,Monteiro T.,25,84.0,1850,820.0,6,4,7,6,0,0,0,0,0,0,2021-002
+Delray Beach,Delray Beach Open,2021-01-10,ATP250,Outdoor,Hard,2nd Round,3,Hurkacz H.,Galan D.,35,115.0,1518,606.0,6,2,6,2,0,0,0,0,0,0,2021-002
+Delray Beach,Delray Beach Open,2021-01-10,ATP250,Outdoor,Hard,2nd Round,3,Tiafoe F.,Fratangelo B.,62,274.0,1005,195.0,6,4,3,6,6,1,0,0,0,0,2021-002
+Delray Beach,Delray Beach Open,2021-01-10,ATP250,Outdoor,Hard,2nd Round,3,Quiroz R.,Karlovic I.,293,148.0,171,444.0,6,2,6,4,0,0,0,0,0,0,2021-002
+Delray Beach,Delray Beach Open,2021-01-11,ATP250,Outdoor,Hard,2nd Round,3,Norrie C.,Mannarino A.,74,34.0,877,1561.0,6,2,7,5,0,0,0,0,0,0,2021-002
+Delray Beach,Delray Beach Open,2021-01-11,ATP250,Outdoor,Hard,Quarterfinals,3,Harrison C.,Mager G.,280,101.0,225,733.0,7,6,6,4,0,0,0,0,0,0,2021-002
+Delray Beach,Delray Beach Open,2021-01-11,ATP250,Outdoor,Hard,Quarterfinals,3,Hurkacz H.,Quiroz R.,35,293.0,1518,171.0,6,4,6,4,0,0,0,0,0,0,2021-002
+Delray Beach,Delray Beach Open,2021-01-11,ATP250,Outdoor,Hard,Quarterfinals,3,Korda S.,Isner J.,119,25.0,566,1850.0,6,3,4,6,6,3,0,0,0,0,2021-002
+Delray Beach,Delray Beach Open,2021-01-12,ATP250,Outdoor,Hard,Quarterfinals,3,Norrie C.,Tiafoe F.,74,62.0,877,1005.0,6,0,3,6,6,4,0,0,0,0,2021-002
+Delray Beach,Delray Beach Open,2021-01-12,ATP250,Outdoor,Hard,Semifinals,3,Hurkacz H.,Harrison C.,35,280.0,1518,225.0,7,6,6,4,0,0,0,0,0,0,2021-002
+Delray Beach,Delray Beach Open,2021-01-13,ATP250,Outdoor,Hard,Semifinals,3,Korda S.,Norrie C.,119,74.0,566,877.0,6,3,7,5,0,0,0,0,0,0,2021-002
+Delray Beach,Delray Beach Open,2021-01-13,ATP250,Outdoor,Hard,The Final,3,Hurkacz H.,Korda S.,35,119.0,1518,566.0,6,3,6,3,0,0,0,0,0,0,2021-002
+Melbourne,Great Ocean Road Open,2021-01-31,ATP250,Outdoor,Hard,1st Round,3,Vukic A.,Lu Y.,195,1008.0,334,10.0,6,4,7,5,0,0,0,0,0,0,2021-003
+Melbourne,Great Ocean Road Open,2021-01-31,ATP250,Outdoor,Hard,1st Round,3,Majchrzak K.,Djere L.,109,56.0,690,1068.0,6,3,6,4,0,0,0,0,0,0,2021-003
+Melbourne,Great Ocean Road Open,2021-01-31,ATP250,Outdoor,Hard,1st Round,3,Bedene A.,Uchiyama Y.,58,106.0,1055,701.0,7,6,7,6,0,0,0,0,0,0,2021-003
+Melbourne,Great Ocean Road Open,2021-02-01,ATP250,Outdoor,Hard,1st Round,3,O Connell C.,Koepfer D.,121,68.0,565,931.0,5,7,6,4,6,1,0,0,0,0,2021-003
+Melbourne,Great Ocean Road Open,2021-02-01,ATP250,Outdoor,Hard,1st Round,3,Purcell M.,Gombos N.,238,89.0,241,797.0,6,4,6,4,0,0,0,0,0,0,2021-003
+Melbourne,Great Ocean Road Open,2021-02-01,ATP250,Outdoor,Hard,1st Round,3,Kwon S.W.,Martin A.,97,102.0,768,734.0,6,3,6,7,7,6,0,0,0,0,2021-003
+Melbourne,Great Ocean Road Open,2021-02-01,ATP250,Outdoor,Hard,1st Round,3,Travaglia S.,Carballes Baena R.,71,98.0,894,751.0,2,6,7,5,7,6,0,0,0,0,2021-003
+Melbourne,Great Ocean Road Open,2021-02-01,ATP250,Outdoor,Hard,1st Round,3,Anderson K.,Lopez F.,82,63.0,825,998.0,6,4,7,5,0,0,0,0,0,0,2021-003
+Melbourne,Great Ocean Road Open,2021-02-01,ATP250,Outdoor,Hard,1st Round,3,Caruso S.,Seppi A.,76,107.0,858,699.0,7,5,7,6,0,0,0,0,0,0,2021-003
+Melbourne,Great Ocean Road Open,2021-02-02,ATP250,Outdoor,Hard,1st Round,3,Sandgren T.,Smith J.P.,50,318.0,1088,143.0,6,3,5,7,6,4,0,0,0,0,2021-003
+Melbourne,Great Ocean Road Open,2021-02-02,ATP250,Outdoor,Hard,1st Round,3,Herbert P.H.,Cressy M.,84,171.0,822,389.0,6,7,7,6,7,5,0,0,0,0,2021-003
+Melbourne,Great Ocean Road Open,2021-02-02,ATP250,Outdoor,Hard,1st Round,3,Cuevas P.,Andujar P.,70,59.0,927,1044.0,6,4,6,2,0,0,0,0,0,0,2021-003
+Melbourne,Great Ocean Road Open,2021-02-02,ATP250,Outdoor,Hard,1st Round,3,Sweeny D.,Nam J.S.,797,273.0,22,205.0,7,6,7,5,0,0,0,0,0,0,2021-003
+Melbourne,Great Ocean Road Open,2021-02-02,ATP250,Outdoor,Hard,1st Round,3,Alcaraz C.,Balazs A.,146,94.0,464,779.0,2,2,0,0,0,0,0,0,0,0,2021-003
+Melbourne,Great Ocean Road Open,2021-02-02,ATP250,Outdoor,Hard,1st Round,3,Thompson J.,Mager G.,52,96.0,1084,770.0,4,6,6,4,6,3,0,0,0,0,2021-003
+Melbourne,Great Ocean Road Open,2021-02-02,ATP250,Outdoor,Hard,1st Round,3,Haase R.,Coppejans K.,198,178.0,330,368.0,6,4,6,3,0,0,0,0,0,0,2021-003
+Melbourne,Great Ocean Road Open,2021-02-02,ATP250,Outdoor,Hard,1st Round,3,Querrey S.,Laaksonen H.,51,136.0,1085,492.0,4,6,7,6,6,0,0,0,0,0,2021-003
+Melbourne,Great Ocean Road Open,2021-02-02,ATP250,Outdoor,Hard,1st Round,3,Torpegaard M.,Martinez P.,193,87.0,340,810.0,6,4,7,5,0,0,0,0,0,0,2021-003
+Melbourne,Great Ocean Road Open,2021-02-02,ATP250,Outdoor,Hard,1st Round,3,Ebden M.,Delbonis F.,320,77.0,141,851.0,6,3,7,6,0,0,0,0,0,0,2021-003
+Melbourne,Great Ocean Road Open,2021-02-02,ATP250,Outdoor,Hard,1st Round,3,Vilella Martinez M.,Hanfmann Y.,188,101.0,346,736.0,7,6,6,4,0,0,0,0,0,0,2021-003
+Melbourne,Great Ocean Road Open,2021-02-02,ATP250,Outdoor,Hard,1st Round,3,Stebe C.M.,Dellien H.,128,112.0,534,646.0,6,4,6,4,0,0,0,0,0,0,2021-003
+Melbourne,Great Ocean Road Open,2021-02-02,ATP250,Outdoor,Hard,1st Round,3,Stakhovsky S.,Safiullin R.,201,182.0,329,357.0,6,7,6,4,6,3,0,0,0,0,2021-003
+Melbourne,Great Ocean Road Open,2021-02-02,ATP250,Outdoor,Hard,1st Round,3,Monteiro T.,Fancutt T.,83,562.0,824,53.0,6,4,6,4,0,0,0,0,0,0,2021-003
+Melbourne,Great Ocean Road Open,2021-02-02,ATP250,Outdoor,Hard,1st Round,3,Van De Zandschulp B.,Schoolkate T.,159,844.0,423,18.0,6,4,7,5,0,0,0,0,0,0,2021-003
+Melbourne,Great Ocean Road Open,2021-02-03,ATP250,Outdoor,Hard,2nd Round,3,Sinner J.,Vukic A.,36,195.0,1464,334.0,6,2,6,4,0,0,0,0,0,0,2021-003
+Melbourne,Great Ocean Road Open,2021-02-03,ATP250,Outdoor,Hard,2nd Round,3,Caruso S.,Sandgren T.,76,50.0,858,1088.0,6,4,6,7,6,1,0,0,0,0,2021-003
+Melbourne,Great Ocean Road Open,2021-02-03,ATP250,Outdoor,Hard,2nd Round,3,Bedene A.,Sweeny D.,58,797.0,1055,22.0,6,0,6,4,0,0,0,0,0,0,2021-003
+Melbourne,Great Ocean Road Open,2021-02-03,ATP250,Outdoor,Hard,2nd Round,3,Hurkacz H.,Torpegaard M.,29,193.0,1735,340.0,6,4,6,3,0,0,0,0,0,0,2021-003
+Melbourne,Great Ocean Road Open,2021-02-03,ATP250,Outdoor,Hard,2nd Round,3,Kecmanovic M.,Kwon S.W.,42,97.0,1328,768.0,6,3,6,4,0,0,0,0,0,0,2021-003
+Melbourne,Great Ocean Road Open,2021-02-03,ATP250,Outdoor,Hard,2nd Round,3,Travaglia S.,Querrey S.,71,51.0,894,1085.0,6,7,6,3,6,4,0,0,0,0,2021-003
+Melbourne,Great Ocean Road Open,2021-02-03,ATP250,Outdoor,Hard,2nd Round,3,Cuevas P.,Haase R.,70,198.0,927,330.0,7,5,6,3,0,0,0,0,0,0,2021-003
+Melbourne,Great Ocean Road Open,2021-02-03,ATP250,Outdoor,Hard,2nd Round,3,Thompson J.,Herbert P.H.,52,84.0,1084,822.0,6,4,3,6,6,3,0,0,0,0,2021-003
+Melbourne,Great Ocean Road Open,2021-02-03,ATP250,Outdoor,Hard,2nd Round,3,Monteiro T.,Ebden M.,83,320.0,824,141.0,6,7,6,4,6,3,0,0,0,0,2021-003
+Melbourne,Great Ocean Road Open,2021-02-03,ATP250,Outdoor,Hard,2nd Round,3,Van De Zandschulp B.,Majchrzak K.,159,109.0,423,690.0,6,4,3,6,6,4,0,0,0,0,2021-003
+Melbourne,Great Ocean Road Open,2021-02-03,ATP250,Outdoor,Hard,2nd Round,3,Opelka R.,Stakhovsky S.,40,201.0,1402,329.0,7,6,6,4,0,0,0,0,0,0,2021-003
+Melbourne,Great Ocean Road Open,2021-02-03,ATP250,Outdoor,Hard,2nd Round,3,Bublik A.,O Connell C.,45,121.0,1220,565.0,7,6,6,7,6,4,0,0,0,0,2021-003
+Melbourne,Great Ocean Road Open,2021-02-03,ATP250,Outdoor,Hard,2nd Round,3,Vilella Martinez M.,Basilashvili N.,188,39.0,346,1405.0,7,5,6,3,0,0,0,0,0,0,2021-003
+Melbourne,Great Ocean Road Open,2021-02-03,ATP250,Outdoor,Hard,2nd Round,3,Khachanov K.,Purcell M.,20,238.0,2245,241.0,7,6,6,3,0,0,0,0,0,0,2021-003
+Melbourne,Great Ocean Road Open,2021-02-03,ATP250,Outdoor,Hard,2nd Round,3,Alcaraz C.,Goffin D.,146,14.0,464,2600.0,6,3,6,3,0,0,0,0,0,0,2021-003
+Melbourne,Great Ocean Road Open,2021-02-03,ATP250,Outdoor,Hard,2nd Round,3,Anderson K.,Stebe C.M.,82,128.0,825,534.0,6,4,6,2,0,0,0,0,0,0,2021-003
+Melbourne,Great Ocean Road Open,2021-02-04,ATP250,Outdoor,Hard,3rd Round,3,Thompson J.,Vilella Martinez M.,52,188.0,1084,346.0,6,4,6,4,0,0,0,0,0,0,2021-003
+Melbourne,Great Ocean Road Open,2021-02-04,ATP250,Outdoor,Hard,3rd Round,3,Monteiro T.,Alcaraz C.,83,146.0,824,464.0,7,6,6,3,0,0,0,0,0,0,2021-003
+Melbourne,Great Ocean Road Open,2021-02-04,ATP250,Outdoor,Hard,3rd Round,3,Khachanov K.,Anderson K.,20,82.0,2245,825.0,6,3,7,6,0,0,0,0,0,0,2021-003
+Melbourne,Great Ocean Road Open,2021-02-04,ATP250,Outdoor,Hard,3rd Round,3,Sinner J.,Bedene A.,36,58.0,1464,1055.0,7,6,6,2,0,0,0,0,0,0,2021-003
+Melbourne,Great Ocean Road Open,2021-02-04,ATP250,Outdoor,Hard,3rd Round,3,Van De Zandschulp B.,Opelka R.,159,40.0,423,1402.0,7,6,7,6,0,0,0,0,0,0,2021-003
+Melbourne,Great Ocean Road Open,2021-02-04,ATP250,Outdoor,Hard,3rd Round,3,Kecmanovic M.,Caruso S.,42,76.0,1328,858.0,7,6,5,7,7,5,0,0,0,0,2021-003
+Melbourne,Great Ocean Road Open,2021-02-04,ATP250,Outdoor,Hard,3rd Round,3,Travaglia S.,Bublik A.,71,45.0,894,1220.0,6,1,7,5,0,0,0,0,0,0,2021-003
+Melbourne,Great Ocean Road Open,2021-02-05,ATP250,Outdoor,Hard,3rd Round,3,Hurkacz H.,Cuevas P.,29,70.0,1735,927.0,7,5,7,5,0,0,0,0,0,0,2021-003
+Melbourne,Great Ocean Road Open,2021-02-05,ATP250,Outdoor,Hard,Quarterfinals,3,Monteiro T.,Thompson J.,83,52.0,824,1084.0,6,4,6,4,0,0,0,0,0,0,2021-003
+Melbourne,Great Ocean Road Open,2021-02-05,ATP250,Outdoor,Hard,Quarterfinals,3,Sinner J.,Kecmanovic M.,36,42.0,1464,1328.0,7,6,6,4,0,0,0,0,0,0,2021-003
+Melbourne,Great Ocean Road Open,2021-02-05,ATP250,Outdoor,Hard,Quarterfinals,3,Khachanov K.,Van De Zandschulp B.,20,159.0,2245,423.0,6,7,7,5,6,3,0,0,0,0,2021-003
+Melbourne,Great Ocean Road Open,2021-02-05,ATP250,Outdoor,Hard,Quarterfinals,3,Travaglia S.,Hurkacz H.,71,29.0,894,1735.0,3,6,6,3,7,5,0,0,0,0,2021-003
+Melbourne,Great Ocean Road Open,2021-02-06,ATP250,Outdoor,Hard,Semifinals,3,Travaglia S.,Monteiro T.,71,83.0,894,824.0,6,3,6,4,0,0,0,0,0,0,2021-003
+Melbourne,Great Ocean Road Open,2021-02-06,ATP250,Outdoor,Hard,Semifinals,3,Sinner J.,Khachanov K.,36,20.0,1464,2245.0,7,6,4,6,7,6,0,0,0,0,2021-003
+Melbourne,Great Ocean Road Open,2021-02-07,ATP250,Outdoor,Hard,The Final,3,Sinner J.,Travaglia S.,36,71.0,1464,894.0,7,6,6,4,0,0,0,0,0,0,2021-003
+Melbourne,Murray River Open,2021-02-01,ATP250,Outdoor,Hard,1st Round,3,Moutet C.,Tiafoe F.,80,62.0,838,1005.0,3,6,6,4,6,4,0,0,0,0,2021-004
+Melbourne,Murray River Open,2021-02-01,ATP250,Outdoor,Hard,1st Round,3,Gerasimov E.,Harris L.,78,91.0,840,793.0,6,3,7,5,0,0,0,0,0,0,2021-004
+Melbourne,Murray River Open,2021-02-01,ATP250,Outdoor,Hard,1st Round,3,Paul T.,Norrie C.,53,67.0,1080,935.0,4,6,7,6,6,3,0,0,0,0,2021-004
+Melbourne,Murray River Open,2021-02-01,ATP250,Outdoor,Hard,1st Round,3,Mcdonald M.,Gasquet R.,194,48.0,335,1155.0,7,6,7,5,0,0,0,0,0,0,2021-004
+Melbourne,Murray River Open,2021-02-01,ATP250,Outdoor,Hard,1st Round,3,Coria F.,Albot R.,92,85.0,783,817.0,7,6,6,4,0,0,0,0,0,0,2021-004
+Melbourne,Murray River Open,2021-02-01,ATP250,Outdoor,Hard,1st Round,3,Kubler J.,Sonego L.,265,34.0,210,1588.0,3,6,6,3,6,4,0,0,0,0,2021-004
+Melbourne,Murray River Open,2021-02-01,ATP250,Outdoor,Hard,1st Round,3,Fucsovics M.,Cecchinato M.,55,79.0,1072,838.0,7,6,6,3,0,0,0,0,0,0,2021-004
+Melbourne,Murray River Open,2021-02-01,ATP250,Outdoor,Hard,1st Round,3,Sousa P.,Tu L.,108,,698,,6,4,7,6,0,0,0,0,0,0,2021-004
+Melbourne,Murray River Open,2021-02-01,ATP250,Outdoor,Hard,1st Round,3,Ramos-Vinolas A.,Mott B.,46,481.0,1210,74.0,6,2,6,4,0,0,0,0,0,0,2021-004
+Melbourne,Murray River Open,2021-02-01,ATP250,Outdoor,Hard,1st Round,3,Bolt A.,Kokkinakis T.,174,266.0,380,209.0,2,6,6,4,6,3,0,0,0,0,2021-004
+Melbourne,Murray River Open,2021-02-01,ATP250,Outdoor,Hard,1st Round,3,Berankis R.,Nagal S.,72,139.0,889,480.0,6,2,6,2,0,0,0,0,0,0,2021-004
+Melbourne,Murray River Open,2021-02-01,ATP250,Outdoor,Hard,1st Round,3,Chardy J.,Cilic M.,66,43.0,950,1325.0,2,6,6,3,7,6,0,0,0,0,2021-004
+Melbourne,Murray River Open,2021-02-01,ATP250,Outdoor,Hard,1st Round,3,Bourchier H.,Polmans M.,324,125.0,138,546.0,6,4,6,4,0,0,0,0,0,0,2021-004
+Melbourne,Murray River Open,2021-02-01,ATP250,Outdoor,Hard,1st Round,3,Mannarino A.,Ymer M.,35,95.0,1561,775.0,7,5,6,2,0,0,0,0,0,0,2021-004
+Melbourne,Murray River Open,2021-02-02,ATP250,Outdoor,Hard,1st Round,3,Giron M.,Mmoh M.,73,177.0,884,368.0,6,1,7,5,0,0,0,0,0,0,2021-004
+Melbourne,Murray River Open,2021-02-02,ATP250,Outdoor,Hard,1st Round,3,Duckworth J.,Machac T.,105,197.0,709,333.0,6,3,6,4,0,0,0,0,0,0,2021-004
+Melbourne,Murray River Open,2021-02-02,ATP250,Outdoor,Hard,1st Round,3,Kukushkin M.,Londero J.I.,90,81.0,796,832.0,4,6,7,5,6,2,0,0,0,0,2021-004
+Melbourne,Murray River Open,2021-02-02,ATP250,Outdoor,Hard,1st Round,3,Popyrin A.,Gojo B.,114,226.0,631,258.0,6,7,7,6,7,6,0,0,0,0,2021-004
+Melbourne,Murray River Open,2021-02-02,ATP250,Outdoor,Hard,1st Round,3,Sugita Y.,Halys Q.,104,206.0,721,310.0,3,6,7,6,7,5,0,0,0,0,2021-004
+Melbourne,Murray River Open,2021-02-02,ATP250,Outdoor,Hard,1st Round,3,Vesely J.,Ferreira Silva F.,69,184.0,928,356.0,6,4,6,4,0,0,0,0,0,0,2021-004
+Melbourne,Murray River Open,2021-02-02,ATP250,Outdoor,Hard,1st Round,3,Kyrgios N.,Muller A.,47,209.0,1170,305.0,3,6,6,4,7,6,0,0,0,0,2021-004
+Melbourne,Murray River Open,2021-02-02,ATP250,Outdoor,Hard,1st Round,3,Harris A.,Daniel T.,232,117.0,251,591.0,5,7,6,4,7,5,0,0,0,0,2021-004
+Melbourne,Murray River Open,2021-02-02,ATP250,Outdoor,Hard,1st Round,3,Simon G.,Ymer E.,64,204.0,990,314.0,6,4,6,4,0,0,0,0,0,0,2021-004
+Melbourne,Murray River Open,2021-02-02,ATP250,Outdoor,Hard,1st Round,3,Ruusuvuori E.,Troicki V.,86,202.0,816,326.0,6,3,6,4,0,0,0,0,0,0,2021-004
+Melbourne,Murray River Open,2021-02-02,ATP250,Outdoor,Hard,2nd Round,3,Berankis R.,Kubler J.,72,265.0,889,210.0,7,6,7,5,0,0,0,0,0,0,2021-004
+Melbourne,Murray River Open,2021-02-02,ATP250,Outdoor,Hard,2nd Round,3,Gerasimov E.,Fucsovics M.,78,55.0,840,1072.0,6,3,1,6,6,3,0,0,0,0,2021-004
+Melbourne,Murray River Open,2021-02-02,ATP250,Outdoor,Hard,2nd Round,3,Giron M.,Mannarino A.,73,35.0,884,1561.0,6,3,6,4,0,0,0,0,0,0,2021-004
+Melbourne,Murray River Open,2021-02-02,ATP250,Outdoor,Hard,2nd Round,3,Evans D.,Sousa P.,33,108.0,1589,698.0,6,3,7,5,0,0,0,0,0,0,2021-004
+Melbourne,Murray River Open,2021-02-03,ATP250,Outdoor,Hard,2nd Round,3,Bolt A.,Mcdonald M.,174,194.0,380,335.0,6,4,6,7,7,5,0,0,0,0,2021-004
+Melbourne,Murray River Open,2021-02-03,ATP250,Outdoor,Hard,2nd Round,3,Popyrin A.,Paul T.,114,53.0,631,1080.0,6,4,6,3,0,0,0,0,0,0,2021-004
+Melbourne,Murray River Open,2021-02-03,ATP250,Outdoor,Hard,2nd Round,3,Wawrinka S.,Kukushkin M.,18,90.0,2365,796.0,4,6,6,3,6,1,0,0,0,0,2021-004
+Melbourne,Murray River Open,2021-02-03,ATP250,Outdoor,Hard,2nd Round,3,Duckworth J.,Humbert U.,105,32.0,709,1671.0,7,6,6,4,0,0,0,0,0,0,2021-004
+Melbourne,Murray River Open,2021-02-03,ATP250,Outdoor,Hard,2nd Round,3,Vesely J.,Ruud C.,69,27.0,928,1739.0,5,7,7,6,6,3,0,0,0,0,2021-004
+Melbourne,Murray River Open,2021-02-03,ATP250,Outdoor,Hard,2nd Round,3,Chardy J.,Simon G.,66,64.0,950,990.0,6,3,6,4,0,0,0,0,0,0,2021-004
+Melbourne,Murray River Open,2021-02-03,ATP250,Outdoor,Hard,2nd Round,3,Coric B.,Ruusuvuori E.,25,86.0,1855,816.0,7,5,6,4,0,0,0,0,0,0,2021-004
+Melbourne,Murray River Open,2021-02-03,ATP250,Outdoor,Hard,2nd Round,3,Kyrgios N.,Bourchier H.,47,324.0,1170,138.0,6,2,7,6,0,0,0,0,0,0,2021-004
+Melbourne,Murray River Open,2021-02-03,ATP250,Outdoor,Hard,2nd Round,3,Auger-Aliassime F.,Sugita Y.,21,104.0,2241,721.0,6,3,6,1,0,0,0,0,0,0,2021-004
+Melbourne,Murray River Open,2021-02-03,ATP250,Outdoor,Hard,2nd Round,3,Fritz T.,Coria F.,30,92.0,1695,783.0,6,2,6,1,0,0,0,0,0,0,2021-004
+Melbourne,Murray River Open,2021-02-03,ATP250,Outdoor,Hard,2nd Round,3,Dimitrov G.,Harris A.,19,232.0,2260,251.0,6,3,6,3,0,0,0,0,0,0,2021-004
+Melbourne,Murray River Open,2021-02-03,ATP250,Outdoor,Hard,2nd Round,3,Moutet C.,Ramos-Vinolas A.,80,46.0,838,1210.0,6,4,6,4,0,0,0,0,0,0,2021-004
+Melbourne,Murray River Open,2021-02-05,ATP250,Outdoor,Hard,3rd Round,3,Coric B.,Kyrgios N.,25,47.0,1855,1170.0,6,3,6,4,0,0,0,0,0,0,2021-004
+Melbourne,Murray River Open,2021-02-05,ATP250,Outdoor,Hard,3rd Round,3,Evans D.,Giron M.,33,73.0,1589,884.0,6,4,7,6,0,0,0,0,0,0,2021-004
+Melbourne,Murray River Open,2021-02-05,ATP250,Outdoor,Hard,3rd Round,3,Chardy J.,Fritz T.,66,30.0,950,1695.0,6,2,6,4,0,0,0,0,0,0,2021-004
+Melbourne,Murray River Open,2021-02-05,ATP250,Outdoor,Hard,3rd Round,3,Moutet C.,Duckworth J.,80,105.0,838,709.0,7,6,6,4,0,0,0,0,0,0,2021-004
+Melbourne,Murray River Open,2021-02-05,ATP250,Outdoor,Hard,3rd Round,3,Vesely J.,Berankis R.,69,72.0,928,889.0,6,4,6,2,0,0,0,0,0,0,2021-004
+Melbourne,Murray River Open,2021-02-05,ATP250,Outdoor,Hard,3rd Round,3,Wawrinka S.,Bolt A.,18,174.0,2365,380.0,6,4,4,6,7,6,0,0,0,0,2021-004
+Melbourne,Murray River Open,2021-02-05,ATP250,Outdoor,Hard,3rd Round,3,Auger-Aliassime F.,Gerasimov E.,21,78.0,2241,840.0,3,6,6,3,7,6,0,0,0,0,2021-004
+Melbourne,Murray River Open,2021-02-05,ATP250,Outdoor,Hard,3rd Round,3,Dimitrov G.,Popyrin A.,19,114.0,2260,631.0,6,4,6,7,6,3,0,0,0,0,2021-004
+Melbourne,Murray River Open,2021-02-05,ATP250,Outdoor,Hard,Quarterfinals,3,Evans D.,Coric B.,33,25.0,1589,1855.0,7,5,7,6,0,0,0,0,0,0,2021-004
+Melbourne,Murray River Open,2021-02-05,ATP250,Outdoor,Hard,Quarterfinals,3,Chardy J.,Wawrinka S.,66,18.0,950,2365.0,0,0,0,0,0,0,0,0,0,0,2021-004
+Melbourne,Murray River Open,2021-02-05,ATP250,Outdoor,Hard,Quarterfinals,3,Auger-Aliassime F.,Vesely J.,21,69.0,2241,928.0,7,6,0,0,0,0,0,0,0,0,2021-004
+Melbourne,Murray River Open,2021-02-05,ATP250,Outdoor,Hard,Quarterfinals,3,Moutet C.,Dimitrov G.,80,19.0,838,2260.0,7,5,6,2,0,0,0,0,0,0,2021-004
+Melbourne,Murray River Open,2021-02-06,ATP250,Outdoor,Hard,Semifinals,3,Evans D.,Chardy J.,33,66.0,1589,950.0,6,2,6,2,0,0,0,0,0,0,2021-004
+Melbourne,Murray River Open,2021-02-06,ATP250,Outdoor,Hard,Semifinals,3,Auger-Aliassime F.,Moutet C.,21,80.0,2241,838.0,6,1,6,2,0,0,0,0,0,0,2021-004
+Melbourne,Murray River Open,2021-02-07,ATP250,Outdoor,Hard,The Final,3,Evans D.,Auger-Aliassime F.,33,21.0,1589,2241.0,6,2,6,3,0,0,0,0,0,0,2021-004
+Melbourne,Australian Open,2021-02-08,Grand Slam,Outdoor,Hard,1st Round,5,Raonic M.,Coria F.,14,92.0,2630,785.0,6,3,6,3,6,2,0,0,0,0,2021-005
+Melbourne,Australian Open,2021-02-08,Grand Slam,Outdoor,Hard,1st Round,5,Mannarino A.,Novak D.,36,98.0,1561,752.0,6,2,6,4,7,6,0,0,0,0,2021-005
+Melbourne,Australian Open,2021-02-08,Grand Slam,Outdoor,Hard,1st Round,5,Ruusuvuori E.,Monfils G.,86,11.0,816,2860.0,3,6,6,4,7,5,3,6,6,3,2021-005
+Melbourne,Australian Open,2021-02-08,Grand Slam,Outdoor,Hard,1st Round,5,Moutet C.,Millman J.,71,39.0,928,1421.0,6,4,6,7,3,6,6,2,6,3,2021-005
+Melbourne,Australian Open,2021-02-08,Grand Slam,Outdoor,Hard,1st Round,5,Opelka R.,Lu Y.,38,1009.0,1422,10.0,6,3,7,6,6,3,0,0,0,0,2021-005
+Melbourne,Australian Open,2021-02-08,Grand Slam,Outdoor,Hard,1st Round,5,Wawrinka S.,Sousa P.,18,107.0,2365,701.0,6,3,6,2,6,4,0,0,0,0,2021-005
+Melbourne,Australian Open,2021-02-08,Grand Slam,Outdoor,Hard,1st Round,5,Bolt A.,Gombos N.,166,89.0,400,797.0,6,2,6,2,4,6,6,3,0,0,2021-005
+Melbourne,Australian Open,2021-02-08,Grand Slam,Outdoor,Hard,1st Round,5,Martinez P.,Nishioka Y.,87,58.0,810,1062.0,6,7,6,1,6,1,6,1,0,0,2021-005
+Melbourne,Australian Open,2021-02-08,Grand Slam,Outdoor,Hard,1st Round,5,Fritz T.,Ramos-Vinolas A.,31,46.0,1695,1210.0,7,6,3,6,6,2,7,6,0,0,2021-005
+Melbourne,Australian Open,2021-02-08,Grand Slam,Outdoor,Hard,1st Round,5,Fucsovics M.,Polmans M.,55,126.0,1072,546.0,4,6,6,3,6,1,6,7,6,3,2021-005
+Melbourne,Australian Open,2021-02-08,Grand Slam,Outdoor,Hard,1st Round,5,Thiem D.,Kukushkin M.,3,90.0,9125,796.0,7,6,6,2,6,3,0,0,0,0,2021-005
+Melbourne,Australian Open,2021-02-08,Grand Slam,Outdoor,Hard,1st Round,5,Karatsev A.,Mager G.,114,96.0,642,770.0,6,3,6,3,6,4,0,0,0,0,2021-005
+Melbourne,Australian Open,2021-02-08,Grand Slam,Outdoor,Hard,1st Round,5,Kecmanovic M.,Majchrzak K.,41,109.0,1353,690.0,6,2,6,4,6,3,0,0,0,0,2021-005
+Melbourne,Australian Open,2021-02-08,Grand Slam,Outdoor,Hard,1st Round,5,Zverev A.,Giron M.,7,75.0,5615,889.0,6,7,7,6,6,3,6,2,0,0,2021-005
+Melbourne,Australian Open,2021-02-08,Grand Slam,Outdoor,Hard,1st Round,5,Bublik A.,Bedene A.,45,57.0,1220,1065.0,6,4,7,5,5,7,6,4,0,0,2021-005
+Melbourne,Australian Open,2021-02-08,Grand Slam,Outdoor,Hard,1st Round,5,Gerasimov E.,Paire B.,79,29.0,854,1738.0,6,2,2,6,7,6,7,5,0,0,2021-005
+Melbourne,Australian Open,2021-02-08,Grand Slam,Outdoor,Hard,1st Round,5,Duckworth J.,Dzumhur D.,105,120.0,721,572.0,6,3,6,2,6,4,0,0,0,0,2021-005
+Melbourne,Australian Open,2021-02-08,Grand Slam,Outdoor,Hard,1st Round,5,Vesely J.,Coppejans K.,68,178.0,958,368.0,6,4,3,6,6,7,6,3,6,3,2021-005
+Melbourne,Australian Open,2021-02-08,Grand Slam,Outdoor,Hard,1st Round,5,Humbert U.,Uchiyama Y.,34,106.0,1671,701.0,6,3,6,4,6,7,6,3,0,0,2021-005
+Melbourne,Australian Open,2021-02-08,Grand Slam,Outdoor,Hard,1st Round,5,Muller A.,Londero J.I.,210,83.0,305,832.0,4,6,6,3,6,0,6,3,0,0,2021-005
+Melbourne,Australian Open,2021-02-08,Grand Slam,Outdoor,Hard,1st Round,5,Carreno Busta P.,Nishikori K.,16,42.0,2585,1345.0,7,5,7,6,6,2,0,0,0,0,2021-005
+Melbourne,Australian Open,2021-02-08,Grand Slam,Outdoor,Hard,1st Round,5,Tiafoe F.,Travaglia S.,64,60.0,1005,1024.0,7,6,6,2,6,2,0,0,0,0,2021-005
+Melbourne,Australian Open,2021-02-08,Grand Slam,Outdoor,Hard,1st Round,5,Dimitrov G.,Cilic M.,21,43.0,2260,1325.0,6,4,6,2,7,6,0,0,0,0,2021-005
+Melbourne,Australian Open,2021-02-08,Grand Slam,Outdoor,Hard,1st Round,5,Koepfer D.,Dellien H.,70,112.0,931,646.0,7,5,6,2,6,4,0,0,0,0,2021-005
+Melbourne,Australian Open,2021-02-08,Grand Slam,Outdoor,Hard,1st Round,5,Lajovic D.,Stakhovsky S.,27,200.0,1785,332.0,5,7,6,4,6,3,5,7,6,4,2021-005
+Melbourne,Australian Open,2021-02-08,Grand Slam,Outdoor,Hard,1st Round,5,Auger-Aliassime F.,Stebe C.M.,19,129.0,2346,539.0,6,2,6,4,6,2,0,0,0,0,2021-005
+Melbourne,Australian Open,2021-02-08,Grand Slam,Outdoor,Hard,1st Round,5,Schwartzman D.,Ymer E.,9,205.0,3480,314.0,7,6,6,4,2,6,6,2,0,0,2021-005
+Melbourne,Australian Open,2021-02-08,Grand Slam,Outdoor,Hard,1st Round,5,Tomic B.,Sugita Y.,233,104.0,253,723.0,3,6,6,1,4,1,0,0,0,0,2021-005
+Melbourne,Australian Open,2021-02-08,Grand Slam,Outdoor,Hard,1st Round,5,Kyrgios N.,Ferreira Silva F.,47,185.0,1190,356.0,6,4,6,4,6,4,0,0,0,0,2021-005
+Melbourne,Australian Open,2021-02-08,Grand Slam,Outdoor,Hard,1st Round,5,Cressy M.,Daniel T.,172,118.0,389,591.0,7,6,7,6,6,4,0,0,0,0,2021-005
+Melbourne,Australian Open,2021-02-08,Grand Slam,Outdoor,Hard,1st Round,5,Djokovic N.,Chardy J.,1,61.0,12030,1020.0,6,3,6,1,6,2,0,0,0,0,2021-005
+Melbourne,Australian Open,2021-02-08,Grand Slam,Outdoor,Hard,1st Round,5,Shapovalov D.,Sinner J.,12,32.0,2830,1694.0,3,6,6,3,6,2,4,6,6,4,2021-005
+Melbourne,Australian Open,2021-02-09,Grand Slam,Outdoor,Hard,1st Round,5,Harris L.,Torpegaard M.,91,188.0,793,350.0,4,6,6,3,6,2,6,2,0,0,2021-005
+Melbourne,Australian Open,2021-02-09,Grand Slam,Outdoor,Hard,1st Round,5,Mcdonald M.,Cecchinato M.,192,82.0,345,838.0,3,6,6,3,6,2,6,2,0,0,2021-005
+Melbourne,Australian Open,2021-02-09,Grand Slam,Outdoor,Hard,1st Round,5,Monteiro T.,Martin A.,74,103.0,894,734.0,7,6,6,1,6,2,0,0,0,0,2021-005
+Melbourne,Australian Open,2021-02-09,Grand Slam,Outdoor,Hard,1st Round,5,O Connell C.,Struff J.L.,121,37.0,568,1495.0,7,6,7,6,6,1,0,0,0,0,2021-005
+Melbourne,Australian Open,2021-02-09,Grand Slam,Outdoor,Hard,1st Round,5,Coric B.,Pella G.,25,44.0,1855,1310.0,6,3,7,6,7,5,0,0,0,0,2021-005
+Melbourne,Australian Open,2021-02-09,Grand Slam,Outdoor,Hard,1st Round,5,Alcaraz C.,Van De Zandschulp B.,141,151.0,484,461.0,6,1,6,4,6,4,0,0,0,0,2021-005
+Melbourne,Australian Open,2021-02-09,Grand Slam,Outdoor,Hard,1st Round,5,Ymer M.,Hurkacz H.,95,30.0,775,1735.0,3,6,6,3,3,6,7,5,6,3,2021-005
+Melbourne,Australian Open,2021-02-09,Grand Slam,Outdoor,Hard,1st Round,5,Rublev A.,Hanfmann Y.,8,102.0,4429,736.0,6,3,6,3,6,4,0,0,0,0,2021-005
+Melbourne,Australian Open,2021-02-09,Grand Slam,Outdoor,Hard,1st Round,5,Popyrin A.,Goffin D.,113,15.0,643,2600.0,3,6,6,4,6,7,7,6,6,3,2021-005
+Melbourne,Australian Open,2021-02-09,Grand Slam,Outdoor,Hard,1st Round,5,Khachanov K.,Vukic A.,20,196.0,2290,341.0,6,3,6,7,7,6,6,4,0,0,2021-005
+Melbourne,Australian Open,2021-02-09,Grand Slam,Outdoor,Hard,1st Round,5,Albot R.,Bautista Agut R.,85,13.0,817,2710.0,6,7,6,0,6,4,7,6,0,0,2021-005
+Melbourne,Australian Open,2021-02-09,Grand Slam,Outdoor,Hard,1st Round,5,Cuevas P.,Seppi A.,72,108.0,927,699.0,6,4,4,6,6,2,6,2,0,0,2021-005
+Melbourne,Australian Open,2021-02-09,Grand Slam,Outdoor,Hard,1st Round,5,Krajinovic F.,Haase R.,33,197.0,1673,340.0,7,6,6,3,4,6,6,2,0,0,2021-005
+Melbourne,Australian Open,2021-02-09,Grand Slam,Outdoor,Hard,1st Round,5,Andujar P.,Halys Q.,59,207.0,1044,310.0,6,4,7,5,7,5,0,0,0,0,2021-005
+Melbourne,Australian Open,2021-02-09,Grand Slam,Outdoor,Hard,1st Round,5,Berankis R.,Nagal S.,73,144.0,909,480.0,6,2,7,5,6,3,0,0,0,0,2021-005
+Melbourne,Australian Open,2021-02-09,Grand Slam,Outdoor,Hard,1st Round,5,Medvedev D.,Pospisil V.,4,63.0,8715,1013.0,6,2,6,2,6,4,0,0,0,0,2021-005
+Melbourne,Australian Open,2021-02-09,Grand Slam,Outdoor,Hard,1st Round,5,Lopez F.,Tu L.,65,,998,,6,7,6,4,7,6,6,4,0,0,2021-005
+Melbourne,Australian Open,2021-02-09,Grand Slam,Outdoor,Hard,1st Round,5,Sonego L.,Querrey S.,35,52.0,1588,1085.0,7,5,6,4,6,4,0,0,0,0,2021-005
+Melbourne,Australian Open,2021-02-09,Grand Slam,Outdoor,Hard,1st Round,5,Paul T.,Basilashvili N.,53,40.0,1080,1405.0,6,4,7,6,6,4,0,0,0,0,2021-005
+Melbourne,Australian Open,2021-02-09,Grand Slam,Outdoor,Hard,1st Round,5,Nadal R.,Djere L.,2,56.0,9850,1068.0,6,3,6,4,6,1,0,0,0,0,2021-005
+Melbourne,Australian Open,2021-02-09,Grand Slam,Outdoor,Hard,1st Round,5,Caruso S.,Laaksonen H.,78,139.0,863,492.0,6,2,6,4,6,3,0,0,0,0,2021-005
+Melbourne,Australian Open,2021-02-09,Grand Slam,Outdoor,Hard,1st Round,5,Mmoh M.,Troicki V.,177,202.0,368,326.0,7,6,6,7,3,6,7,6,7,5,2021-005
+Melbourne,Australian Open,2021-02-09,Grand Slam,Outdoor,Hard,1st Round,5,De Minaur A.,Sandgren T.,23,51.0,2065,1091.0,7,5,6,1,6,1,0,0,0,0,2021-005
+Melbourne,Australian Open,2021-02-09,Grand Slam,Outdoor,Hard,1st Round,5,Carballes Baena R.,Balazs A.,99,94.0,751,779.0,7,5,3,6,6,2,6,3,0,0,2021-005
+Melbourne,Australian Open,2021-02-09,Grand Slam,Outdoor,Hard,1st Round,5,Norrie C.,Evans D.,69,26.0,935,1794.0,6,4,4,6,6,4,7,5,0,0,2021-005
+Melbourne,Australian Open,2021-02-09,Grand Slam,Outdoor,Hard,1st Round,5,Machac T.,Vilella Martinez M.,199,181.0,333,359.0,6,7,7,5,6,0,3,0,0,0,2021-005
+Melbourne,Australian Open,2021-02-09,Grand Slam,Outdoor,Hard,1st Round,5,Fognini F.,Herbert P.H.,17,84.0,2535,822.0,6,4,6,2,6,3,0,0,0,0,2021-005
+Melbourne,Australian Open,2021-02-09,Grand Slam,Outdoor,Hard,1st Round,5,Ruud C.,Thompson J.,28,49.0,1739,1113.0,6,3,6,3,2,1,0,0,0,0,2021-005
+Melbourne,Australian Open,2021-02-09,Grand Slam,Outdoor,Hard,1st Round,5,Kokkinakis T.,Kwon S.W.,267,97.0,209,768.0,6,4,6,1,6,1,0,0,0,0,2021-005
+Melbourne,Australian Open,2021-02-09,Grand Slam,Outdoor,Hard,1st Round,5,Berrettini M.,Anderson K.,10,81.0,3345,845.0,7,6,7,5,6,3,0,0,0,0,2021-005
+Melbourne,Australian Open,2021-02-09,Grand Slam,Outdoor,Hard,1st Round,5,Safiullin R.,Ivashka I.,183,110.0,357,681.0,6,4,6,3,6,4,0,0,0,0,2021-005
+Melbourne,Australian Open,2021-02-09,Grand Slam,Outdoor,Hard,1st Round,5,Tsitsipas S.,Simon G.,6,66.0,5965,990.0,6,1,6,2,6,1,0,0,0,0,2021-005
+Melbourne,Australian Open,2021-02-10,Grand Slam,Outdoor,Hard,2nd Round,5,Karatsev A.,Gerasimov E.,114,79.0,642,854.0,6,0,6,1,6,0,0,0,0,0,2021-005
+Melbourne,Australian Open,2021-02-10,Grand Slam,Outdoor,Hard,2nd Round,5,Fucsovics M.,Wawrinka S.,55,18.0,1072,2365.0,7,5,6,1,4,6,2,6,7,6,2021-005
+Melbourne,Australian Open,2021-02-10,Grand Slam,Outdoor,Hard,2nd Round,5,Martinez P.,Ruusuvuori E.,87,86.0,810,816.0,1,6,6,3,6,2,7,6,0,0,2021-005
+Melbourne,Australian Open,2021-02-10,Grand Slam,Outdoor,Hard,2nd Round,5,Auger-Aliassime F.,Duckworth J.,19,105.0,2346,721.0,6,4,6,1,6,2,0,0,0,0,2021-005
+Melbourne,Australian Open,2021-02-10,Grand Slam,Outdoor,Hard,2nd Round,5,Schwartzman D.,Muller A.,9,210.0,3480,305.0,6,2,6,0,6,3,0,0,0,0,2021-005
+Melbourne,Australian Open,2021-02-10,Grand Slam,Outdoor,Hard,2nd Round,5,Raonic M.,Moutet C.,14,71.0,2630,928.0,6,7,6,1,6,1,6,4,0,0,2021-005
+Melbourne,Australian Open,2021-02-10,Grand Slam,Outdoor,Hard,2nd Round,5,Djokovic N.,Tiafoe F.,1,64.0,12030,1005.0,6,3,6,7,7,6,6,3,0,0,2021-005
+Melbourne,Australian Open,2021-02-10,Grand Slam,Outdoor,Hard,2nd Round,5,Thiem D.,Koepfer D.,3,70.0,9125,931.0,6,4,6,0,6,2,0,0,0,0,2021-005
+Melbourne,Australian Open,2021-02-10,Grand Slam,Outdoor,Hard,2nd Round,5,Lajovic D.,Bublik A.,27,45.0,1785,1220.0,6,4,7,6,4,6,6,3,0,0,2021-005
+Melbourne,Australian Open,2021-02-10,Grand Slam,Outdoor,Hard,2nd Round,5,Fritz T.,Opelka R.,31,38.0,1695,1422.0,4,6,7,6,6,7,7,6,6,2,2021-005
+Melbourne,Australian Open,2021-02-10,Grand Slam,Outdoor,Hard,2nd Round,5,Shapovalov D.,Tomic B.,12,233.0,2830,253.0,6,1,6,3,6,2,0,0,0,0,2021-005
+Melbourne,Australian Open,2021-02-10,Grand Slam,Outdoor,Hard,2nd Round,5,Mannarino A.,Kecmanovic M.,36,41.0,1561,1353.0,6,1,6,2,6,4,0,0,0,0,2021-005
+Melbourne,Australian Open,2021-02-10,Grand Slam,Outdoor,Hard,2nd Round,5,Carreno Busta P.,Vesely J.,16,68.0,2585,958.0,6,3,7,6,2,6,6,4,0,0,2021-005
+Melbourne,Australian Open,2021-02-10,Grand Slam,Outdoor,Hard,2nd Round,5,Kyrgios N.,Humbert U.,47,34.0,1190,1671.0,5,7,6,4,3,6,7,6,6,4,2021-005
+Melbourne,Australian Open,2021-02-10,Grand Slam,Outdoor,Hard,2nd Round,5,Zverev A.,Cressy M.,7,172.0,5615,389.0,7,5,6,4,6,3,0,0,0,0,2021-005
+Melbourne,Australian Open,2021-02-10,Grand Slam,Outdoor,Hard,2nd Round,5,Dimitrov G.,Bolt A.,21,166.0,2260,400.0,7,6,6,1,6,2,0,0,0,0,2021-005
+Melbourne,Australian Open,2021-02-11,Grand Slam,Outdoor,Hard,2nd Round,5,Lopez F.,Sonego L.,65,35.0,998,1588.0,5,7,3,6,6,3,7,5,6,4,2021-005
+Melbourne,Australian Open,2021-02-11,Grand Slam,Outdoor,Hard,2nd Round,5,Rublev A.,Monteiro T.,8,74.0,4429,894.0,6,4,6,4,7,6,0,0,0,0,2021-005
+Melbourne,Australian Open,2021-02-11,Grand Slam,Outdoor,Hard,2nd Round,5,Harris L.,Popyrin A.,91,113.0,793,643.0,6,2,1,6,6,3,6,7,6,3,2021-005
+Melbourne,Australian Open,2021-02-11,Grand Slam,Outdoor,Hard,2nd Round,5,Ymer M.,Alcaraz C.,95,141.0,775,484.0,2,6,6,4,6,4,7,6,0,0,2021-005
+Melbourne,Australian Open,2021-02-11,Grand Slam,Outdoor,Hard,2nd Round,5,Ruud C.,Paul T.,28,53.0,1739,1080.0,3,6,6,2,6,4,7,5,0,0,2021-005
+Melbourne,Australian Open,2021-02-11,Grand Slam,Outdoor,Hard,2nd Round,5,Khachanov K.,Berankis R.,20,73.0,2290,909.0,6,2,6,4,6,4,0,0,0,0,2021-005
+Melbourne,Australian Open,2021-02-11,Grand Slam,Outdoor,Hard,2nd Round,5,Krajinovic F.,Andujar P.,33,59.0,1673,1044.0,6,2,5,7,6,1,6,4,0,0,2021-005
+Melbourne,Australian Open,2021-02-11,Grand Slam,Outdoor,Hard,2nd Round,5,Tsitsipas S.,Kokkinakis T.,6,267.0,5965,209.0,6,7,6,4,6,1,6,7,6,4,2021-005
+Melbourne,Australian Open,2021-02-11,Grand Slam,Outdoor,Hard,2nd Round,5,Berrettini M.,Machac T.,10,199.0,3345,333.0,6,3,6,2,4,6,6,3,0,0,2021-005
+Melbourne,Australian Open,2021-02-11,Grand Slam,Outdoor,Hard,2nd Round,5,Mcdonald M.,Coric B.,192,25.0,345,1855.0,6,4,6,2,4,6,6,4,0,0,2021-005
+Melbourne,Australian Open,2021-02-11,Grand Slam,Outdoor,Hard,2nd Round,5,Albot R.,O Connell C.,85,121.0,817,568.0,6,2,7,5,7,6,0,0,0,0,2021-005
+Melbourne,Australian Open,2021-02-11,Grand Slam,Outdoor,Hard,2nd Round,5,Fognini F.,Caruso S.,17,78.0,2535,863.0,4,6,6,2,2,6,6,3,7,6,2021-005
+Melbourne,Australian Open,2021-02-11,Grand Slam,Outdoor,Hard,2nd Round,5,Norrie C.,Safiullin R.,69,183.0,935,357.0,3,6,7,5,6,3,7,6,0,0,2021-005
+Melbourne,Australian Open,2021-02-11,Grand Slam,Outdoor,Hard,2nd Round,5,De Minaur A.,Cuevas P.,23,72.0,2065,927.0,6,3,6,3,7,5,0,0,0,0,2021-005
+Melbourne,Australian Open,2021-02-11,Grand Slam,Outdoor,Hard,2nd Round,5,Medvedev D.,Carballes Baena R.,4,99.0,8715,751.0,6,2,7,5,6,1,0,0,0,0,2021-005
+Melbourne,Australian Open,2021-02-11,Grand Slam,Outdoor,Hard,2nd Round,5,Nadal R.,Mmoh M.,2,177.0,9850,368.0,6,1,6,4,6,2,0,0,0,0,2021-005
+Melbourne,Australian Open,2021-02-12,Grand Slam,Outdoor,Hard,3rd Round,5,Dimitrov G.,Carreno Busta P.,21,16.0,2260,2585.0,6,0,1,0,0,0,0,0,0,0,2021-005
+Melbourne,Australian Open,2021-02-12,Grand Slam,Outdoor,Hard,3rd Round,5,Zverev A.,Mannarino A.,7,36.0,5615,1561.0,6,3,6,3,6,1,0,0,0,0,2021-005
+Melbourne,Australian Open,2021-02-12,Grand Slam,Outdoor,Hard,3rd Round,5,Lajovic D.,Martinez P.,27,87.0,1785,810.0,6,7,7,5,6,1,6,4,0,0,2021-005
+Melbourne,Australian Open,2021-02-12,Grand Slam,Outdoor,Hard,3rd Round,5,Karatsev A.,Schwartzman D.,114,9.0,642,3480.0,6,3,6,3,6,3,0,0,0,0,2021-005
+Melbourne,Australian Open,2021-02-12,Grand Slam,Outdoor,Hard,3rd Round,5,Raonic M.,Fucsovics M.,14,55.0,2630,1072.0,7,6,5,7,6,2,6,2,0,0,2021-005
+Melbourne,Australian Open,2021-02-12,Grand Slam,Outdoor,Hard,3rd Round,5,Auger-Aliassime F.,Shapovalov D.,19,12.0,2346,2830.0,7,5,7,5,6,3,0,0,0,0,2021-005
+Melbourne,Australian Open,2021-02-12,Grand Slam,Outdoor,Hard,3rd Round,5,Thiem D.,Kyrgios N.,3,47.0,9125,1190.0,4,6,4,6,6,3,6,4,6,4,2021-005
+Melbourne,Australian Open,2021-02-12,Grand Slam,Outdoor,Hard,3rd Round,5,Djokovic N.,Fritz T.,1,31.0,12030,1695.0,7,6,6,4,3,6,4,6,6,2,2021-005
+Melbourne,Australian Open,2021-02-13,Grand Slam,Outdoor,Hard,3rd Round,5,Ruud C.,Albot R.,28,85.0,1739,817.0,6,1,5,7,6,4,6,4,0,0,2021-005
+Melbourne,Australian Open,2021-02-13,Grand Slam,Outdoor,Hard,3rd Round,5,Mcdonald M.,Harris L.,192,91.0,345,793.0,7,6,6,1,6,4,0,0,0,0,2021-005
+Melbourne,Australian Open,2021-02-13,Grand Slam,Outdoor,Hard,3rd Round,5,Medvedev D.,Krajinovic F.,4,33.0,8715,1673.0,6,3,6,3,4,6,3,6,6,0,2021-005
+Melbourne,Australian Open,2021-02-13,Grand Slam,Outdoor,Hard,3rd Round,5,Tsitsipas S.,Ymer M.,6,95.0,5965,775.0,6,4,6,1,6,1,0,0,0,0,2021-005
+Melbourne,Australian Open,2021-02-13,Grand Slam,Outdoor,Hard,3rd Round,5,Rublev A.,Lopez F.,8,65.0,4429,998.0,7,5,6,2,6,3,0,0,0,0,2021-005
+Melbourne,Australian Open,2021-02-13,Grand Slam,Outdoor,Hard,3rd Round,5,Berrettini M.,Khachanov K.,10,20.0,3345,2290.0,7,6,7,6,7,6,0,0,0,0,2021-005
+Melbourne,Australian Open,2021-02-13,Grand Slam,Outdoor,Hard,3rd Round,5,Fognini F.,De Minaur A.,17,23.0,2535,2065.0,6,4,6,3,6,4,0,0,0,0,2021-005
+Melbourne,Australian Open,2021-02-13,Grand Slam,Outdoor,Hard,3rd Round,5,Nadal R.,Norrie C.,2,69.0,9850,935.0,7,5,6,2,7,5,0,0,0,0,2021-005
+Melbourne,Australian Open,2021-02-14,Grand Slam,Outdoor,Hard,4th Round,5,Karatsev A.,Auger-Aliassime F.,114,19.0,642,2346.0,3,6,1,6,6,3,6,3,6,4,2021-005
+Melbourne,Australian Open,2021-02-14,Grand Slam,Outdoor,Hard,4th Round,5,Dimitrov G.,Thiem D.,21,3.0,2260,9125.0,6,4,6,4,6,0,0,0,0,0,2021-005
+Melbourne,Australian Open,2021-02-14,Grand Slam,Outdoor,Hard,4th Round,5,Zverev A.,Lajovic D.,7,27.0,5615,1785.0,6,4,7,6,6,3,0,0,0,0,2021-005
+Melbourne,Australian Open,2021-02-14,Grand Slam,Outdoor,Hard,4th Round,5,Djokovic N.,Raonic M.,1,14.0,12030,2630.0,7,6,4,6,6,1,6,4,0,0,2021-005
+Melbourne,Australian Open,2021-02-15,Grand Slam,Outdoor,Hard,4th Round,5,Medvedev D.,Mcdonald M.,4,192.0,8715,345.0,6,4,6,2,6,3,0,0,0,0,2021-005
+Melbourne,Australian Open,2021-02-15,Grand Slam,Outdoor,Hard,4th Round,5,Rublev A.,Ruud C.,8,28.0,4429,1739.0,6,2,7,6,0,0,0,0,0,0,2021-005
+Melbourne,Australian Open,2021-02-15,Grand Slam,Outdoor,Hard,4th Round,5,Nadal R.,Fognini F.,2,17.0,9850,2535.0,6,3,6,4,6,2,0,0,0,0,2021-005
+Melbourne,Australian Open,2021-02-15,Grand Slam,Outdoor,Hard,4th Round,5,Tsitsipas S.,Berrettini M.,6,10.0,5965,3345.0,0,0,0,0,0,0,0,0,0,0,2021-005
+Melbourne,Australian Open,2021-02-16,Grand Slam,Outdoor,Hard,Quarterfinals,5,Karatsev A.,Dimitrov G.,114,21.0,642,2260.0,2,6,6,4,6,1,6,2,0,0,2021-005
+Melbourne,Australian Open,2021-02-16,Grand Slam,Outdoor,Hard,Quarterfinals,5,Djokovic N.,Zverev A.,1,7.0,12030,5615.0,6,7,6,2,6,4,7,6,0,0,2021-005
+Melbourne,Australian Open,2021-02-17,Grand Slam,Outdoor,Hard,Quarterfinals,5,Medvedev D.,Rublev A.,4,8.0,8715,4429.0,7,5,6,3,6,2,0,0,0,0,2021-005
+Melbourne,Australian Open,2021-02-17,Grand Slam,Outdoor,Hard,Quarterfinals,5,Tsitsipas S.,Nadal R.,6,2.0,5965,9850.0,3,6,2,6,7,6,6,4,7,5,2021-005
+Melbourne,Australian Open,2021-02-18,Grand Slam,Outdoor,Hard,Semifinals,5,Djokovic N.,Karatsev A.,1,114.0,12030,642.0,6,3,6,4,6,2,0,0,0,0,2021-005
+Melbourne,Australian Open,2021-02-19,Grand Slam,Outdoor,Hard,Semifinals,5,Medvedev D.,Tsitsipas S.,4,6.0,8715,5965.0,6,4,6,2,7,5,0,0,0,0,2021-005
+Melbourne,Australian Open,2021-02-21,Grand Slam,Outdoor,Hard,The Final,5,Djokovic N.,Medvedev D.,1,4.0,12030,8715.0,7,5,6,2,6,2,0,0,0,0,2021-005
+Cordoba,Cordoba Open,2021-02-22,ATP250,Outdoor,Clay,1st Round,3,Kovalik J.,Galan D.,128,116.0,548,619.0,6,2,1,6,6,3,0,0,0,0,2021-006
+Cordoba,Cordoba Open,2021-02-22,ATP250,Outdoor,Clay,1st Round,3,Jarry N.,Munar J.,1165,104.0,7,745.0,5,7,7,6,6,4,0,0,0,0,2021-006
+Cordoba,Cordoba Open,2021-02-23,ATP250,Outdoor,Clay,1st Round,3,Carballes Baena R.,Sousa J.,96,98.0,786,782.0,6,3,6,1,0,0,0,0,0,0,2021-006
+Cordoba,Cordoba Open,2021-02-23,ATP250,Outdoor,Clay,1st Round,3,Cecchinato M.,Dellien H.,87,112.0,838,669.0,6,2,4,6,6,1,0,0,0,0,2021-006
+Cordoba,Cordoba Open,2021-02-23,ATP250,Outdoor,Clay,1st Round,3,Coria F.,Koepfer D.,95,71.0,790,966.0,6,1,6,4,0,0,0,0,0,0,2021-006
+Cordoba,Cordoba Open,2021-02-23,ATP250,Outdoor,Clay,1st Round,3,Cerundolo J.M.,Seyboth Wild T.,335,119.0,132,605.0,7,5,7,6,0,0,0,0,0,0,2021-006
+Cordoba,Cordoba Open,2021-02-23,ATP250,Outdoor,Clay,1st Round,3,Bagnis F.,Kicker N.,130,,546,,6,1,6,4,0,0,0,0,0,0,2021-006
+Cordoba,Cordoba Open,2021-02-23,ATP250,Outdoor,Clay,1st Round,3,Etcheverry T.,Martin A.,234,101.0,258,753.0,6,3,7,6,0,0,0,0,0,0,2021-006
+Cordoba,Cordoba Open,2021-02-23,ATP250,Outdoor,Clay,1st Round,3,Ramos-Vinolas A.,Londero J.I.,47,88.0,1210,832.0,4,6,6,2,6,2,0,0,0,0,2021-006
+Cordoba,Cordoba Open,2021-02-23,ATP250,Outdoor,Clay,1st Round,3,Cerundolo F.,Mager G.,135,99.0,520,770.0,6,7,6,1,6,4,0,0,0,0,2021-006
+Cordoba,Cordoba Open,2021-02-24,ATP250,Outdoor,Clay,1st Round,3,Delbonis F.,Sousa P.,84,108.0,851,704.0,6,4,6,4,0,0,0,0,0,0,2021-006
+Cordoba,Cordoba Open,2021-02-24,ATP250,Outdoor,Clay,1st Round,3,Monteiro T.,Menezes J.,74,199.0,929,353.0,6,3,6,3,0,0,0,0,0,0,2021-006
+Cordoba,Cordoba Open,2021-02-24,ATP250,Outdoor,Clay,2nd Round,3,Kovalik J.,Barrios M.,128,265.0,548,221.0,4,6,6,2,6,3,0,0,0,0,2021-006
+Cordoba,Cordoba Open,2021-02-24,ATP250,Outdoor,Clay,2nd Round,3,Coria F.,Cerundolo F.,95,135.0,790,520.0,1,6,6,2,6,4,0,0,0,0,2021-006
+Cordoba,Cordoba Open,2021-02-24,ATP250,Outdoor,Clay,2nd Round,3,Bagnis F.,Delbonis F.,130,84.0,546,851.0,6,4,7,5,0,0,0,0,0,0,2021-006
+Cordoba,Cordoba Open,2021-02-25,ATP250,Outdoor,Clay,2nd Round,3,Paire B.,Jarry N.,29,1165.0,1738,7.0,6,2,6,4,0,0,0,0,0,0,2021-006
+Cordoba,Cordoba Open,2021-02-25,ATP250,Outdoor,Clay,2nd Round,3,Monteiro T.,Carballes Baena R.,74,96.0,929,786.0,6,3,6,4,0,0,0,0,0,0,2021-006
+Cordoba,Cordoba Open,2021-02-25,ATP250,Outdoor,Clay,2nd Round,3,Cerundolo J.M.,Kecmanovic M.,335,41.0,132,1388.0,6,7,7,5,6,2,0,0,0,0,2021-006
+Cordoba,Cordoba Open,2021-02-25,ATP250,Outdoor,Clay,2nd Round,3,Schwartzman D.,Cecchinato M.,9,87.0,3480,838.0,6,2,6,2,0,0,0,0,0,0,2021-006
+Cordoba,Cordoba Open,2021-02-25,ATP250,Outdoor,Clay,2nd Round,3,Ramos-Vinolas A.,Etcheverry T.,47,234.0,1210,258.0,2,6,7,6,7,5,0,0,0,0,2021-006
+Cordoba,Cordoba Open,2021-02-26,ATP250,Outdoor,Clay,Quarterfinals,3,Cerundolo J.M.,Monteiro T.,335,74.0,132,929.0,6,2,2,6,6,3,0,0,0,0,2021-006
+Cordoba,Cordoba Open,2021-02-26,ATP250,Outdoor,Clay,Quarterfinals,3,Coria F.,Paire B.,95,29.0,790,1738.0,6,3,6,2,0,0,0,0,0,0,2021-006
+Cordoba,Cordoba Open,2021-02-26,ATP250,Outdoor,Clay,Quarterfinals,3,Bagnis F.,Kovalik J.,130,128.0,546,548.0,6,1,6,2,0,0,0,0,0,0,2021-006
+Cordoba,Cordoba Open,2021-02-26,ATP250,Outdoor,Clay,Quarterfinals,3,Ramos-Vinolas A.,Schwartzman D.,47,9.0,1210,3480.0,6,1,4,6,6,3,0,0,0,0,2021-006
+Cordoba,Cordoba Open,2021-02-27,ATP250,Outdoor,Clay,Semifinals,3,Cerundolo J.M.,Coria F.,335,95.0,132,790.0,6,4,4,6,6,2,0,0,0,0,2021-006
+Cordoba,Cordoba Open,2021-02-28,ATP250,Outdoor,Clay,Semifinals,3,Ramos-Vinolas A.,Bagnis F.,47,130.0,1210,546.0,7,5,5,7,6,3,0,0,0,0,2021-006
+Cordoba,Cordoba Open,2021-02-28,ATP250,Outdoor,Clay,The Final,3,Cerundolo J.M.,Ramos-Vinolas A.,335,47.0,132,1210.0,6,0,2,6,6,2,0,0,0,0,2021-006
+Montpellier,Open Sud de France,2021-02-22,ATP250,Indoor,Hard,1st Round,3,Humbert U.,Gombos N.,32,93.0,1706,797.0,6,3,7,6,0,0,0,0,0,0,2021-007
+Montpellier,Open Sud de France,2021-02-22,ATP250,Indoor,Hard,1st Round,3,Sonego L.,Gaston H.,36,162.0,1623,425.0,6,3,6,7,6,1,0,0,0,0,2021-007
+Montpellier,Open Sud de France,2021-02-22,ATP250,Indoor,Hard,1st Round,3,Korda S.,Tsonga J.W.,92,66.0,810,1015.0,6,4,6,2,0,0,0,0,0,0,2021-007
+Montpellier,Open Sud de France,2021-02-23,ATP250,Indoor,Hard,1st Round,3,Griekspoor T.,Giron M.,160,78.0,440,889.0,6,2,6,7,6,3,0,0,0,0,2021-007
+Montpellier,Open Sud de France,2021-02-23,ATP250,Indoor,Hard,1st Round,3,Gojowczyk P.,Struff J.L.,144,37.0,491,1495.0,6,3,6,4,0,0,0,0,0,0,2021-007
+Montpellier,Open Sud de France,2021-02-23,ATP250,Indoor,Hard,1st Round,3,Bonzi B.,Pouille L.,125,79.0,573,887.0,7,6,6,2,0,0,0,0,0,0,2021-007
+Montpellier,Open Sud de France,2021-02-23,ATP250,Indoor,Hard,1st Round,3,Vesely J.,Ymer M.,69,91.0,988,820.0,6,1,6,1,0,0,0,0,0,0,2021-007
+Montpellier,Open Sud de France,2021-02-23,ATP250,Indoor,Hard,1st Round,3,Novak D.,Simon G.,102,68.0,752,990.0,7,6,1,6,6,3,0,0,0,0,2021-007
+Montpellier,Open Sud de France,2021-02-23,ATP250,Indoor,Hard,1st Round,3,Gerasimov E.,Murray A.,83,121.0,854,595.0,7,6,6,1,0,0,0,0,0,0,2021-007
+Montpellier,Open Sud de France,2021-02-24,ATP250,Indoor,Hard,1st Round,3,Davidovich Fokina A.,Zapata Miralles B.,56,146.0,1078,484.0,7,6,5,7,6,2,0,0,0,0,2021-007
+Montpellier,Open Sud de France,2021-02-24,ATP250,Indoor,Hard,1st Round,3,Bedene A.,Sinner J.,60,34.0,1065,1694.0,3,6,6,2,7,6,0,0,0,0,2021-007
+Montpellier,Open Sud de France,2021-02-24,ATP250,Indoor,Hard,1st Round,3,Barrere G.,Basilashvili N.,113,40.0,655,1405.0,6,4,6,4,0,0,0,0,0,0,2021-007
+Montpellier,Open Sud de France,2021-02-24,ATP250,Indoor,Hard,2nd Round,3,Sonego L.,Korda S.,36,92.0,1623,810.0,6,3,6,2,0,0,0,0,0,0,2021-007
+Montpellier,Open Sud de France,2021-02-24,ATP250,Indoor,Hard,2nd Round,3,Humbert U.,Griekspoor T.,32,160.0,1706,440.0,6,7,7,6,7,6,0,0,0,0,2021-007
+Montpellier,Open Sud de France,2021-02-24,ATP250,Indoor,Hard,2nd Round,3,Goffin D.,Bonzi B.,15,125.0,2600,573.0,4,6,6,4,7,5,0,0,0,0,2021-007
+Montpellier,Open Sud de France,2021-02-25,ATP250,Indoor,Hard,2nd Round,3,Gerasimov E.,Bedene A.,83,60.0,854,1065.0,6,4,7,6,0,0,0,0,0,0,2021-007
+Montpellier,Open Sud de France,2021-02-25,ATP250,Indoor,Hard,2nd Round,3,Gojowczyk P.,Vesely J.,144,69.0,491,988.0,6,7,7,6,6,3,0,0,0,0,2021-007
+Montpellier,Open Sud de France,2021-02-25,ATP250,Indoor,Hard,2nd Round,3,Davidovich Fokina A.,Hurkacz H.,56,30.0,1078,1735.0,7,5,6,2,0,0,0,0,0,0,2021-007
+Montpellier,Open Sud de France,2021-02-25,ATP250,Indoor,Hard,2nd Round,3,Novak D.,Lajovic D.,102,27.0,752,1875.0,7,6,7,5,0,0,0,0,0,0,2021-007
+Montpellier,Open Sud de France,2021-02-25,ATP250,Indoor,Hard,2nd Round,3,Bautista Agut R.,Barrere G.,13,113.0,2710,655.0,6,0,6,3,0,0,0,0,0,0,2021-007
+Montpellier,Open Sud de France,2021-02-26,ATP250,Indoor,Hard,Quarterfinals,3,Goffin D.,Sonego L.,15,36.0,2600,1623.0,6,4,6,4,0,0,0,0,0,0,2021-007
+Montpellier,Open Sud de France,2021-02-26,ATP250,Indoor,Hard,Quarterfinals,3,Gerasimov E.,Davidovich Fokina A.,83,56.0,854,1078.0,4,6,6,4,7,5,0,0,0,0,2021-007
+Montpellier,Open Sud de France,2021-02-26,ATP250,Indoor,Hard,Quarterfinals,3,Gojowczyk P.,Novak D.,144,102.0,491,752.0,6,4,6,1,0,0,0,0,0,0,2021-007
+Montpellier,Open Sud de France,2021-02-26,ATP250,Indoor,Hard,Quarterfinals,3,Bautista Agut R.,Humbert U.,13,32.0,2710,1706.0,6,3,6,3,0,0,0,0,0,0,2021-007
+Montpellier,Open Sud de France,2021-02-27,ATP250,Indoor,Hard,Semifinals,3,Goffin D.,Gerasimov E.,15,83.0,2600,854.0,6,4,2,6,6,4,0,0,0,0,2021-007
+Montpellier,Open Sud de France,2021-02-27,ATP250,Indoor,Hard,Semifinals,3,Bautista Agut R.,Gojowczyk P.,13,144.0,2710,491.0,7,5,6,1,0,0,0,0,0,0,2021-007
+Montpellier,Open Sud de France,2021-02-28,ATP250,Indoor,Hard,The Final,3,Goffin D.,Bautista Agut R.,15,13.0,2600,2710.0,5,7,6,4,6,2,0,0,0,0,2021-007
+Singapore,Singapore Open,2021-02-22,ATP250,Indoor,Hard,1st Round,3,Daniel T.,Ramanathan R.,120,200.0,602,352.0,6,3,6,7,6,3,0,0,0,0,2021-008
+Singapore,Singapore Open,2021-02-22,ATP250,Indoor,Hard,1st Round,3,Cressy M.,Jung J.,156,143.0,454,500.0,7,6,6,2,0,0,0,0,0,0,2021-008
+Singapore,Singapore Open,2021-02-22,ATP250,Indoor,Hard,1st Round,3,Andreev A.,Harris L.,423,82.0,94,873.0,1,6,6,3,6,4,0,0,0,0,2021-008
+Singapore,Singapore Open,2021-02-22,ATP250,Indoor,Hard,1st Round,3,Popyrin A.,Eubanks C.,114,240.0,643,247.0,7,6,7,6,0,0,0,0,0,0,2021-008
+Singapore,Singapore Open,2021-02-22,ATP250,Indoor,Hard,1st Round,3,Nishioka Y.,Mmoh M.,61,178.0,1062,393.0,6,2,3,6,6,3,0,0,0,0,2021-008
+Singapore,Singapore Open,2021-02-23,ATP250,Indoor,Hard,1st Round,3,Uchiyama Y.,Polmans M.,109,129.0,701,546.0,6,4,2,6,6,4,0,0,0,0,2021-008
+Singapore,Singapore Open,2021-02-23,ATP250,Indoor,Hard,1st Round,3,Albot R.,Smith J.P.,76,306.0,907,159.0,6,2,3,6,6,1,0,0,0,0,2021-008
+Singapore,Singapore Open,2021-02-23,ATP250,Indoor,Hard,1st Round,3,Hanfmann Y.,Duckworth J.,105,100.0,738,756.0,6,2,6,4,0,0,0,0,0,0,2021-008
+Singapore,Singapore Open,2021-02-23,ATP250,Indoor,Hard,1st Round,3,Celikbilek A.,Mochizuki S.,302,639.0,167,39.0,6,0,6,4,0,0,0,0,0,0,2021-008
+Singapore,Singapore Open,2021-02-24,ATP250,Indoor,Hard,1st Round,3,Kwon S.W.,Kwiatkowski T.S.,81,219.0,877,285.0,4,6,6,3,6,4,0,0,0,0,2021-008
+Singapore,Singapore Open,2021-02-24,ATP250,Indoor,Hard,1st Round,3,Marcora R.,Gulbis E.,191,186.0,362,376.0,7,5,6,4,0,0,0,0,0,0,2021-008
+Singapore,Singapore Open,2021-02-24,ATP250,Indoor,Hard,1st Round,3,Ebden M.,Bhambri Y.,316,,151,,6,3,7,6,0,0,0,0,0,0,2021-008
+Singapore,Singapore Open,2021-02-24,ATP250,Indoor,Hard,2nd Round,3,Cilic M.,Daniel T.,44,120.0,1325,602.0,7,5,6,4,0,0,0,0,0,0,2021-008
+Singapore,Singapore Open,2021-02-24,ATP250,Indoor,Hard,2nd Round,3,Nishioka Y.,Cressy M.,61,156.0,1062,454.0,6,4,6,2,0,0,0,0,0,0,2021-008
+Singapore,Singapore Open,2021-02-24,ATP250,Indoor,Hard,2nd Round,3,Bublik A.,Celikbilek A.,46,302.0,1255,167.0,6,2,6,2,0,0,0,0,0,0,2021-008
+Singapore,Singapore Open,2021-02-24,ATP250,Indoor,Hard,2nd Round,3,Popyrin A.,Andreev A.,114,423.0,643,94.0,6,1,5,7,6,3,0,0,0,0,2021-008
+Singapore,Singapore Open,2021-02-25,ATP250,Indoor,Hard,2nd Round,3,Albot R.,Hanfmann Y.,76,105.0,907,738.0,6,7,7,6,6,3,0,0,0,0,2021-008
+Singapore,Singapore Open,2021-02-25,ATP250,Indoor,Hard,2nd Round,3,Ebden M.,Millman J.,316,39.0,151,1421.0,6,4,6,1,0,0,0,0,0,0,2021-008
+Singapore,Singapore Open,2021-02-25,ATP250,Indoor,Hard,2nd Round,3,Mannarino A.,Marcora R.,35,191.0,1641,362.0,6,3,7,5,0,0,0,0,0,0,2021-008
+Singapore,Singapore Open,2021-02-25,ATP250,Indoor,Hard,2nd Round,3,Kwon S.W.,Uchiyama Y.,81,109.0,877,701.0,6,3,6,4,0,0,0,0,0,0,2021-008
+Singapore,Singapore Open,2021-02-26,ATP250,Indoor,Hard,Quarterfinals,3,Popyrin A.,Ebden M.,114,316.0,643,151.0,6,4,7,6,0,0,0,0,0,0,2021-008
+Singapore,Singapore Open,2021-02-26,ATP250,Indoor,Hard,Quarterfinals,3,Albot R.,Mannarino A.,76,35.0,907,1641.0,6,3,6,4,0,0,0,0,0,0,2021-008
+Singapore,Singapore Open,2021-02-26,ATP250,Indoor,Hard,Quarterfinals,3,Cilic M.,Kwon S.W.,44,81.0,1325,877.0,6,2,2,6,7,5,0,0,0,0,2021-008
+Singapore,Singapore Open,2021-02-26,ATP250,Indoor,Hard,Quarterfinals,3,Bublik A.,Nishioka Y.,46,61.0,1255,1062.0,6,3,6,2,0,0,0,0,0,0,2021-008
+Singapore,Singapore Open,2021-02-27,ATP250,Indoor,Hard,Semifinals,3,Popyrin A.,Cilic M.,114,44.0,643,1325.0,7,6,7,6,0,0,0,0,0,0,2021-008
+Singapore,Singapore Open,2021-02-27,ATP250,Indoor,Hard,Semifinals,3,Bublik A.,Albot R.,46,76.0,1255,907.0,2,6,6,3,6,4,0,0,0,0,2021-008
+Singapore,Singapore Open,2021-02-28,ATP250,Indoor,Hard,The Final,3,Popyrin A.,Bublik A.,114,46.0,643,1255.0,4,6,6,0,6,2,0,0,0,0,2021-008
+Buenos Aires,Argentina Open,2021-03-01,ATP250,Outdoor,Clay,1st Round,3,Djere L.,Cecchinato M.,60,89.0,1068,838.0,6,7,6,2,6,3,0,0,0,0,2021-009
+Buenos Aires,Argentina Open,2021-03-01,ATP250,Outdoor,Clay,1st Round,3,Koepfer D.,Tirante T.A.,71,386.0,966,111.0,2,6,6,3,6,4,0,0,0,0,2021-009
+Buenos Aires,Argentina Open,2021-03-01,ATP250,Outdoor,Clay,1st Round,3,Andujar P.,Londero J.I.,57,90.0,1079,832.0,6,3,6,0,0,0,0,0,0,0,2021-009
+Buenos Aires,Argentina Open,2021-03-01,ATP250,Outdoor,Clay,1st Round,3,Monteiro T.,Carballes Baena R.,74,97.0,954,786.0,6,2,6,3,0,0,0,0,0,0,2021-009
+Buenos Aires,Argentina Open,2021-03-02,ATP250,Outdoor,Clay,1st Round,3,Klein L.,Martin A.,291,103.0,186,753.0,6,4,6,3,0,0,0,0,0,0,2021-009
+Buenos Aires,Argentina Open,2021-03-02,ATP250,Outdoor,Clay,1st Round,3,Mager G.,Caruso S.,101,79.0,770,898.0,7,6,6,4,0,0,0,0,0,0,2021-009
+Buenos Aires,Argentina Open,2021-03-02,ATP250,Outdoor,Clay,1st Round,3,Nagal S.,Sousa J.,150,100.0,480,782.0,6,2,6,0,0,0,0,0,0,0,2021-009
+Buenos Aires,Argentina Open,2021-03-02,ATP250,Outdoor,Clay,1st Round,3,Munar J.,Diaz Acosta F.,106,397.0,745,106.0,7,6,6,3,0,0,0,0,0,0,2021-009
+Buenos Aires,Argentina Open,2021-03-02,ATP250,Outdoor,Clay,1st Round,3,Cerundolo F.,Coria F.,137,85.0,532,870.0,6,4,7,5,0,0,0,0,0,0,2021-009
+Buenos Aires,Argentina Open,2021-03-02,ATP250,Outdoor,Clay,1st Round,3,Ramos-Vinolas A.,Rune H.,46,406.0,1315,102.0,2,6,6,4,6,3,0,0,0,0,2021-009
+Buenos Aires,Argentina Open,2021-03-02,ATP250,Outdoor,Clay,1st Round,3,Tiafoe F.,Bagnis F.,62,115.0,1040,633.0,6,1,6,3,0,0,0,0,0,0,2021-009
+Buenos Aires,Argentina Open,2021-03-02,ATP250,Outdoor,Clay,1st Round,3,Delbonis F.,Cerundolo J.M.,86,181.0,851,392.0,6,4,7,6,0,0,0,0,0,0,2021-009
+Buenos Aires,Argentina Open,2021-03-03,ATP250,Outdoor,Clay,2nd Round,3,Kecmanovic M.,Monteiro T.,42,74.0,1388,954.0,5,7,6,3,6,4,0,0,0,0,2021-009
+Buenos Aires,Argentina Open,2021-03-03,ATP250,Outdoor,Clay,2nd Round,3,Ramos-Vinolas A.,Koepfer D.,46,71.0,1315,966.0,7,5,6,4,0,0,0,0,0,0,2021-009
+Buenos Aires,Argentina Open,2021-03-03,ATP250,Outdoor,Clay,2nd Round,3,Djere L.,Delbonis F.,60,86.0,1068,851.0,7,6,6,3,0,0,0,0,0,0,2021-009
+Buenos Aires,Argentina Open,2021-03-03,ATP250,Outdoor,Clay,2nd Round,3,Nagal S.,Garin C.,150,22.0,480,2180.0,6,4,6,3,0,0,0,0,0,0,2021-009
+Buenos Aires,Argentina Open,2021-03-04,ATP250,Outdoor,Clay,2nd Round,3,Andujar P.,Mager G.,57,101.0,1079,770.0,6,4,7,6,0,0,0,0,0,0,2021-009
+Buenos Aires,Argentina Open,2021-03-04,ATP250,Outdoor,Clay,2nd Round,3,Cerundolo F.,Paire B.,137,29.0,532,1738.0,4,6,6,3,6,1,0,0,0,0,2021-009
+Buenos Aires,Argentina Open,2021-03-04,ATP250,Outdoor,Clay,2nd Round,3,Munar J.,Tiafoe F.,106,62.0,745,1040.0,7,6,6,4,0,0,0,0,0,0,2021-009
+Buenos Aires,Argentina Open,2021-03-04,ATP250,Outdoor,Clay,2nd Round,3,Schwartzman D.,Klein L.,9,291.0,3480,186.0,6,4,6,2,0,0,0,0,0,0,2021-009
+Buenos Aires,Argentina Open,2021-03-05,ATP250,Outdoor,Clay,Quarterfinals,3,Ramos-Vinolas A.,Nagal S.,46,150.0,1315,480.0,4,6,6,2,7,5,0,0,0,0,2021-009
+Buenos Aires,Argentina Open,2021-03-05,ATP250,Outdoor,Clay,Quarterfinals,3,Cerundolo F.,Andujar P.,137,57.0,532,1079.0,1,6,6,3,6,2,0,0,0,0,2021-009
+Buenos Aires,Argentina Open,2021-03-05,ATP250,Outdoor,Clay,Quarterfinals,3,Kecmanovic M.,Djere L.,42,60.0,1388,1068.0,6,4,7,6,0,0,0,0,0,0,2021-009
+Buenos Aires,Argentina Open,2021-03-05,ATP250,Outdoor,Clay,Quarterfinals,3,Schwartzman D.,Munar J.,9,106.0,3480,745.0,6,2,7,5,0,0,0,0,0,0,2021-009
+Buenos Aires,Argentina Open,2021-03-06,ATP250,Outdoor,Clay,Semifinals,3,Cerundolo F.,Ramos-Vinolas A.,137,46.0,532,1315.0,7,6,3,6,6,2,0,0,0,0,2021-009
+Buenos Aires,Argentina Open,2021-03-06,ATP250,Outdoor,Clay,Semifinals,3,Schwartzman D.,Kecmanovic M.,9,42.0,3480,1388.0,6,0,6,4,0,0,0,0,0,0,2021-009
+Buenos Aires,Argentina Open,2021-03-07,ATP250,Outdoor,Clay,The Final,3,Schwartzman D.,Cerundolo F.,9,137.0,3480,532.0,6,1,6,2,0,0,0,0,0,0,2021-009
+Rotterdam,ABN AMRO World Tennis Tournament,2021-03-01,ATP500,Indoor,Hard,1st Round,3,Norrie C.,Basilashvili N.,65,40.0,1015,1405.0,6,0,6,3,0,0,0,0,0,0,2021-010
+Rotterdam,ABN AMRO World Tennis Tournament,2021-03-01,ATP500,Indoor,Hard,1st Round,3,Nishikori K.,Auger-Aliassime F.,45,19.0,1355,2516.0,7,6,6,1,0,0,0,0,0,0,2021-010
+Rotterdam,ABN AMRO World Tennis Tournament,2021-03-01,ATP500,Indoor,Hard,1st Round,3,Murray A.,Haase R.,123,193.0,595,366.0,2,6,7,6,6,3,0,0,0,0,2021-010
+Rotterdam,ABN AMRO World Tennis Tournament,2021-03-01,ATP500,Indoor,Hard,1st Round,3,Fucsovics M.,Opelka R.,59,38.0,1072,1457.0,7,6,6,7,7,6,0,0,0,0,2021-010
+Rotterdam,ABN AMRO World Tennis Tournament,2021-03-02,ATP500,Indoor,Hard,1st Round,3,De Minaur A.,Millman J.,23,39.0,2155,1421.0,6,1,6,4,0,0,0,0,0,0,2021-010
+Rotterdam,ABN AMRO World Tennis Tournament,2021-03-02,ATP500,Indoor,Hard,1st Round,3,Rublev A.,Giron M.,8,80.0,4609,889.0,7,6,6,3,0,0,0,0,0,0,2021-010
+Rotterdam,ABN AMRO World Tennis Tournament,2021-03-02,ATP500,Indoor,Hard,1st Round,3,Hurkacz H.,Mannarino A.,30,36.0,1735,1641.0,6,3,7,6,0,0,0,0,0,0,2021-010
+Rotterdam,ABN AMRO World Tennis Tournament,2021-03-02,ATP500,Indoor,Hard,1st Round,3,Khachanov K.,Wawrinka S.,21,20.0,2290,2365.0,6,4,7,5,0,0,0,0,0,0,2021-010
+Rotterdam,ABN AMRO World Tennis Tournament,2021-03-02,ATP500,Indoor,Hard,1st Round,3,Chardy J.,Humbert U.,64,31.0,1020,1726.0,4,6,7,6,7,6,0,0,0,0,2021-010
+Rotterdam,ABN AMRO World Tennis Tournament,2021-03-02,ATP500,Indoor,Hard,1st Round,3,Tsitsipas S.,Gerasimov E.,6,76.0,6595,936.0,7,6,7,5,0,0,0,0,0,0,2021-010
+Rotterdam,ABN AMRO World Tennis Tournament,2021-03-02,ATP500,Indoor,Hard,1st Round,3,Coric B.,Van De Zandschulp B.,26,147.0,1890,489.0,6,4,7,6,0,0,0,0,0,0,2021-010
+Rotterdam,ABN AMRO World Tennis Tournament,2021-03-03,ATP500,Indoor,Hard,1st Round,3,Bublik A.,Zverev A.,43,7.0,1385,5615.0,7,5,6,3,0,0,0,0,0,0,2021-010
+Rotterdam,ABN AMRO World Tennis Tournament,2021-03-03,ATP500,Indoor,Hard,1st Round,3,Paul T.,Sonego L.,56,35.0,1080,1648.0,6,4,7,6,0,0,0,0,0,0,2021-010
+Rotterdam,ABN AMRO World Tennis Tournament,2021-03-03,ATP500,Indoor,Hard,1st Round,3,Lajovic D.,Medvedev D.,27,3.0,1875,9735.0,7,6,6,4,0,0,0,0,0,0,2021-010
+Rotterdam,ABN AMRO World Tennis Tournament,2021-03-03,ATP500,Indoor,Hard,1st Round,3,Goffin D.,Struff J.L.,14,37.0,2760,1495.0,6,4,6,0,0,0,0,0,0,0,2021-010
+Rotterdam,ABN AMRO World Tennis Tournament,2021-03-03,ATP500,Indoor,Hard,1st Round,3,Davidovich Fokina A.,Bautista Agut R.,51,13.0,1111,2770.0,6,2,7,6,0,0,0,0,0,0,2021-010
+Rotterdam,ABN AMRO World Tennis Tournament,2021-03-03,ATP500,Indoor,Hard,2nd Round,3,Nishikori K.,De Minaur A.,45,23.0,1355,2155.0,6,3,2,6,7,5,0,0,0,0,2021-010
+Rotterdam,ABN AMRO World Tennis Tournament,2021-03-03,ATP500,Indoor,Hard,2nd Round,3,Rublev A.,Murray A.,8,123.0,4609,595.0,7,5,6,2,0,0,0,0,0,0,2021-010
+Rotterdam,ABN AMRO World Tennis Tournament,2021-03-03,ATP500,Indoor,Hard,2nd Round,3,Khachanov K.,Norrie C.,21,65.0,2290,1015.0,6,2,6,2,0,0,0,0,0,0,2021-010
+Rotterdam,ABN AMRO World Tennis Tournament,2021-03-04,ATP500,Indoor,Hard,2nd Round,3,Chardy J.,Goffin D.,64,14.0,1020,2760.0,7,6,7,6,0,0,0,0,0,0,2021-010
+Rotterdam,ABN AMRO World Tennis Tournament,2021-03-04,ATP500,Indoor,Hard,2nd Round,3,Paul T.,Bublik A.,56,43.0,1080,1385.0,6,7,6,3,6,1,0,0,0,0,2021-010
+Rotterdam,ABN AMRO World Tennis Tournament,2021-03-04,ATP500,Indoor,Hard,2nd Round,3,Tsitsipas S.,Hurkacz H.,6,30.0,6595,1735.0,6,4,4,6,7,5,0,0,0,0,2021-010
+Rotterdam,ABN AMRO World Tennis Tournament,2021-03-04,ATP500,Indoor,Hard,2nd Round,3,Coric B.,Lajovic D.,26,27.0,1890,1875.0,6,3,6,2,0,0,0,0,0,0,2021-010
+Rotterdam,ABN AMRO World Tennis Tournament,2021-03-04,ATP500,Indoor,Hard,2nd Round,3,Fucsovics M.,Davidovich Fokina A.,59,51.0,1072,1111.0,6,3,6,2,0,0,0,0,0,0,2021-010
+Rotterdam,ABN AMRO World Tennis Tournament,2021-03-05,ATP500,Indoor,Hard,Quarterfinals,3,Tsitsipas S.,Khachanov K.,6,21.0,6595,2290.0,4,6,6,3,7,5,0,0,0,0,2021-010
+Rotterdam,ABN AMRO World Tennis Tournament,2021-03-05,ATP500,Indoor,Hard,Quarterfinals,3,Rublev A.,Chardy J.,8,64.0,4609,1020.0,7,6,6,7,6,4,0,0,0,0,2021-010
+Rotterdam,ABN AMRO World Tennis Tournament,2021-03-05,ATP500,Indoor,Hard,Quarterfinals,3,Coric B.,Nishikori K.,26,45.0,1890,1355.0,7,6,7,6,0,0,0,0,0,0,2021-010
+Rotterdam,ABN AMRO World Tennis Tournament,2021-03-05,ATP500,Indoor,Hard,Quarterfinals,3,Fucsovics M.,Paul T.,59,56.0,1072,1080.0,6,4,6,3,0,0,0,0,0,0,2021-010
+Rotterdam,ABN AMRO World Tennis Tournament,2021-03-06,ATP500,Indoor,Hard,Semifinals,3,Rublev A.,Tsitsipas S.,8,6.0,4609,6595.0,6,3,7,6,0,0,0,0,0,0,2021-010
+Rotterdam,ABN AMRO World Tennis Tournament,2021-03-06,ATP500,Indoor,Hard,Semifinals,3,Fucsovics M.,Coric B.,59,26.0,1072,1890.0,6,4,6,1,0,0,0,0,0,0,2021-010
+Rotterdam,ABN AMRO World Tennis Tournament,2021-03-07,ATP500,Indoor,Hard,The Final,3,Rublev A.,Fucsovics M.,8,59.0,4609,1072.0,7,6,6,4,0,0,0,0,0,0,2021-010
+Doha,Qatar Exxon Mobil Open,2021-03-08,ATP250,Outdoor,Hard,1st Round,3,Basilashvili N.,Millman J.,42,41.0,1405,1421.0,2,6,6,4,6,2,0,0,0,0,2021-011
+Doha,Qatar Exxon Mobil Open,2021-03-08,ATP250,Outdoor,Hard,1st Round,3,Karatsev A.,Zayid M.,45,,1382,,6,4,6,0,0,0,0,0,0,0,2021-011
+Doha,Qatar Exxon Mobil Open,2021-03-08,ATP250,Outdoor,Hard,1st Round,3,Bublik A.,Ramanathan R.,44,201.0,1385,355.0,6,4,6,2,0,0,0,0,0,0,2021-011
+Doha,Qatar Exxon Mobil Open,2021-03-08,ATP250,Outdoor,Hard,1st Round,3,Fritz T.,Sonego L.,33,35.0,1695,1648.0,7,6,6,4,0,0,0,0,0,0,2021-011
+Doha,Qatar Exxon Mobil Open,2021-03-08,ATP250,Outdoor,Hard,1st Round,3,Gasquet R.,Rola B.,50,163.0,1155,433.0,6,4,6,4,0,0,0,0,0,0,2021-011
+Doha,Qatar Exxon Mobil Open,2021-03-08,ATP250,Outdoor,Hard,1st Round,3,Bautista Agut R.,Opelka R.,13,39.0,2770,1457.0,4,6,6,3,6,4,0,0,0,0,2021-011
+Doha,Qatar Exxon Mobil Open,2021-03-09,ATP250,Outdoor,Hard,1st Round,3,Evans D.,Chardy J.,28,54.0,1794,1110.0,6,4,1,6,6,2,0,0,0,0,2021-011
+Doha,Qatar Exxon Mobil Open,2021-03-09,ATP250,Outdoor,Hard,1st Round,3,Pospisil V.,O Connell C.,67,122.0,1013,613.0,6,3,6,4,0,0,0,0,0,0,2021-011
+Doha,Qatar Exxon Mobil Open,2021-03-09,ATP250,Outdoor,Hard,1st Round,3,Jaziri M.,Gombos N.,262,95.0,225,799.0,6,2,7,5,0,0,0,0,0,0,2021-011
+Doha,Qatar Exxon Mobil Open,2021-03-09,ATP250,Outdoor,Hard,1st Round,3,Fucsovics M.,Lajovic D.,46,27.0,1372,1875.0,7,6,6,3,0,0,0,0,0,0,2021-011
+Doha,Qatar Exxon Mobil Open,2021-03-09,ATP250,Outdoor,Hard,1st Round,3,Harris L.,Wawrinka S.,84,20.0,873,2365.0,7,6,6,7,7,5,0,0,0,0,2021-011
+Doha,Qatar Exxon Mobil Open,2021-03-09,ATP250,Outdoor,Hard,1st Round,3,Goffin D.,Krajinovic F.,14,32.0,2760,1718.0,6,4,6,4,0,0,0,0,0,0,2021-011
+Doha,Qatar Exxon Mobil Open,2021-03-10,ATP250,Outdoor,Hard,2nd Round,3,Rublev A.,Gasquet R.,8,50.0,5019,1155.0,0,0,0,0,0,0,0,0,0,0,2021-011
+Doha,Qatar Exxon Mobil Open,2021-03-10,ATP250,Outdoor,Hard,2nd Round,3,Shapovalov D.,Pospisil V.,11,67.0,2910,1013.0,7,5,6,4,0,0,0,0,0,0,2021-011
+Doha,Qatar Exxon Mobil Open,2021-03-10,ATP250,Outdoor,Hard,2nd Round,3,Thiem D.,Karatsev A.,4,45.0,9125,1382.0,6,7,6,3,6,2,0,0,0,0,2021-011
+Doha,Qatar Exxon Mobil Open,2021-03-10,ATP250,Outdoor,Hard,2nd Round,3,Bautista Agut R.,Bublik A.,13,44.0,2770,1385.0,6,4,6,3,0,0,0,0,0,0,2021-011
+Doha,Qatar Exxon Mobil Open,2021-03-10,ATP250,Outdoor,Hard,2nd Round,3,Fritz T.,Goffin D.,33,14.0,1695,2760.0,6,1,5,7,7,6,0,0,0,0,2021-011
+Doha,Qatar Exxon Mobil Open,2021-03-10,ATP250,Outdoor,Hard,2nd Round,3,Basilashvili N.,Jaziri M.,42,262.0,1405,225.0,6,2,6,2,0,0,0,0,0,0,2021-011
+Doha,Qatar Exxon Mobil Open,2021-03-10,ATP250,Outdoor,Hard,2nd Round,3,Federer R.,Evans D.,6,28.0,6630,1794.0,7,6,3,6,7,5,0,0,0,0,2021-011
+Doha,Qatar Exxon Mobil Open,2021-03-10,ATP250,Outdoor,Hard,2nd Round,3,Fucsovics M.,Harris L.,46,84.0,1372,873.0,4,6,7,6,6,2,0,0,0,0,2021-011
+Doha,Qatar Exxon Mobil Open,2021-03-11,ATP250,Outdoor,Hard,Quarterfinals,3,Fritz T.,Shapovalov D.,33,11.0,1695,2910.0,5,7,6,3,7,5,0,0,0,0,2021-011
+Doha,Qatar Exxon Mobil Open,2021-03-11,ATP250,Outdoor,Hard,Quarterfinals,3,Rublev A.,Fucsovics M.,8,46.0,5019,1372.0,0,0,0,0,0,0,0,0,0,0,2021-011
+Doha,Qatar Exxon Mobil Open,2021-03-11,ATP250,Outdoor,Hard,Quarterfinals,3,Basilashvili N.,Federer R.,42,6.0,1405,6630.0,3,6,6,1,7,5,0,0,0,0,2021-011
+Doha,Qatar Exxon Mobil Open,2021-03-11,ATP250,Outdoor,Hard,Quarterfinals,3,Bautista Agut R.,Thiem D.,13,4.0,2770,9125.0,7,6,2,6,6,4,0,0,0,0,2021-011
+Doha,Qatar Exxon Mobil Open,2021-03-12,ATP250,Outdoor,Hard,Semifinals,3,Bautista Agut R.,Rublev A.,13,8.0,2770,5019.0,6,3,6,3,0,0,0,0,0,0,2021-011
+Doha,Qatar Exxon Mobil Open,2021-03-12,ATP250,Outdoor,Hard,Semifinals,3,Basilashvili N.,Fritz T.,42,33.0,1405,1695.0,7,6,6,1,0,0,0,0,0,0,2021-011
+Doha,Qatar Exxon Mobil Open,2021-03-13,ATP250,Outdoor,Hard,The Final,3,Basilashvili N.,Bautista Agut R.,42,13.0,1405,2770.0,7,6,6,2,0,0,0,0,0,0,2021-011
+Marseille,Open 13,2021-03-08,ATP250,Indoor,Hard,1st Round,3,Ruusuvuori E.,Nishioka Y.,87,59.0,851,1091.0,6,2,4,2,0,0,0,0,0,0,2021-012
+Marseille,Open 13,2021-03-08,ATP250,Indoor,Hard,1st Round,3,Gaston H.,Novak D.,166,98.0,425,785.0,3,6,6,4,6,1,0,0,0,0,2021-012
+Marseille,Open 13,2021-03-08,ATP250,Indoor,Hard,1st Round,3,Sinner J.,Barrere G.,34,115.0,1694,655.0,7,6,6,7,7,5,0,0,0,0,2021-012
+Marseille,Open 13,2021-03-09,ATP250,Indoor,Hard,1st Round,3,Ebden M.,Bonzi B.,287,127.0,200,586.0,3,6,7,6,6,3,0,0,0,0,2021-012
+Marseille,Open 13,2021-03-09,ATP250,Indoor,Hard,1st Round,3,Mcdonald M.,Travaglia S.,120,65.0,625,1024.0,7,6,7,6,0,0,0,0,0,0,2021-012
+Marseille,Open 13,2021-03-09,ATP250,Indoor,Hard,1st Round,3,Rinderknech A.,Kukushkin M.,138,96.0,536,796.0,1,6,6,3,6,2,0,0,0,0,2021-012
+Marseille,Open 13,2021-03-09,ATP250,Indoor,Hard,1st Round,3,Herbert P.H.,Nishikori K.,93,40.0,822,1445.0,6,1,6,4,0,0,0,0,0,0,2021-012
+Marseille,Open 13,2021-03-09,ATP250,Indoor,Hard,1st Round,3,Tsonga J.W.,Lopez F.,66,61.0,1015,1078.0,3,6,6,4,7,5,0,0,0,0,2021-012
+Marseille,Open 13,2021-03-09,ATP250,Indoor,Hard,1st Round,3,Davidovich Fokina A.,Tsitsipas P.,52,970.0,1144,13.0,6,0,6,2,0,0,0,0,0,0,2021-012
+Marseille,Open 13,2021-03-09,ATP250,Indoor,Hard,1st Round,3,Pouille L.,Molcan A.,81,286.0,887,202.0,7,5,6,3,0,0,0,0,0,0,2021-012
+Marseille,Open 13,2021-03-10,ATP250,Indoor,Hard,1st Round,3,Gerasimov E.,Hanfmann Y.,76,105.0,936,750.0,6,2,6,0,0,0,0,0,0,0,2021-012
+Marseille,Open 13,2021-03-10,ATP250,Indoor,Hard,1st Round,3,Norrie C.,Lestienne C.,63,219.0,1060,296.0,6,4,6,7,6,3,0,0,0,0,2021-012
+Marseille,Open 13,2021-03-10,ATP250,Indoor,Hard,2nd Round,3,Ebden M.,Ruusuvuori E.,287,87.0,200,851.0,6,2,6,2,0,0,0,0,0,0,2021-012
+Marseille,Open 13,2021-03-10,ATP250,Indoor,Hard,2nd Round,3,Khachanov K.,Mcdonald M.,21,120.0,2290,625.0,7,6,6,4,0,0,0,0,0,0,2021-012
+Marseille,Open 13,2021-03-10,ATP250,Indoor,Hard,2nd Round,3,Sinner J.,Gaston H.,34,166.0,1694,425.0,6,4,6,1,0,0,0,0,0,0,2021-012
+Marseille,Open 13,2021-03-10,ATP250,Indoor,Hard,2nd Round,3,Humbert U.,Tsonga J.W.,31,66.0,1726,1015.0,6,3,6,4,0,0,0,0,0,0,2021-012
+Marseille,Open 13,2021-03-11,ATP250,Indoor,Hard,2nd Round,3,Herbert P.H.,Norrie C.,93,63.0,822,1060.0,6,3,6,4,0,0,0,0,0,0,2021-012
+Marseille,Open 13,2021-03-11,ATP250,Indoor,Hard,2nd Round,3,Rinderknech A.,Davidovich Fokina A.,138,52.0,536,1144.0,3,6,6,1,6,2,0,0,0,0,2021-012
+Marseille,Open 13,2021-03-11,ATP250,Indoor,Hard,2nd Round,3,Medvedev D.,Gerasimov E.,3,76.0,9735,936.0,6,2,6,4,0,0,0,0,0,0,2021-012
+Marseille,Open 13,2021-03-11,ATP250,Indoor,Hard,2nd Round,3,Tsitsipas S.,Pouille L.,5,81.0,6660,887.0,6,2,6,3,0,0,0,0,0,0,2021-012
+Marseille,Open 13,2021-03-12,ATP250,Indoor,Hard,Quarterfinals,3,Ebden M.,Khachanov K.,287,21.0,200,2290.0,4,6,6,4,6,2,0,0,0,0,2021-012
+Marseille,Open 13,2021-03-12,ATP250,Indoor,Hard,Quarterfinals,3,Medvedev D.,Sinner J.,3,34.0,9735,1694.0,6,2,6,4,0,0,0,0,0,0,2021-012
+Marseille,Open 13,2021-03-12,ATP250,Indoor,Hard,Quarterfinals,3,Herbert P.H.,Tsitsipas S.,93,5.0,822,6660.0,6,7,6,4,6,2,0,0,0,0,2021-012
+Marseille,Open 13,2021-03-12,ATP250,Indoor,Hard,Quarterfinals,3,Humbert U.,Rinderknech A.,31,138.0,1726,536.0,4,6,7,5,7,6,0,0,0,0,2021-012
+Marseille,Open 13,2021-03-13,ATP250,Indoor,Hard,Semifinals,3,Medvedev D.,Ebden M.,3,287.0,9735,200.0,6,4,3,0,0,0,0,0,0,0,2021-012
+Marseille,Open 13,2021-03-13,ATP250,Indoor,Hard,Semifinals,3,Herbert P.H.,Humbert U.,93,31.0,822,1726.0,6,3,6,2,0,0,0,0,0,0,2021-012
+Marseille,Open 13,2021-03-14,ATP250,Indoor,Hard,The Final,3,Medvedev D.,Herbert P.H.,3,93.0,9735,822.0,6,4,6,7,6,4,0,0,0,0,2021-012
+Santiago,Chile Open,2021-03-08,ATP250,Indoor,Clay,1st Round,3,Sousa P.,Mayer L.,110,146.0,704,504.0,6,2,6,4,0,0,0,0,0,0,2021-013
+Santiago,Chile Open,2021-03-08,ATP250,Indoor,Clay,1st Round,3,Bagnis F.,Cecchinato M.,118,89.0,633,838.0,6,7,6,2,6,3,0,0,0,0,2021-013
+Santiago,Chile Open,2021-03-08,ATP250,Indoor,Clay,1st Round,3,Galan D.E.,Altmaier D.,121,143.0,619,516.0,7,6,3,6,7,5,0,0,0,0,2021-013
+Santiago,Chile Open,2021-03-08,ATP250,Indoor,Clay,1st Round,3,Carballes Baena R.,Caruso S.,97,79.0,786,898.0,6,4,7,6,0,0,0,0,0,0,2021-013
+Santiago,Chile Open,2021-03-08,ATP250,Indoor,Clay,1st Round,3,Tiafoe F.,Jarry N.,64,746.0,1040,27.0,7,6,6,7,7,6,0,0,0,0,2021-013
+Santiago,Chile Open,2021-03-09,ATP250,Indoor,Clay,1st Round,3,Coria F.,Mager G.,85,101.0,870,780.0,4,6,7,6,7,6,0,0,0,0,2021-013
+Santiago,Chile Open,2021-03-09,ATP250,Indoor,Clay,1st Round,3,Delbonis F.,Munar J.,86,102.0,851,773.0,6,4,6,7,6,4,0,0,0,0,2021-013
+Santiago,Chile Open,2021-03-09,ATP250,Indoor,Clay,1st Round,3,Tabilo A.,Kovalik J.,168,129.0,419,583.0,6,1,0,6,6,4,0,0,0,0,2021-013
+Santiago,Chile Open,2021-03-09,ATP250,Indoor,Clay,1st Round,3,Varillas J. P.,Sousa J.,171,100.0,414,782.0,6,4,6,1,0,0,0,0,0,0,2021-013
+Santiago,Chile Open,2021-03-09,ATP250,Indoor,Clay,1st Round,3,Rune H.,Baez S.,410,257.0,102,229.0,6,3,6,2,0,0,0,0,0,0,2021-013
+Santiago,Chile Open,2021-03-09,ATP250,Indoor,Clay,1st Round,3,Martin A.,Cerundolo F.,104,112.0,753,686.0,6,1,6,2,0,0,0,0,0,0,2021-013
+Santiago,Chile Open,2021-03-09,ATP250,Indoor,Clay,1st Round,3,Cerundolo J.M.,Lama G.,182,657.0,392,37.0,7,5,6,2,0,0,0,0,0,0,2021-013
+Santiago,Chile Open,2021-03-10,ATP250,Indoor,Clay,2nd Round,3,Djere L.,Sousa P.,57,110.0,1093,704.0,5,7,7,5,6,3,0,0,0,0,2021-013
+Santiago,Chile Open,2021-03-10,ATP250,Indoor,Clay,2nd Round,3,Bagnis F.,Tiafoe F.,118,64.0,633,1040.0,7,6,7,6,0,0,0,0,0,0,2021-013
+Santiago,Chile Open,2021-03-10,ATP250,Indoor,Clay,2nd Round,3,Delbonis F.,Martin A.,86,104.0,851,753.0,6,0,6,3,0,0,0,0,0,0,2021-013
+Santiago,Chile Open,2021-03-10,ATP250,Indoor,Clay,2nd Round,3,Rune H.,Paire B.,410,29.0,102,1738.0,6,2,6,3,0,0,0,0,0,0,2021-013
+Santiago,Chile Open,2021-03-11,ATP250,Indoor,Clay,2nd Round,3,Galan D.E.,Andujar P.,121,55.0,619,1104.0,6,1,7,6,0,0,0,0,0,0,2021-013
+Santiago,Chile Open,2021-03-11,ATP250,Indoor,Clay,2nd Round,3,Carballes Baena R.,Cerundolo J.M.,97,182.0,786,392.0,6,2,6,0,0,0,0,0,0,0,2021-013
+Santiago,Chile Open,2021-03-11,ATP250,Indoor,Clay,2nd Round,3,Varillas J. P.,Coria F.,171,85.0,414,870.0,6,4,7,6,0,0,0,0,0,0,2021-013
+Santiago,Chile Open,2021-03-11,ATP250,Indoor,Clay,2nd Round,3,Garin C.,Tabilo A.,22,168.0,2180,419.0,6,2,6,2,0,0,0,0,0,0,2021-013
+Santiago,Chile Open,2021-03-12,ATP250,Indoor,Clay,Quarterfinals,3,Bagnis F.,Djere L.,118,57.0,633,1093.0,4,6,6,3,6,3,0,0,0,0,2021-013
+Santiago,Chile Open,2021-03-12,ATP250,Indoor,Clay,Quarterfinals,3,Delbonis F.,Rune H.,86,410.0,851,102.0,6,3,6,3,0,0,0,0,0,0,2021-013
+Santiago,Chile Open,2021-03-12,ATP250,Indoor,Clay,Quarterfinals,3,Garin C.,Varillas J. P.,22,171.0,2180,414.0,6,4,6,4,0,0,0,0,0,0,2021-013
+Santiago,Chile Open,2021-03-12,ATP250,Indoor,Clay,Quarterfinals,3,Galan D.E.,Carballes Baena R.,121,97.0,619,786.0,7,6,6,3,0,0,0,0,0,0,2021-013
+Santiago,Chile Open,2021-03-13,ATP250,Indoor,Clay,Semifinals,3,Bagnis F.,Delbonis F.,118,86.0,633,851.0,7,5,6,3,0,0,0,0,0,0,2021-013
+Santiago,Chile Open,2021-03-13,ATP250,Indoor,Clay,Semifinals,3,Garin C.,Galan D.E.,22,121.0,2180,619.0,6,4,6,3,0,0,0,0,0,0,2021-013
+Santiago,Chile Open,2021-03-14,ATP250,Indoor,Clay,The Final,3,Garin C.,Bagnis F.,22,118.0,2180,633.0,6,4,6,7,7,5,0,0,0,0,2021-013
+Acapulco,Abierto Mexicano,2021-03-16,ATP500,Outdoor,Hard,1st Round,3,Koepfer D.,Lopez Villasenor G.,71,563.0,976,55.0,6,4,6,2,0,0,0,0,0,0,2021-014
+Acapulco,Abierto Mexicano,2021-03-16,ATP500,Outdoor,Hard,1st Round,3,Auger-Aliassime F.,Sandgren T.,18,58.0,2516,1088.0,6,3,7,6,0,0,0,0,0,0,2021-014
+Acapulco,Abierto Mexicano,2021-03-16,ATP500,Outdoor,Hard,1st Round,3,Isner J.,Caruso S.,27,84.0,1850,876.0,6,4,6,3,0,0,0,0,0,0,2021-014
+Acapulco,Abierto Mexicano,2021-03-16,ATP500,Outdoor,Hard,1st Round,3,Zverev A.,Alcaraz C.,7,132.0,5635,561.0,6,3,6,1,0,0,0,0,0,0,2021-014
+Acapulco,Abierto Mexicano,2021-03-16,ATP500,Outdoor,Hard,1st Round,3,Djere L.,Johnson S.,54,82.0,1106,885.0,6,2,6,3,0,0,0,0,0,0,2021-014
+Acapulco,Abierto Mexicano,2021-03-16,ATP500,Outdoor,Hard,1st Round,3,Korda S.,Cilic M.,92,45.0,824,1373.0,7,5,6,2,0,0,0,0,0,0,2021-014
+Acapulco,Abierto Mexicano,2021-03-17,ATP500,Outdoor,Hard,1st Round,3,Raonic M.,Paul T.,19,51.0,2450,1155.0,7,6,6,4,0,0,0,0,0,0,2021-014
+Acapulco,Abierto Mexicano,2021-03-17,ATP500,Outdoor,Hard,1st Round,3,Musetti L.,Schwartzman D.,120,9.0,630,3640.0,6,3,2,6,6,4,0,0,0,0,2021-014
+Acapulco,Abierto Mexicano,2021-03-17,ATP500,Outdoor,Hard,1st Round,3,Tiafoe F.,Nakashima B.,56,145.0,1095,508.0,6,4,6,7,7,6,0,0,0,0,2021-014
+Acapulco,Abierto Mexicano,2021-03-17,ATP500,Outdoor,Hard,1st Round,3,Griekspoor T.,Kudla D.,154,123.0,472,606.0,7,6,4,6,6,3,0,0,0,0,2021-014
+Acapulco,Abierto Mexicano,2021-03-17,ATP500,Outdoor,Hard,1st Round,3,Fognini F.,Travaglia S.,17,68.0,2530,1024.0,7,5,6,2,0,0,0,0,0,0,2021-014
+Acapulco,Abierto Mexicano,2021-03-17,ATP500,Outdoor,Hard,1st Round,3,Tsitsipas S.,Paire B.,5,31.0,6765,1773.0,6,3,6,1,0,0,0,0,0,0,2021-014
+Acapulco,Abierto Mexicano,2021-03-17,ATP500,Outdoor,Hard,1st Round,3,Norrie C.,Kozlov S.,61,389.0,1070,111.0,6,3,6,3,0,0,0,0,0,0,2021-014
+Acapulco,Abierto Mexicano,2021-03-17,ATP500,Outdoor,Hard,1st Round,3,Kecmanovic M.,Lopez F.,46,62.0,1364,1066.0,6,4,6,4,0,0,0,0,0,0,2021-014
+Acapulco,Abierto Mexicano,2021-03-17,ATP500,Outdoor,Hard,1st Round,3,Dimitrov G.,Mannarino A.,16,34.0,2620,1661.0,6,4,3,0,0,0,0,0,0,0,2021-014
+Acapulco,Abierto Mexicano,2021-03-17,ATP500,Outdoor,Hard,1st Round,3,Ruud C.,Galan D.E.,25,112.0,1909,702.0,6,4,6,1,0,0,0,0,0,0,2021-014
+Acapulco,Abierto Mexicano,2021-03-18,ATP500,Outdoor,Hard,2nd Round,3,Musetti L.,Tiafoe F.,120,56.0,630,1095.0,2,6,6,3,7,6,0,0,0,0,2021-014
+Acapulco,Abierto Mexicano,2021-03-18,ATP500,Outdoor,Hard,2nd Round,3,Koepfer D.,Raonic M.,71,19.0,976,2450.0,6,4,6,2,0,0,0,0,0,0,2021-014
+Acapulco,Abierto Mexicano,2021-03-18,ATP500,Outdoor,Hard,2nd Round,3,Auger-Aliassime F.,Korda S.,18,92.0,2516,824.0,6,3,6,4,0,0,0,0,0,0,2021-014
+Acapulco,Abierto Mexicano,2021-03-18,ATP500,Outdoor,Hard,2nd Round,3,Dimitrov G.,Kecmanovic M.,16,46.0,2620,1364.0,6,4,6,2,0,0,0,0,0,0,2021-014
+Acapulco,Abierto Mexicano,2021-03-18,ATP500,Outdoor,Hard,2nd Round,3,Ruud C.,Griekspoor T.,25,154.0,1909,472.0,4,6,6,3,7,6,0,0,0,0,2021-014
+Acapulco,Abierto Mexicano,2021-03-18,ATP500,Outdoor,Hard,2nd Round,3,Zverev A.,Djere L.,7,54.0,5635,1106.0,6,4,6,3,0,0,0,0,0,0,2021-014
+Acapulco,Abierto Mexicano,2021-03-18,ATP500,Outdoor,Hard,2nd Round,3,Norrie C.,Fognini F.,61,17.0,1070,2530.0,6,4,6,3,0,0,0,0,0,0,2021-014
+Acapulco,Abierto Mexicano,2021-03-18,ATP500,Outdoor,Hard,2nd Round,3,Tsitsipas S.,Isner J.,5,27.0,6765,1850.0,6,3,6,2,0,0,0,0,0,0,2021-014
+Acapulco,Abierto Mexicano,2021-03-19,ATP500,Outdoor,Hard,Quarterfinals,3,Zverev A.,Ruud C.,7,25.0,5635,1909.0,0,0,0,0,0,0,0,0,0,0,2021-014
+Acapulco,Abierto Mexicano,2021-03-19,ATP500,Outdoor,Hard,Quarterfinals,3,Koepfer D.,Norrie C.,71,61.0,976,1070.0,7,5,6,4,0,0,0,0,0,0,2021-014
+Acapulco,Abierto Mexicano,2021-03-19,ATP500,Outdoor,Hard,Quarterfinals,3,Tsitsipas S.,Auger-Aliassime F.,5,18.0,6765,2516.0,7,5,4,6,6,3,0,0,0,0,2021-014
+Acapulco,Abierto Mexicano,2021-03-19,ATP500,Outdoor,Hard,Quarterfinals,3,Musetti L.,Dimitrov G.,120,16.0,630,2620.0,6,4,7,6,0,0,0,0,0,0,2021-014
+Acapulco,Abierto Mexicano,2021-03-20,ATP500,Outdoor,Hard,Semifinals,3,Zverev A.,Koepfer D.,7,71.0,5635,976.0,6,4,7,6,0,0,0,0,0,0,2021-014
+Acapulco,Abierto Mexicano,2021-03-20,ATP500,Outdoor,Hard,Semifinals,3,Tsitsipas S.,Musetti L.,5,120.0,6765,630.0,6,1,6,3,0,0,0,0,0,0,2021-014
+Acapulco,Abierto Mexicano,2021-03-21,ATP500,Outdoor,Hard,The Final,3,Zverev A.,Tsitsipas S.,7,5.0,5635,6765.0,6,4,7,6,0,0,0,0,0,0,2021-014
+Dubai ,Dubai Tennis Championships,2021-03-14,ATP500,Outdoor,Hard,1st Round,3,Nishikori K.,Opelka R.,41,38.0,1423,1457.0,3,6,6,3,6,4,0,0,0,0,2021-015
+Dubai ,Dubai Tennis Championships,2021-03-14,ATP500,Outdoor,Hard,1st Round,3,Chardy J.,Ramos-Vinolas A.,53,47.0,1120,1360.0,6,3,3,6,6,4,0,0,0,0,2021-015
+Dubai ,Dubai Tennis Championships,2021-03-14,ATP500,Outdoor,Hard,1st Round,3,Karatsev A.,Gerasimov E.,42,77.0,1395,936.0,6,4,6,4,0,0,0,0,0,0,2021-015
+Dubai ,Dubai Tennis Championships,2021-03-14,ATP500,Outdoor,Hard,1st Round,3,Bublik A.,Nishioka Y.,43,64.0,1385,1046.0,6,4,7,6,0,0,0,0,0,0,2021-015
+Dubai ,Dubai Tennis Championships,2021-03-14,ATP500,Outdoor,Hard,1st Round,3,Jaziri M.,Tsonga J.W.,258,66.0,229,1025.0,3,3,0,0,0,0,0,0,0,0,2021-015
+Dubai ,Dubai Tennis Championships,2021-03-14,ATP500,Outdoor,Hard,1st Round,3,Popyrin A.,Novak D.,86,99.0,863,785.0,7,6,7,5,0,0,0,0,0,0,2021-015
+Dubai ,Dubai Tennis Championships,2021-03-15,ATP500,Outdoor,Hard,1st Round,3,Struff J.L.,Kukushkin M.,39,104.0,1450,769.0,6,3,6,2,0,0,0,0,0,0,2021-015
+Dubai ,Dubai Tennis Championships,2021-03-15,ATP500,Outdoor,Hard,1st Round,3,Davidovich Fokina A.,Albot R.,52,76.0,1144,936.0,6,4,6,4,0,0,0,0,0,0,2021-015
+Dubai ,Dubai Tennis Championships,2021-03-15,ATP500,Outdoor,Hard,1st Round,3,Zapata Miralles B.,Millman J.,150,40.0,489,1426.0,6,4,6,4,0,0,0,0,0,0,2021-015
+Dubai ,Dubai Tennis Championships,2021-03-15,ATP500,Outdoor,Hard,1st Round,3,Bedene A.,Bhambri Y.,59,,1085,,3,6,6,1,6,4,0,0,0,0,2021-015
+Dubai ,Dubai Tennis Championships,2021-03-15,ATP500,Outdoor,Hard,1st Round,3,Harris L.,O Connell C.,81,122.0,885,617.0,6,7,6,4,6,1,0,0,0,0,2021-015
+Dubai ,Dubai Tennis Championships,2021-03-15,ATP500,Outdoor,Hard,1st Round,3,Gasquet R.,Cecchinato M.,49,89.0,1185,856.0,6,4,6,2,0,0,0,0,0,0,2021-015
+Dubai ,Dubai Tennis Championships,2021-03-15,ATP500,Outdoor,Hard,1st Round,3,Ruusuvuori E.,Thompson J.,87,55.0,861,1104.0,6,3,7,6,0,0,0,0,0,0,2021-015
+Dubai ,Dubai Tennis Championships,2021-03-15,ATP500,Outdoor,Hard,1st Round,3,Fucsovics M.,Pospisil V.,44,65.0,1382,1033.0,2,6,7,5,6,4,0,0,0,0,2021-015
+Dubai ,Dubai Tennis Championships,2021-03-15,ATP500,Outdoor,Hard,2nd Round,3,Chardy J.,De Minaur A.,53,23.0,1120,2190.0,2,6,6,3,6,4,0,0,0,0,2021-015
+Dubai ,Dubai Tennis Championships,2021-03-16,ATP500,Outdoor,Hard,2nd Round,3,Sonego L.,Zapata Miralles B.,37,150.0,1643,489.0,6,2,6,2,0,0,0,0,0,0,2021-015
+Dubai ,Dubai Tennis Championships,2021-03-16,ATP500,Outdoor,Hard,2nd Round,3,Hurkacz H.,Gasquet R.,35,49.0,1645,1185.0,6,3,6,4,0,0,0,0,0,0,2021-015
+Dubai ,Dubai Tennis Championships,2021-03-16,ATP500,Outdoor,Hard,2nd Round,3,Karatsev A.,Evans D.,42,28.0,1395,1813.0,6,4,4,6,6,4,0,0,0,0,2021-015
+Dubai ,Dubai Tennis Championships,2021-03-16,ATP500,Outdoor,Hard,2nd Round,3,Shapovalov D.,Struff J.L.,12,39.0,2865,1450.0,6,1,6,3,0,0,0,0,0,0,2021-015
+Dubai ,Dubai Tennis Championships,2021-03-16,ATP500,Outdoor,Hard,2nd Round,3,Khachanov K.,Popyrin A.,22,86.0,2200,863.0,6,4,3,6,7,6,0,0,0,0,2021-015
+Dubai ,Dubai Tennis Championships,2021-03-16,ATP500,Outdoor,Hard,2nd Round,3,Sinner J.,Bublik A.,32,43.0,1719,1385.0,2,6,7,6,6,4,0,0,0,0,2021-015
+Dubai ,Dubai Tennis Championships,2021-03-16,ATP500,Outdoor,Hard,2nd Round,3,Lajovic D.,Jaziri M.,26,258.0,1895,229.0,7,5,6,2,0,0,0,0,0,0,2021-015
+Dubai ,Dubai Tennis Championships,2021-03-16,ATP500,Outdoor,Hard,2nd Round,3,Rublev A.,Ruusuvuori E.,8,87.0,5011,861.0,6,4,6,4,0,0,0,0,0,0,2021-015
+Dubai ,Dubai Tennis Championships,2021-03-16,ATP500,Outdoor,Hard,2nd Round,3,Bedene A.,Giustino L.,59,163.0,1085,443.0,6,4,6,3,0,0,0,0,0,0,2021-015
+Dubai ,Dubai Tennis Championships,2021-03-16,ATP500,Outdoor,Hard,2nd Round,3,Bautista Agut R.,Ebden M.,11,221.0,2910,297.0,4,1,0,0,0,0,0,0,0,0,2021-015
+Dubai ,Dubai Tennis Championships,2021-03-16,ATP500,Outdoor,Hard,2nd Round,3,Fucsovics M.,Carreno Busta P.,44,15.0,1382,2630.0,6,7,6,3,6,2,0,0,0,0,2021-015
+Dubai ,Dubai Tennis Championships,2021-03-16,ATP500,Outdoor,Hard,2nd Round,3,Fritz T.,Basilashvili N.,30,36.0,1775,1645.0,4,6,6,3,7,6,0,0,0,0,2021-015
+Dubai ,Dubai Tennis Championships,2021-03-16,ATP500,Outdoor,Hard,2nd Round,3,Nishikori K.,Goffin D.,41,13.0,1423,2795.0,6,3,7,6,0,0,0,0,0,0,2021-015
+Dubai ,Dubai Tennis Championships,2021-03-16,ATP500,Outdoor,Hard,2nd Round,3,Krajinovic F.,Davidovich Fokina A.,33,52.0,1665,1144.0,7,5,6,4,0,0,0,0,0,0,2021-015
+Dubai ,Dubai Tennis Championships,2021-03-16,ATP500,Outdoor,Hard,2nd Round,3,Harris L.,Thiem D.,81,4.0,885,8625.0,6,3,6,4,0,0,0,0,0,0,2021-015
+Dubai ,Dubai Tennis Championships,2021-03-17,ATP500,Outdoor,Hard,3rd Round,3,Shapovalov D.,Hurkacz H.,12,35.0,2865,1645.0,6,4,6,3,0,0,0,0,0,0,2021-015
+Dubai ,Dubai Tennis Championships,2021-03-17,ATP500,Outdoor,Hard,3rd Round,3,Chardy J.,Khachanov K.,53,22.0,1120,2200.0,6,7,6,4,6,4,0,0,0,0,2021-015
+Dubai ,Dubai Tennis Championships,2021-03-17,ATP500,Outdoor,Hard,3rd Round,3,Sinner J.,Bautista Agut R.,32,11.0,1719,2910.0,6,4,3,6,7,5,0,0,0,0,2021-015
+Dubai ,Dubai Tennis Championships,2021-03-17,ATP500,Outdoor,Hard,3rd Round,3,Karatsev A.,Sonego L.,42,37.0,1395,1643.0,3,6,6,3,6,4,0,0,0,0,2021-015
+Dubai ,Dubai Tennis Championships,2021-03-17,ATP500,Outdoor,Hard,3rd Round,3,Nishikori K.,Bedene A.,41,59.0,1423,1085.0,6,4,6,4,0,0,0,0,0,0,2021-015
+Dubai ,Dubai Tennis Championships,2021-03-17,ATP500,Outdoor,Hard,3rd Round,3,Fucsovics M.,Lajovic D.,44,26.0,1382,1895.0,6,1,4,6,6,4,0,0,0,0,2021-015
+Dubai ,Dubai Tennis Championships,2021-03-17,ATP500,Outdoor,Hard,3rd Round,3,Rublev A.,Fritz T.,8,30.0,5011,1775.0,6,3,6,1,0,0,0,0,0,0,2021-015
+Dubai ,Dubai Tennis Championships,2021-03-17,ATP500,Outdoor,Hard,3rd Round,3,Harris L.,Krajinovic F.,81,33.0,885,1665.0,7,6,6,4,0,0,0,0,0,0,2021-015
+Dubai ,Dubai Tennis Championships,2021-03-18,ATP500,Outdoor,Hard,Quarterfinals,3,Shapovalov D.,Chardy J.,12,53.0,2865,1120.0,7,5,6,4,0,0,0,0,0,0,2021-015
+Dubai ,Dubai Tennis Championships,2021-03-18,ATP500,Outdoor,Hard,Quarterfinals,3,Karatsev A.,Sinner J.,42,32.0,1395,1719.0,6,7,6,3,6,2,0,0,0,0,2021-015
+Dubai ,Dubai Tennis Championships,2021-03-18,ATP500,Outdoor,Hard,Quarterfinals,3,Harris L.,Nishikori K.,81,41.0,885,1423.0,6,1,3,6,6,3,0,0,0,0,2021-015
+Dubai ,Dubai Tennis Championships,2021-03-18,ATP500,Outdoor,Hard,Quarterfinals,3,Rublev A.,Fucsovics M.,8,44.0,5011,1382.0,7,5,6,2,0,0,0,0,0,0,2021-015
+Dubai ,Dubai Tennis Championships,2021-03-19,ATP500,Outdoor,Hard,Semifinals,3,Harris L.,Shapovalov D.,81,12.0,885,2865.0,6,7,6,4,7,6,0,0,0,0,2021-015
+Dubai ,Dubai Tennis Championships,2021-03-19,ATP500,Outdoor,Hard,Semifinals,3,Karatsev A.,Rublev A.,42,8.0,1395,5011.0,6,2,4,6,6,4,0,0,0,0,2021-015
+Dubai ,Dubai Tennis Championships,2021-03-20,ATP500,Outdoor,Hard,The Final,3,Karatsev A.,Harris L.,42,81.0,1395,885.0,6,3,6,2,0,0,0,0,0,0,2021-015
+Miami,Miami Open,2021-03-24,Masters 1000,Outdoor,Hard,1st Round,3,Popyrin A.,Lopez F.,86,64.0,873,1066.0,6,4,7,6,0,0,0,0,0,0,2021-016
+Miami,Miami Open,2021-03-24,Masters 1000,Outdoor,Hard,1st Round,3,Herbert P.H.,Sousa P.,74,111.0,972,716.0,6,1,6,3,0,0,0,0,0,0,2021-016
+Miami,Miami Open,2021-03-24,Masters 1000,Outdoor,Hard,1st Round,3,Norrie C.,Nishioka Y.,56,66.0,1140,1046.0,6,1,3,6,7,5,0,0,0,0,2021-016
+Miami,Miami Open,2021-03-24,Masters 1000,Outdoor,Hard,1st Round,3,Ymer M.,Tabilo A.,95,167.0,820,431.0,6,3,6,1,0,0,0,0,0,0,2021-016
+Miami,Miami Open,2021-03-24,Masters 1000,Outdoor,Hard,1st Round,3,Giron M.,Paul T.,88,53.0,864,1155.0,7,6,6,4,0,0,0,0,0,0,2021-016
+Miami,Miami Open,2021-03-24,Masters 1000,Outdoor,Hard,1st Round,3,Lu Y.,Querrey S.,1020,63.0,10,1073.0,6,3,6,4,0,0,0,0,0,0,2021-016
+Miami,Miami Open,2021-03-24,Masters 1000,Outdoor,Hard,1st Round,3,Gaston H.,Koepfer D.,162,54.0,445,1146.0,6,1,6,4,0,0,0,0,0,0,2021-016
+Miami,Miami Open,2021-03-24,Masters 1000,Outdoor,Hard,1st Round,3,Escobedo E.,Lorenzi P.,205,157.0,343,457.0,6,3,6,2,0,0,0,0,0,0,2021-016
+Miami,Miami Open,2021-03-24,Masters 1000,Outdoor,Hard,1st Round,3,Hanfmann Y.,Johnson S.,108,82.0,750,885.0,7,5,6,2,0,0,0,0,0,0,2021-016
+Miami,Miami Open,2021-03-24,Masters 1000,Outdoor,Hard,1st Round,3,Berankis R.,Gaio F.,89,142.0,860,526.0,7,6,6,2,0,0,0,0,0,0,2021-016
+Miami,Miami Open,2021-03-24,Masters 1000,Outdoor,Hard,1st Round,3,Duckworth J.,Zverev M.,104,280.0,771,209.0,6,2,4,6,6,4,0,0,0,0,2021-016
+Miami,Miami Open,2021-03-24,Masters 1000,Outdoor,Hard,1st Round,3,Harris L.,Nava E.,52,556.0,1175,57.0,6,4,7,6,0,0,0,0,0,0,2021-016
+Miami,Miami Open,2021-03-24,Masters 1000,Outdoor,Hard,1st Round,3,Mcdonald M.,Pospisil V.,120,67.0,633,1033.0,6,3,4,6,6,3,0,0,0,0,2021-016
+Miami,Miami Open,2021-03-24,Masters 1000,Outdoor,Hard,1st Round,3,Djere L.,Vesely J.,57,71.0,1131,993.0,6,3,5,7,6,1,0,0,0,0,2021-016
+Miami,Miami Open,2021-03-25,Masters 1000,Outdoor,Hard,1st Round,3,Ruusuvuori E.,Alcaraz C.,83,132.0,881,561.0,6,4,2,6,7,5,0,0,0,0,2021-016
+Miami,Miami Open,2021-03-25,Masters 1000,Outdoor,Hard,1st Round,3,Tiafoe F.,Travaglia S.,58,70.0,1120,1024.0,5,7,6,4,6,2,0,0,0,0,2021-016
+Miami,Miami Open,2021-03-25,Masters 1000,Outdoor,Hard,1st Round,3,Kokkinakis T.,Mochizuki S.,243,654.0,258,39.0,6,3,6,3,0,0,0,0,0,0,2021-016
+Miami,Miami Open,2021-03-25,Masters 1000,Outdoor,Hard,1st Round,3,Kukushkin M.,Draper J.,105,316.0,769,159.0,7,5,0,0,0,0,0,0,0,0,2021-016
+Miami,Miami Open,2021-03-25,Masters 1000,Outdoor,Hard,1st Round,3,Ivashka I.,Kwon S.W.,116,79.0,673,910.0,7,6,6,7,7,6,0,0,0,0,2021-016
+Miami,Miami Open,2021-03-25,Masters 1000,Outdoor,Hard,1st Round,3,Fratangelo B.,Verdasco F.,233,72.0,277,985.0,6,4,6,4,0,0,0,0,0,0,2021-016
+Miami,Miami Open,2021-03-25,Masters 1000,Outdoor,Hard,1st Round,3,Kudla D.,Chardy J.,123,49.0,608,1190.0,3,6,6,3,6,4,0,0,0,0,2021-016
+Miami,Miami Open,2021-03-25,Masters 1000,Outdoor,Hard,1st Round,3,Thompson J.,Delbonis F.,60,80.0,1104,906.0,7,6,6,4,0,0,0,0,0,0,2021-016
+Miami,Miami Open,2021-03-25,Masters 1000,Outdoor,Hard,1st Round,3,Uchiyama Y.,Caruso S.,110,85.0,716,876.0,6,3,6,4,0,0,0,0,0,0,2021-016
+Miami,Miami Open,2021-03-25,Masters 1000,Outdoor,Hard,1st Round,3,Cilic M.,Coria F.,45,84.0,1373,878.0,6,3,2,6,6,4,0,0,0,0,2021-016
+Miami,Miami Open,2021-03-25,Masters 1000,Outdoor,Hard,1st Round,3,Kecmanovic M.,Broady L.,46,158.0,1364,457.0,7,5,6,7,6,1,0,0,0,0,2021-016
+Miami,Miami Open,2021-03-25,Masters 1000,Outdoor,Hard,1st Round,3,Dzumhur D.,Anderson K.,126,91.0,599,845.0,7,6,7,5,0,0,0,0,0,0,2021-016
+Miami,Miami Open,2021-03-25,Masters 1000,Outdoor,Hard,1st Round,3,Galan D.E.,Seyboth Wild T.,113,125.0,702,606.0,6,3,6,4,0,0,0,0,0,0,2021-016
+Miami,Miami Open,2021-03-25,Masters 1000,Outdoor,Hard,1st Round,3,Sandgren T.,Martinez P.,62,93.0,1088,823.0,6,4,2,0,0,0,0,0,0,0,2021-016
+Miami,Miami Open,2021-03-25,Masters 1000,Outdoor,Hard,1st Round,3,Korda S.,Albot R.,87,77.0,865,936.0,6,3,6,0,0,0,0,0,0,0,2021-016
+Miami,Miami Open,2021-03-25,Masters 1000,Outdoor,Hard,1st Round,3,Musetti L.,Mmoh M.,94,181.0,823,393.0,6,4,6,4,0,0,0,0,0,0,2021-016
+Miami,Miami Open,2021-03-26,Masters 1000,Outdoor,Hard,1st Round,3,Sousa J.,O Connell C.,103,122.0,777,619.0,7,6,6,7,7,5,0,0,0,0,2021-016
+Miami,Miami Open,2021-03-26,Masters 1000,Outdoor,Hard,1st Round,3,Bedene A.,Fabbiano T.,59,178.0,1110,400.0,7,6,1,6,6,3,0,0,0,0,2021-016
+Miami,Miami Open,2021-03-26,Masters 1000,Outdoor,Hard,2nd Round,3,Popyrin A.,Opelka R.,86,41.0,873,1457.0,6,4,6,2,0,0,0,0,0,0,2021-016
+Miami,Miami Open,2021-03-26,Masters 1000,Outdoor,Hard,2nd Round,3,Duckworth J.,Goffin D.,104,13.0,771,2795.0,6,3,6,1,0,0,0,0,0,0,2021-016
+Miami,Miami Open,2021-03-26,Masters 1000,Outdoor,Hard,2nd Round,3,Lajovic D.,Escobedo E.,26,205.0,1895,343.0,6,2,6,3,0,0,0,0,0,0,2021-016
+Miami,Miami Open,2021-03-26,Masters 1000,Outdoor,Hard,2nd Round,3,Fritz T.,Giron M.,32,88.0,1775,864.0,6,2,6,2,0,0,0,0,0,0,2021-016
+Miami,Miami Open,2021-03-26,Masters 1000,Outdoor,Hard,2nd Round,3,Norrie C.,Dimitrov G.,56,16.0,1140,2620.0,7,5,7,5,0,0,0,0,0,0,2021-016
+Miami,Miami Open,2021-03-26,Masters 1000,Outdoor,Hard,2nd Round,3,Struff J.L.,Berankis R.,42,89.0,1450,860.0,6,3,6,4,0,0,0,0,0,0,2021-016
+Miami,Miami Open,2021-03-26,Masters 1000,Outdoor,Hard,2nd Round,3,Ymer M.,Basilashvili N.,95,38.0,820,1645.0,6,3,4,6,6,4,0,0,0,0,2021-016
+Miami,Miami Open,2021-03-26,Masters 1000,Outdoor,Hard,2nd Round,3,Sinner J.,Gaston H.,31,162.0,1789,445.0,6,2,6,2,0,0,0,0,0,0,2021-016
+Miami,Miami Open,2021-03-26,Masters 1000,Outdoor,Hard,2nd Round,3,Auger-Aliassime F.,Herbert P.H.,18,74.0,2561,972.0,6,4,6,4,0,0,0,0,0,0,2021-016
+Miami,Miami Open,2021-03-26,Masters 1000,Outdoor,Hard,2nd Round,3,Medvedev D.,Lu Y.,2,1020.0,9940,10.0,6,2,6,2,0,0,0,0,0,0,2021-016
+Miami,Miami Open,2021-03-26,Masters 1000,Outdoor,Hard,2nd Round,3,Khachanov K.,Hanfmann Y.,22,108.0,2200,750.0,6,3,6,2,0,0,0,0,0,0,2021-016
+Miami,Miami Open,2021-03-26,Masters 1000,Outdoor,Hard,2nd Round,3,Bautista Agut R.,Harris L.,12,52.0,2910,1175.0,0,0,0,0,0,0,0,0,0,0,2021-016
+Miami,Miami Open,2021-03-26,Masters 1000,Outdoor,Hard,2nd Round,3,Ruusuvuori E.,Zverev A.,83,7.0,881,6070.0,1,6,6,3,6,1,0,0,0,0,2021-016
+Miami,Miami Open,2021-03-26,Masters 1000,Outdoor,Hard,2nd Round,3,Bublik A.,Djere L.,44,57.0,1385,1131.0,6,3,6,4,0,0,0,0,0,0,2021-016
+Miami,Miami Open,2021-03-26,Masters 1000,Outdoor,Hard,2nd Round,3,Tiafoe F.,Evans D.,58,29.0,1120,1813.0,6,7,6,3,6,3,0,0,0,0,2021-016
+Miami,Miami Open,2021-03-27,Masters 1000,Outdoor,Hard,2nd Round,3,Isner J.,Mcdonald M.,28,120.0,1850,633.0,2,6,6,3,7,5,0,0,0,0,2021-016
+Miami,Miami Open,2021-03-27,Masters 1000,Outdoor,Hard,2nd Round,3,Sonego L.,Fratangelo B.,34,233.0,1668,277.0,6,4,7,6,0,0,0,0,0,0,2021-016
+Miami,Miami Open,2021-03-27,Masters 1000,Outdoor,Hard,2nd Round,3,Nishikori K.,Bedene A.,39,59.0,1513,1110.0,7,6,5,7,6,4,0,0,0,0,2021-016
+Miami,Miami Open,2021-03-27,Masters 1000,Outdoor,Hard,2nd Round,3,Raonic M.,Thompson J.,19,60.0,2450,1104.0,6,2,6,1,0,0,0,0,0,0,2021-016
+Miami,Miami Open,2021-03-27,Masters 1000,Outdoor,Hard,2nd Round,3,Hurkacz H.,Kudla D.,37,123.0,1645,608.0,7,6,6,4,0,0,0,0,0,0,2021-016
+Miami,Miami Open,2021-03-27,Masters 1000,Outdoor,Hard,2nd Round,3,Tsitsipas S.,Dzumhur D.,5,126.0,6950,599.0,6,1,6,4,0,0,0,0,0,0,2021-016
+Miami,Miami Open,2021-03-27,Masters 1000,Outdoor,Hard,2nd Round,3,Musetti L.,Paire B.,94,33.0,823,1773.0,6,3,6,3,0,0,0,0,0,0,2021-016
+Miami,Miami Open,2021-03-27,Masters 1000,Outdoor,Hard,2nd Round,3,Galan D.E.,De Minaur A.,113,23.0,702,2190.0,4,6,6,3,6,4,0,0,0,0,2021-016
+Miami,Miami Open,2021-03-27,Masters 1000,Outdoor,Hard,2nd Round,3,Cilic M.,Garin C.,45,20.0,1373,2385.0,3,6,7,5,7,6,0,0,0,0,2021-016
+Miami,Miami Open,2021-03-27,Masters 1000,Outdoor,Hard,2nd Round,3,Karatsev A.,Kukushkin M.,27,105.0,1888,769.0,6,4,6,3,0,0,0,0,0,0,2021-016
+Miami,Miami Open,2021-03-27,Masters 1000,Outdoor,Hard,2nd Round,3,Humbert U.,Sousa J.,30,103.0,1790,777.0,6,1,6,4,0,0,0,0,0,0,2021-016
+Miami,Miami Open,2021-03-27,Masters 1000,Outdoor,Hard,2nd Round,3,Mannarino A.,Kecmanovic M.,36,46.0,1661,1364.0,6,3,6,4,0,0,0,0,0,0,2021-016
+Miami,Miami Open,2021-03-27,Masters 1000,Outdoor,Hard,2nd Round,3,Shapovalov D.,Ivashka I.,11,116.0,3000,673.0,6,7,6,4,6,4,0,0,0,0,2021-016
+Miami,Miami Open,2021-03-27,Masters 1000,Outdoor,Hard,2nd Round,3,Fucsovics M.,Kokkinakis T.,40,243.0,1462,258.0,7,6,6,7,6,4,0,0,0,0,2021-016
+Miami,Miami Open,2021-03-27,Masters 1000,Outdoor,Hard,2nd Round,3,Rublev A.,Sandgren T.,8,62.0,5101,1088.0,6,1,6,2,0,0,0,0,0,0,2021-016
+Miami,Miami Open,2021-03-28,Masters 1000,Outdoor,Hard,2nd Round,3,Korda S.,Fognini F.,87,17.0,865,2570.0,1,6,6,4,6,2,0,0,0,0,2021-016
+Miami,Miami Open,2021-03-28,Masters 1000,Outdoor,Hard,2nd Round,3,Schwartzman D.,Uchiyama Y.,9,110.0,3640,716.0,6,3,6,3,0,0,0,0,0,0,2021-016
+Miami,Miami Open,2021-03-28,Masters 1000,Outdoor,Hard,3rd Round,3,Bautista Agut R.,Struff J.L.,12,42.0,2910,1450.0,4,6,6,3,6,2,0,0,0,0,2021-016
+Miami,Miami Open,2021-03-28,Masters 1000,Outdoor,Hard,3rd Round,3,Isner J.,Auger-Aliassime F.,28,18.0,1850,2561.0,7,6,7,6,0,0,0,0,0,0,2021-016
+Miami,Miami Open,2021-03-28,Masters 1000,Outdoor,Hard,3rd Round,3,Sinner J.,Khachanov K.,31,22.0,1789,2200.0,4,6,7,6,6,4,0,0,0,0,2021-016
+Miami,Miami Open,2021-03-28,Masters 1000,Outdoor,Hard,3rd Round,3,Medvedev D.,Popyrin A.,2,86.0,9940,873.0,7,6,6,7,6,4,0,0,0,0,2021-016
+Miami,Miami Open,2021-03-28,Masters 1000,Outdoor,Hard,3rd Round,3,Ruusuvuori E.,Ymer M.,83,95.0,881,820.0,4,6,6,1,7,5,0,0,0,0,2021-016
+Miami,Miami Open,2021-03-29,Masters 1000,Outdoor,Hard,3rd Round,3,Fritz T.,Norrie C.,32,56.0,1775,1140.0,6,4,3,6,6,1,0,0,0,0,2021-016
+Miami,Miami Open,2021-03-29,Masters 1000,Outdoor,Hard,3rd Round,3,Bublik A.,Duckworth J.,44,104.0,1385,771.0,6,4,6,4,0,0,0,0,0,0,2021-016
+Miami,Miami Open,2021-03-29,Masters 1000,Outdoor,Hard,3rd Round,3,Tiafoe F.,Lajovic D.,58,26.0,1120,1895.0,1,6,7,5,6,3,0,0,0,0,2021-016
+Miami,Miami Open,2021-03-29,Masters 1000,Outdoor,Hard,3rd Round,3,Raonic M.,Humbert U.,19,30.0,2450,1790.0,6,4,7,5,0,0,0,0,0,0,2021-016
+Miami,Miami Open,2021-03-29,Masters 1000,Outdoor,Hard,3rd Round,3,Cilic M.,Musetti L.,45,94.0,1373,823.0,6,3,6,4,0,0,0,0,0,0,2021-016
+Miami,Miami Open,2021-03-29,Masters 1000,Outdoor,Hard,3rd Round,3,Hurkacz H.,Shapovalov D.,37,11.0,1645,3000.0,6,3,7,6,0,0,0,0,0,0,2021-016
+Miami,Miami Open,2021-03-29,Masters 1000,Outdoor,Hard,3rd Round,3,Rublev A.,Fucsovics M.,8,40.0,5101,1462.0,6,2,6,1,0,0,0,0,0,0,2021-016
+Miami,Miami Open,2021-03-29,Masters 1000,Outdoor,Hard,3rd Round,3,Schwartzman D.,Mannarino A.,9,36.0,3640,1661.0,6,1,6,4,0,0,0,0,0,0,2021-016
+Miami,Miami Open,2021-03-29,Masters 1000,Outdoor,Hard,3rd Round,3,Korda S.,Karatsev A.,87,27.0,865,1888.0,6,3,6,0,0,0,0,0,0,0,2021-016
+Miami,Miami Open,2021-03-29,Masters 1000,Outdoor,Hard,3rd Round,3,Sonego L.,Galan D.E.,34,113.0,1668,702.0,7,6,6,3,0,0,0,0,0,0,2021-016
+Miami,Miami Open,2021-03-30,Masters 1000,Outdoor,Hard,3rd Round,3,Tsitsipas S.,Nishikori K.,5,39.0,6950,1513.0,6,3,3,6,6,1,0,0,0,0,2021-016
+Miami,Miami Open,2021-03-30,Masters 1000,Outdoor,Hard,4th Round,3,Bautista Agut R.,Isner J.,12,28.0,2910,1850.0,6,3,4,6,7,6,0,0,0,0,2021-016
+Miami,Miami Open,2021-03-30,Masters 1000,Outdoor,Hard,4th Round,3,Sinner J.,Ruusuvuori E.,31,83.0,1789,881.0,6,3,6,2,0,0,0,0,0,0,2021-016
+Miami,Miami Open,2021-03-30,Masters 1000,Outdoor,Hard,4th Round,3,Bublik A.,Fritz T.,44,32.0,1385,1775.0,6,7,6,3,6,4,0,0,0,0,2021-016
+Miami,Miami Open,2021-03-30,Masters 1000,Outdoor,Hard,4th Round,3,Hurkacz H.,Raonic M.,37,19.0,1645,2450.0,4,6,6,3,7,6,0,0,0,0,2021-016
+Miami,Miami Open,2021-03-30,Masters 1000,Outdoor,Hard,4th Round,3,Medvedev D.,Tiafoe F.,2,58.0,9940,1120.0,6,4,6,3,0,0,0,0,0,0,2021-016
+Miami,Miami Open,2021-03-30,Masters 1000,Outdoor,Hard,4th Round,3,Korda S.,Schwartzman D.,87,9.0,865,3640.0,6,3,4,6,7,5,0,0,0,0,2021-016
+Miami,Miami Open,2021-03-31,Masters 1000,Outdoor,Hard,4th Round,3,Rublev A.,Cilic M.,8,45.0,5101,1373.0,6,4,6,4,0,0,0,0,0,0,2021-016
+Miami,Miami Open,2021-03-31,Masters 1000,Outdoor,Hard,4th Round,3,Tsitsipas S.,Sonego L.,5,34.0,6950,1668.0,6,2,7,6,0,0,0,0,0,0,2021-016
+Miami,Miami Open,2021-03-31,Masters 1000,Outdoor,Hard,Quarterfinals,3,Sinner J.,Bublik A.,31,44.0,1789,1385.0,7,6,6,4,0,0,0,0,0,0,2021-016
+Miami,Miami Open,2021-04-01,Masters 1000,Outdoor,Hard,Quarterfinals,3,Bautista Agut R.,Medvedev D.,12,2.0,2910,9940.0,6,4,6,2,0,0,0,0,0,0,2021-016
+Miami,Miami Open,2021-04-01,Masters 1000,Outdoor,Hard,Quarterfinals,3,Hurkacz H.,Tsitsipas S.,37,5.0,1645,6950.0,2,6,6,3,6,4,0,0,0,0,2021-016
+Miami,Miami Open,2021-04-02,Masters 1000,Outdoor,Hard,Quarterfinals,3,Rublev A.,Korda S.,8,87.0,5101,865.0,7,5,7,6,0,0,0,0,0,0,2021-016
+Miami,Miami Open,2021-04-02,Masters 1000,Outdoor,Hard,Semifinals,3,Sinner J.,Bautista Agut R.,31,12.0,1789,2910.0,5,7,6,4,6,4,0,0,0,0,2021-016
+Miami,Miami Open,2021-04-03,Masters 1000,Outdoor,Hard,Semifinals,3,Hurkacz H.,Rublev A.,37,8.0,1645,5101.0,6,3,6,4,0,0,0,0,0,0,2021-016
+Miami,Miami Open,2021-04-04,Masters 1000,Outdoor,Hard,The Final,3,Hurkacz H.,Sinner J.,37,31.0,1645,1789.0,7,6,6,4,0,0,0,0,0,0,2021-016
+Cagliari,Sardegna Open,2021-04-05,ATP250,Outdoor,Hard,1st Round,3,Gerasimov E.,Pella G.,80,48.0,936,1298.0,6,4,6,0,0,0,0,0,0,0,2021-017
+Cagliari,Sardegna Open,2021-04-05,ATP250,Outdoor,Hard,1st Round,3,Djere L.,Gaio F.,57,137.0,1133,534.0,6,4,6,2,0,0,0,0,0,0,2021-017
+Cagliari,Sardegna Open,2021-04-05,ATP250,Outdoor,Hard,1st Round,3,Hanfmann Y.,Paul T.,105,53.0,767,1155.0,7,6,5,7,6,3,0,0,0,0,2021-017
+Cagliari,Sardegna Open,2021-04-05,ATP250,Outdoor,Hard,1st Round,3,Bedene A.,Zeppieri G.,58,313.0,1125,162.0,1,6,7,5,7,6,0,0,0,0,2021-017
+Cagliari,Sardegna Open,2021-04-06,ATP250,Outdoor,Hard,1st Round,3,Struff J.L.,Sousa J.,41,107.0,1485,757.0,1,6,6,1,7,5,0,0,0,0,2021-017
+Cagliari,Sardegna Open,2021-04-06,ATP250,Outdoor,Hard,1st Round,3,Millman J.,Coria F.,44,86.0,1436,878.0,7,6,3,6,6,3,0,0,0,0,2021-017
+Cagliari,Sardegna Open,2021-04-06,ATP250,Outdoor,Hard,1st Round,3,Broady L.,Huesler M.A.,152,151.0,476,491.0,6,1,6,3,0,0,0,0,0,0,2021-017
+Cagliari,Sardegna Open,2021-04-06,ATP250,Outdoor,Hard,1st Round,3,Musetti L.,Novak D.,90,101.0,861,785.0,6,0,6,1,0,0,0,0,0,0,2021-017
+Cagliari,Sardegna Open,2021-04-06,ATP250,Outdoor,Hard,1st Round,3,Kovalik J.,Nagal S.,128,136.0,583,542.0,3,6,6,1,6,3,0,0,0,0,2021-017
+Cagliari,Sardegna Open,2021-04-06,ATP250,Outdoor,Hard,1st Round,3,Cecchinato M.,Fabbiano T.,93,172.0,834,416.0,6,4,4,6,6,3,0,0,0,0,2021-017
+Cagliari,Sardegna Open,2021-04-06,ATP250,Outdoor,Hard,1st Round,3,Martin A.,Vesely J.,106,72.0,763,993.0,6,4,2,6,6,1,0,0,0,0,2021-017
+Cagliari,Sardegna Open,2021-04-06,ATP250,Outdoor,Hard,1st Round,3,Simon G.,Travaglia S.,63,69.0,1047,1024.0,1,6,6,3,6,4,0,0,0,0,2021-017
+Cagliari,Sardegna Open,2021-04-07,ATP250,Outdoor,Hard,2nd Round,3,Struff J.L.,Broady L.,41,152.0,1485,476.0,6,4,6,2,0,0,0,0,0,0,2021-017
+Cagliari,Sardegna Open,2021-04-07,ATP250,Outdoor,Hard,2nd Round,3,Bedene A.,Gerasimov E.,58,80.0,1125,936.0,6,4,7,6,0,0,0,0,0,0,2021-017
+Cagliari,Sardegna Open,2021-04-07,ATP250,Outdoor,Hard,2nd Round,3,Basilashvili N.,Kovalik J.,37,128.0,1600,583.0,4,6,6,4,7,5,0,0,0,0,2021-017
+Cagliari,Sardegna Open,2021-04-07,ATP250,Outdoor,Hard,2nd Round,3,Fritz T.,Martin A.,30,106.0,1855,763.0,6,2,7,6,0,0,0,0,0,0,2021-017
+Cagliari,Sardegna Open,2021-04-08,ATP250,Outdoor,Hard,2nd Round,3,Hanfmann Y.,Cecchinato M.,105,93.0,767,834.0,7,5,6,1,0,0,0,0,0,0,2021-017
+Cagliari,Sardegna Open,2021-04-08,ATP250,Outdoor,Hard,2nd Round,3,Musetti L.,Evans D.,90,32.0,861,1825.0,6,1,1,6,7,6,0,0,0,0,2021-017
+Cagliari,Sardegna Open,2021-04-08,ATP250,Outdoor,Hard,2nd Round,3,Sonego L.,Simon G.,34,63.0,1717,1047.0,6,4,6,1,0,0,0,0,0,0,2021-017
+Cagliari,Sardegna Open,2021-04-08,ATP250,Outdoor,Hard,2nd Round,3,Djere L.,Millman J.,57,44.0,1133,1436.0,6,3,6,3,0,0,0,0,0,0,2021-017
+Cagliari,Sardegna Open,2021-04-09,ATP250,Outdoor,Hard,Quarterfinals,3,Fritz T.,Bedene A.,30,58.0,1855,1125.0,6,3,6,4,0,0,0,0,0,0,2021-017
+Cagliari,Sardegna Open,2021-04-09,ATP250,Outdoor,Hard,Quarterfinals,3,Sonego L.,Hanfmann Y.,34,105.0,1717,767.0,3,6,7,6,6,3,0,0,0,0,2021-017
+Cagliari,Sardegna Open,2021-04-09,ATP250,Outdoor,Hard,Quarterfinals,3,Djere L.,Musetti L.,57,90.0,1133,861.0,6,4,4,6,6,2,0,0,0,0,2021-017
+Cagliari,Sardegna Open,2021-04-09,ATP250,Outdoor,Hard,Quarterfinals,3,Basilashvili N.,Struff J.L.,37,41.0,1600,1485.0,7,5,4,6,6,3,0,0,0,0,2021-017
+Cagliari,Sardegna Open,2021-04-10,ATP250,Outdoor,Hard,Semifinals,3,Sonego L.,Fritz T.,34,30.0,1717,1855.0,6,4,5,7,6,1,0,0,0,0,2021-017
+Cagliari,Sardegna Open,2021-04-10,ATP250,Outdoor,Hard,Semifinals,3,Djere L.,Basilashvili N.,57,37.0,1133,1600.0,6,2,6,0,0,0,0,0,0,0,2021-017
+Cagliari,Sardegna Open,2021-04-11,ATP250,Outdoor,Hard,The Final,3,Sonego L.,Djere L.,34,57.0,1717,1133.0,2,6,7,6,6,4,0,0,0,0,2021-017
+Marbella,AnyTech365 Andalucia Open,2021-04-05,ATP250,Outdoor,Hard,1st Round,3,Berankis R.,Pouille L.,88,84.0,871,894.0,6,4,6,7,7,5,0,0,0,0,2021-018
+Marbella,AnyTech365 Andalucia Open,2021-04-05,ATP250,Outdoor,Hard,1st Round,3,Kwon S.W.,Rune H.,81,321.0,910,159.0,6,3,3,6,7,6,0,0,0,0,2021-018
+Marbella,AnyTech365 Andalucia Open,2021-04-05,ATP250,Outdoor,Hard,1st Round,3,Gombos N.,Londero J.I.,99,94.0,792,832.0,6,7,6,1,6,3,0,0,0,0,2021-018
+Marbella,AnyTech365 Andalucia Open,2021-04-05,ATP250,Outdoor,Hard,1st Round,3,Delbonis F.,Carballes Baena R.,85,98.0,884,801.0,7,5,6,1,0,0,0,0,0,0,2021-018
+Marbella,AnyTech365 Andalucia Open,2021-04-06,ATP250,Outdoor,Hard,1st Round,3,Alcaraz C.,Milojevic N.,133,129.0,560,582.0,7,6,6,3,0,0,0,0,0,0,2021-018
+Marbella,AnyTech365 Andalucia Open,2021-04-06,ATP250,Outdoor,Hard,1st Round,3,Ivashka I.,Martinez P.,115,100.0,673,787.0,6,3,7,6,0,0,0,0,0,0,2021-018
+Marbella,AnyTech365 Andalucia Open,2021-04-06,ATP250,Outdoor,Hard,1st Round,3,Bagnis F.,Cerundolo F.,104,114.0,768,686.0,6,3,7,6,0,0,0,0,0,0,2021-018
+Marbella,AnyTech365 Andalucia Open,2021-04-06,ATP250,Outdoor,Hard,1st Round,3,Vilella Martinez M.,Zapata Miralles B.,188,146.0,375,512.0,6,2,6,3,0,0,0,0,0,0,2021-018
+Marbella,AnyTech365 Andalucia Open,2021-04-06,ATP250,Outdoor,Hard,1st Round,3,Lopez F.,Daniel T.,64,117.0,1042,652.0,6,4,6,4,0,0,0,0,0,0,2021-018
+Marbella,AnyTech365 Andalucia Open,2021-04-06,ATP250,Outdoor,Hard,1st Round,3,Munar J.,Laaksonen H.,95,135.0,815,548.0,6,4,6,1,0,0,0,0,0,0,2021-018
+Marbella,AnyTech365 Andalucia Open,2021-04-06,ATP250,Outdoor,Hard,1st Round,3,Mager G.,Kukushkin M.,91,102.0,843,784.0,7,5,6,3,0,0,0,0,0,0,2021-018
+Marbella,AnyTech365 Andalucia Open,2021-04-06,ATP250,Outdoor,Hard,1st Round,3,Davidovich Fokina A.,Dzumhur D.,56,126.0,1135,607.0,6,7,6,2,6,2,0,0,0,0,2021-018
+Marbella,AnyTech365 Andalucia Open,2021-04-07,ATP250,Outdoor,Hard,2nd Round,3,Gombos N.,Delbonis F.,99,85.0,792,884.0,5,7,7,6,7,6,0,0,0,0,2021-018
+Marbella,AnyTech365 Andalucia Open,2021-04-07,ATP250,Outdoor,Hard,2nd Round,3,Kwon S.W.,Bagnis F.,81,104.0,910,768.0,6,1,6,3,0,0,0,0,0,0,2021-018
+Marbella,AnyTech365 Andalucia Open,2021-04-07,ATP250,Outdoor,Hard,2nd Round,3,Ramos-Vinolas A.,Berankis R.,47,88.0,1360,871.0,6,3,4,6,6,3,0,0,0,0,2021-018
+Marbella,AnyTech365 Andalucia Open,2021-04-07,ATP250,Outdoor,Hard,2nd Round,3,Carreno Busta P.,Vilella Martinez M.,15,188.0,2630,375.0,7,6,6,3,0,0,0,0,0,0,2021-018
+Marbella,AnyTech365 Andalucia Open,2021-04-08,ATP250,Outdoor,Hard,2nd Round,3,Ivashka I.,Davidovich Fokina A.,115,56.0,673,1135.0,6,1,6,3,0,0,0,0,0,0,2021-018
+Marbella,AnyTech365 Andalucia Open,2021-04-08,ATP250,Outdoor,Hard,2nd Round,3,Munar J.,Fognini F.,95,18.0,815,2548.0,6,2,6,1,0,0,0,0,0,0,2021-018
+Marbella,AnyTech365 Andalucia Open,2021-04-08,ATP250,Outdoor,Hard,2nd Round,3,Ruud C.,Mager G.,26,91.0,1973,843.0,6,3,6,2,0,0,0,0,0,0,2021-018
+Marbella,AnyTech365 Andalucia Open,2021-04-08,ATP250,Outdoor,Hard,2nd Round,3,Alcaraz C.,Lopez F.,133,64.0,560,1042.0,4,6,6,2,6,4,0,0,0,0,2021-018
+Marbella,AnyTech365 Andalucia Open,2021-04-09,ATP250,Outdoor,Hard,Quarterfinals,3,Ramos-Vinolas A.,Gombos N.,47,99.0,1360,792.0,6,7,7,5,6,4,0,0,0,0,2021-018
+Marbella,AnyTech365 Andalucia Open,2021-04-09,ATP250,Outdoor,Hard,Quarterfinals,3,Munar J.,Ivashka I.,95,115.0,815,673.0,6,7,6,4,6,4,0,0,0,0,2021-018
+Marbella,AnyTech365 Andalucia Open,2021-04-09,ATP250,Outdoor,Hard,Quarterfinals,3,Carreno Busta P.,Kwon S.W.,15,81.0,2630,910.0,6,4,6,0,0,0,0,0,0,0,2021-018
+Marbella,AnyTech365 Andalucia Open,2021-04-09,ATP250,Outdoor,Hard,Quarterfinals,3,Alcaraz C.,Ruud C.,133,26.0,560,1973.0,6,2,6,4,0,0,0,0,0,0,2021-018
+Marbella,AnyTech365 Andalucia Open,2021-04-10,ATP250,Outdoor,Hard,Semifinals,3,Carreno Busta P.,Ramos-Vinolas A.,15,47.0,2630,1360.0,6,1,3,6,7,6,0,0,0,0,2021-018
+Marbella,AnyTech365 Andalucia Open,2021-04-10,ATP250,Outdoor,Hard,Semifinals,3,Munar J.,Alcaraz C.,95,133.0,815,560.0,7,6,6,4,0,0,0,0,0,0,2021-018
+Marbella,AnyTech365 Andalucia Open,2021-04-11,ATP250,Outdoor,Hard,The Final,3,Carreno Busta P.,Munar J.,15,95.0,2630,815.0,6,1,2,6,6,4,0,0,0,0,2021-018
+Monte Carlo,Monte Carlo Masters,2021-04-11,Masters 1000,Outdoor,Clay,1st Round,3,Goffin D.,Cilic M.,15,43.0,2750,1453.0,6,4,3,6,6,0,0,0,0,0,2021-019
+Monte Carlo,Monte Carlo Masters,2021-04-11,Masters 1000,Outdoor,Clay,1st Round,3,Thompson J.,Paire B.,63,35.0,1037,1680.0,6,4,6,7,7,6,0,0,0,0,2021-019
+Monte Carlo,Monte Carlo Masters,2021-04-12,Masters 1000,Outdoor,Clay,1st Round,3,Davidovich Fokina A.,De Minaur A.,58,25.0,1135,2235.0,6,4,7,6,0,0,0,0,0,0,2021-019
+Monte Carlo,Monte Carlo Masters,2021-04-12,Masters 1000,Outdoor,Clay,1st Round,3,Karatsev A.,Musetti L.,29,84.0,1918,899.0,6,3,6,4,0,0,0,0,0,0,2021-019
+Monte Carlo,Monte Carlo Masters,2021-04-12,Masters 1000,Outdoor,Clay,1st Round,3,Millman J.,Humbert U.,44,32.0,1436,1825.0,6,3,6,3,0,0,0,0,0,0,2021-019
+Monte Carlo,Monte Carlo Masters,2021-04-12,Masters 1000,Outdoor,Clay,1st Round,3,Paul T.,Martinez P.,54,100.0,1155,787.0,4,1,0,0,0,0,0,0,0,0,2021-019
+Monte Carlo,Monte Carlo Masters,2021-04-13,Masters 1000,Outdoor,Clay,1st Round,3,Cecchinato M.,Koepfer D.,92,56.0,836,1146.0,6,4,6,3,0,0,0,0,0,0,2021-019
+Monte Carlo,Monte Carlo Masters,2021-04-13,Masters 1000,Outdoor,Clay,1st Round,3,Sinner J.,Ramos-Vinolas A.,22,46.0,2369,1405.0,6,3,6,4,0,0,0,0,0,0,2021-019
+Monte Carlo,Monte Carlo Masters,2021-04-13,Masters 1000,Outdoor,Clay,1st Round,3,Delbonis F.,Mannarino A.,87,34.0,884,1681.0,7,5,6,1,0,0,0,0,0,0,2021-019
+Monte Carlo,Monte Carlo Masters,2021-04-13,Masters 1000,Outdoor,Clay,1st Round,3,Pouille L.,Pella G.,86,48.0,894,1298.0,6,3,6,4,0,0,0,0,0,0,2021-019
+Monte Carlo,Monte Carlo Masters,2021-04-13,Masters 1000,Outdoor,Clay,1st Round,3,Fognini F.,Kecmanovic M.,18,47.0,2548,1364.0,6,2,7,5,0,0,0,0,0,0,2021-019
+Monte Carlo,Monte Carlo Masters,2021-04-13,Masters 1000,Outdoor,Clay,1st Round,3,Hurkacz H.,Fabbiano T.,16,171.0,2600,416.0,6,3,3,6,6,3,0,0,0,0,2021-019
+Monte Carlo,Monte Carlo Masters,2021-04-13,Masters 1000,Outdoor,Clay,1st Round,3,Evans D.,Lajovic D.,33,31.0,1825,1895.0,6,3,6,7,6,2,0,0,0,0,2021-019
+Monte Carlo,Monte Carlo Masters,2021-04-13,Masters 1000,Outdoor,Clay,1st Round,3,Garin C.,Auger-Aliassime F.,24,21.0,2260,2373.0,7,6,6,1,0,0,0,0,0,0,2021-019
+Monte Carlo,Monte Carlo Masters,2021-04-13,Masters 1000,Outdoor,Clay,1st Round,3,Chardy J.,Bublik A.,53,42.0,1168,1462.0,6,4,0,6,7,5,0,0,0,0,2021-019
+Monte Carlo,Monte Carlo Masters,2021-04-13,Masters 1000,Outdoor,Clay,1st Round,3,Caruso S.,Catarina L.,89,388.0,876,113.0,6,7,7,6,6,3,0,0,0,0,2021-019
+Monte Carlo,Monte Carlo Masters,2021-04-13,Masters 1000,Outdoor,Clay,1st Round,3,Bautista Agut R.,Fritz T.,11,30.0,3090,1900.0,6,2,7,5,0,0,0,0,0,0,2021-019
+Monte Carlo,Monte Carlo Masters,2021-04-13,Masters 1000,Outdoor,Clay,1st Round,3,Popyrin A.,Andujar P.,83,80.0,906,935.0,0,6,6,2,7,6,0,0,0,0,2021-019
+Monte Carlo,Monte Carlo Masters,2021-04-13,Masters 1000,Outdoor,Clay,1st Round,3,Ruud C.,Rune H.,27,322.0,1927,159.0,6,2,6,1,0,0,0,0,0,0,2021-019
+Monte Carlo,Monte Carlo Masters,2021-04-13,Masters 1000,Outdoor,Clay,1st Round,3,Dimitrov G.,Struff J.L.,17,41.0,2598,1485.0,6,3,6,4,0,0,0,0,0,0,2021-019
+Monte Carlo,Monte Carlo Masters,2021-04-13,Masters 1000,Outdoor,Clay,1st Round,3,Sonego L.,Fucsovics M.,28,40.0,1919,1497.0,6,3,6,4,0,0,0,0,0,0,2021-019
+Monte Carlo,Monte Carlo Masters,2021-04-13,Masters 1000,Outdoor,Clay,1st Round,3,Khachanov K.,Djere L.,23,49.0,2280,1258.0,6,4,6,1,0,0,0,0,0,0,2021-019
+Monte Carlo,Monte Carlo Masters,2021-04-13,Masters 1000,Outdoor,Clay,1st Round,3,Carreno Busta P.,Travaglia S.,12,67.0,2835,1024.0,7,5,7,6,0,0,0,0,0,0,2021-019
+Monte Carlo,Monte Carlo Masters,2021-04-13,Masters 1000,Outdoor,Clay,1st Round,3,Krajinovic F.,Basilashvili N.,37,36.0,1616,1645.0,6,1,2,0,0,0,0,0,0,0,2021-019
+Monte Carlo,Monte Carlo Masters,2021-04-13,Masters 1000,Outdoor,Clay,2nd Round,3,Tsitsipas S.,Karatsev A.,5,29.0,7040,1918.0,6,3,6,4,0,0,0,0,0,0,2021-019
+Monte Carlo,Monte Carlo Masters,2021-04-13,Masters 1000,Outdoor,Clay,2nd Round,3,Davidovich Fokina A.,Berrettini M.,58,10.0,1135,3453.0,7,5,6,3,0,0,0,0,0,0,2021-019
+Monte Carlo,Monte Carlo Masters,2021-04-14,Masters 1000,Outdoor,Clay,2nd Round,3,Dimitrov G.,Chardy J.,17,53.0,2598,1168.0,7,6,6,4,0,0,0,0,0,0,2021-019
+Monte Carlo,Monte Carlo Masters,2021-04-14,Masters 1000,Outdoor,Clay,2nd Round,3,Garin C.,Millman J.,24,44.0,2260,1436.0,6,1,6,4,0,0,0,0,0,0,2021-019
+Monte Carlo,Monte Carlo Masters,2021-04-14,Masters 1000,Outdoor,Clay,2nd Round,3,Rublev A.,Caruso S.,8,89.0,5400,876.0,6,3,6,2,0,0,0,0,0,0,2021-019
+Monte Carlo,Monte Carlo Masters,2021-04-14,Masters 1000,Outdoor,Clay,2nd Round,3,Fognini F.,Thompson J.,18,63.0,2548,1037.0,6,3,6,3,0,0,0,0,0,0,2021-019
+Monte Carlo,Monte Carlo Masters,2021-04-14,Masters 1000,Outdoor,Clay,2nd Round,3,Djokovic N.,Sinner J.,1,22.0,11963,2369.0,6,4,6,2,0,0,0,0,0,0,2021-019
+Monte Carlo,Monte Carlo Masters,2021-04-14,Masters 1000,Outdoor,Clay,2nd Round,3,Ruud C.,Schwartzman D.,27,9.0,1927,3720.0,6,3,6,3,0,0,0,0,0,0,2021-019
+Monte Carlo,Monte Carlo Masters,2021-04-14,Masters 1000,Outdoor,Clay,2nd Round,3,Goffin D.,Cecchinato M.,15,92.0,2750,836.0,6,4,6,0,0,0,0,0,0,0,2021-019
+Monte Carlo,Monte Carlo Masters,2021-04-14,Masters 1000,Outdoor,Clay,2nd Round,3,Pouille L.,Popyrin A.,86,83.0,894,906.0,7,5,2,6,6,3,0,0,0,0,2021-019
+Monte Carlo,Monte Carlo Masters,2021-04-14,Masters 1000,Outdoor,Clay,2nd Round,3,Krajinovic F.,Londero J.I.,37,94.0,1616,822.0,6,0,6,3,0,0,0,0,0,0,2021-019
+Monte Carlo,Monte Carlo Masters,2021-04-14,Masters 1000,Outdoor,Clay,2nd Round,3,Evans D.,Hurkacz H.,33,16.0,1825,2600.0,6,4,6,1,0,0,0,0,0,0,2021-019
+Monte Carlo,Monte Carlo Masters,2021-04-14,Masters 1000,Outdoor,Clay,2nd Round,3,Bautista Agut R.,Paul T.,11,54.0,3090,1155.0,6,3,6,4,0,0,0,0,0,0,2021-019
+Monte Carlo,Monte Carlo Masters,2021-04-14,Masters 1000,Outdoor,Clay,2nd Round,3,Nadal R.,Delbonis F.,3,87.0,9670,884.0,6,1,6,2,0,0,0,0,0,0,2021-019
+Monte Carlo,Monte Carlo Masters,2021-04-14,Masters 1000,Outdoor,Clay,2nd Round,3,Carreno Busta P.,Khachanov K.,12,23.0,2835,2280.0,6,2,6,3,0,0,0,0,0,0,2021-019
+Monte Carlo,Monte Carlo Masters,2021-04-14,Masters 1000,Outdoor,Clay,2nd Round,3,Zverev A.,Sonego L.,6,28.0,6125,1919.0,6,3,6,3,0,0,0,0,0,0,2021-019
+Monte Carlo,Monte Carlo Masters,2021-04-15,Masters 1000,Outdoor,Clay,3rd Round,3,Davidovich Fokina A.,Pouille L.,58,86.0,1135,894.0,6,2,7,6,0,0,0,0,0,0,2021-019
+Monte Carlo,Monte Carlo Masters,2021-04-15,Masters 1000,Outdoor,Clay,3rd Round,3,Tsitsipas S.,Garin C.,5,24.0,7040,2260.0,6,3,6,4,0,0,0,0,0,0,2021-019
+Monte Carlo,Monte Carlo Masters,2021-04-15,Masters 1000,Outdoor,Clay,3rd Round,3,Goffin D.,Zverev A.,15,6.0,2750,6125.0,6,4,7,6,0,0,0,0,0,0,2021-019
+Monte Carlo,Monte Carlo Masters,2021-04-15,Masters 1000,Outdoor,Clay,3rd Round,3,Evans D.,Djokovic N.,33,1.0,1825,11963.0,6,4,7,5,0,0,0,0,0,0,2021-019
+Monte Carlo,Monte Carlo Masters,2021-04-15,Masters 1000,Outdoor,Clay,3rd Round,3,Fognini F.,Krajinovic F.,18,37.0,2548,1616.0,6,2,7,6,0,0,0,0,0,0,2021-019
+Monte Carlo,Monte Carlo Masters,2021-04-15,Masters 1000,Outdoor,Clay,3rd Round,3,Nadal R.,Dimitrov G.,3,17.0,9670,2598.0,6,1,6,1,0,0,0,0,0,0,2021-019
+Monte Carlo,Monte Carlo Masters,2021-04-15,Masters 1000,Outdoor,Clay,3rd Round,3,Rublev A.,Bautista Agut R.,8,11.0,5400,3090.0,7,6,5,7,6,3,0,0,0,0,2021-019
+Monte Carlo,Monte Carlo Masters,2021-04-15,Masters 1000,Outdoor,Clay,3rd Round,3,Ruud C.,Carreno Busta P.,27,12.0,1927,2835.0,7,6,5,7,7,5,0,0,0,0,2021-019
+Monte Carlo,Monte Carlo Masters,2021-04-16,Masters 1000,Outdoor,Clay,Quarterfinals,3,Tsitsipas S.,Davidovich Fokina A.,5,58.0,7040,1135.0,7,5,0,0,0,0,0,0,0,0,2021-019
+Monte Carlo,Monte Carlo Masters,2021-04-16,Masters 1000,Outdoor,Clay,Quarterfinals,3,Evans D.,Goffin D.,33,15.0,1825,2750.0,5,7,6,3,6,4,0,0,0,0,2021-019
+Monte Carlo,Monte Carlo Masters,2021-04-16,Masters 1000,Outdoor,Clay,Quarterfinals,3,Ruud C.,Fognini F.,27,18.0,1927,2548.0,6,4,6,3,0,0,0,0,0,0,2021-019
+Monte Carlo,Monte Carlo Masters,2021-04-16,Masters 1000,Outdoor,Clay,Quarterfinals,3,Rublev A.,Nadal R.,8,3.0,5400,9670.0,6,2,4,6,6,2,0,0,0,0,2021-019
+Monte Carlo,Monte Carlo Masters,2021-04-17,Masters 1000,Outdoor,Clay,Semifinals,3,Tsitsipas S.,Evans D.,5,33.0,7040,1825.0,6,2,6,1,0,0,0,0,0,0,2021-019
+Monte Carlo,Monte Carlo Masters,2021-04-17,Masters 1000,Outdoor,Clay,Semifinals,3,Rublev A.,Ruud C.,8,27.0,5400,1927.0,6,3,7,5,0,0,0,0,0,0,2021-019
+Monte Carlo,Monte Carlo Masters,2021-04-18,Masters 1000,Outdoor,Clay,The Final,3,Tsitsipas S.,Rublev A.,5,8.0,7040,5400.0,6,3,6,3,0,0,0,0,0,0,2021-019

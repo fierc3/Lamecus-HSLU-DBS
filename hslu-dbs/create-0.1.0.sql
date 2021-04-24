@@ -104,4 +104,10 @@ ADD UNIQUE INDEX `name_UNIQUE` (`name` ASC) VISIBLE;
 ;
 
 
+ALTER TABLE `lamecus`.`tournament` 
+ADD UNIQUE INDEX `name_UNIQUE` (`name` ASC) VISIBLE;
+;
+
+
+
 
