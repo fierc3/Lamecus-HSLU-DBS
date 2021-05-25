@@ -13,12 +13,16 @@
 */
 
 
-/*				Tournament start  			*/
+/*********************Tournament start    /  User Input   ***************************/
 SET @stId = 1;
 SET @maxDate = date('2018/8/13');
-SET @tId = 2065; /*frenchopen=2467, usopen=2065*/
+SET @tId = 2467; /*frenchopen=2467, usopen=2065*/
+
+INSERT INTO simulatedtournament (stId, tId, startDate)  SELECT @stId, @tId, @maxDate;
+/************************************************************************************/
 
 
+/*********************Setup bracket******************************/
 SET @round = 1;
 SET @participantCount = 0;
 
@@ -27,13 +31,12 @@ SELECT COUNT(pId) INTO @participantCount FROM simulatedparticipant as sp WHERE s
 
 INSERT INTO simulatedmatch(stId, matchDate, sp1Id, sp2Id, round, p1Odds, p2Odds)
 SELECT @stId, @maxDate, p1.spId, p2.spId, @round, -1000,-1000 FROM simulatedparticipant p1, simulatedparticipant p2 WHERE p1.position/2 != FORMAT(p1.position/2,0) AND p1.position + 1 = p2.position;
+/*******************************************************************/
 
 
 
 
-
-/*PER MATCH LOGIC */
-
+/********************PER MATCH LOGIC *********************/
 SET @player1 = cast(0 as decimal);
 SET @player2 = cast(0 as decimal);
 SET @matchId = 0;
@@ -51,10 +54,10 @@ SELECT @player1, @player1Odds, @player2, @player2Odds;
 Update simulatedmatch 
 SET p1Odds = @player1Odds, p2Odds = @player2Odds
 WHERE smId = @matchId;
+/***********************************************************/
 
 
-
-/*generate matches next round*/
+/********************generate matches next round********************/
 SET @round = @round+1;
 SET @rownum := 0;
 SELECT @round;
@@ -74,5 +77,5 @@ SELECT  @stId, @maxDate, p1.spId, p2.spId, @round, -1000,-1000 FROM homeplayers 
 DROP TEMPORARY TABLE tempmatches;
 DROP TEMPORARY TABLE homeplayers;
 DROP TEMPORARY TABLE awayplayers;
-
+/*********************************************************************/
 
